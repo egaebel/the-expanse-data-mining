@@ -1,0 +1,1 @@
+epub.open_epub("the-expanse/the-expanse-1-leviathan-wakes.epub").read_item([tuple(zip(nav_point.play_order, nav_point.labels[0], [nav_point.src]))[0] for nav_point in lw.toc.nav_map.nav_point][0][2])
