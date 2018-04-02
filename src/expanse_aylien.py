@@ -8,17 +8,17 @@ import matplotlib.pyplot as plt
 import numpy as np
 import re
 
-AYLIEN_APP_ID = "7fe8de1d"
-AYLIEN_APP_KEY = "ef49f063d5cb17a97f158e43de5f7747"
+AYLIEN_APP_ID = None # "7fe8de1d"
+AYLIEN_APP_KEY = None # "ef49f063d5cb17a97f158e43de5f7747"
 
 FILES_DIR = "../the-expanse/"
 FILE_PREFIX = "the-expanse-"
 CHAPTER_FILES_DIR = os.path.join(FILES_DIR, "chapters")
 
-def extract_sentiment(directory=CHAPTER_FILES_DIR):
-    calls_since_last_sleep = 0
+RATE_LIMIT_PER_MINUTE = 100
 
-    aylien_client = _get_aylien_client()
+def extract_sentiment(aylien_client, directory=CHAPTER_FILES_DIR):
+    calls_since_last_sleep = 0
     # Ignore hidden files and files that aren't .txt files
     sorted_valid_file_names = list(filter(
         lambda x: x.find(".txt") != -1 and x.find(".") != 0,
@@ -43,7 +43,9 @@ def extract_sentiment(directory=CHAPTER_FILES_DIR):
                 sentiment = None
                 try:
                     if calls_since_last_sleep >= RATE_LIMIT_PER_MINUTE:
+                        print("Sleeping to respect aylien rate limit...")
                         sleep(60)
+                        print("Done sleeping!")
                         calls_since_last_sleep = 0
                     sentiment = aylien_client.Sentiment({'text': sentence})
                     calls_since_last_sleep += 1
@@ -96,10 +98,27 @@ def extract_sentiment(directory=CHAPTER_FILES_DIR):
         return
 
 
+def _load_aylien_credentials():
+    global AYLIEN_APP_ID
+    global AYLIEN_APP_KEY
+    aylien_app_id_text = "AYLIEN_APP_ID ="
+    aylien_app_key_text = "AYLIEN_APP_KEY ="
+    with open("aylien_credentials.txt", "r") as aylien_cred_file:
+        for line in aylien_cred_file:
+            print("line: %s" % line)
+            if line.find(aylien_app_id_text) != -1:
+                AYLIEN_APP_ID = line.replace(aylien_app_id_text, "").strip()
+                print("set app id")
+            if line.find(aylien_app_key_text) != -1:
+                AYLIEN_APP_KEY = line.replace(aylien_app_key_text, "").strip()
+                print("set app key")
 
 def _get_aylien_client(
         aylien_app_id=AYLIEN_APP_ID, aylien_app_key=AYLIEN_APP_KEY):
+    print("aylien_app_id: %s" % aylien_app_id)
+    print("aylien_app_key: %s" % aylien_app_key)
     return textapi.Client(aylien_app_id, aylien_app_key)
 
 if __name__ == '__main__':
-    extract_sentiment()
+    _load_aylien_credentials()
+    extract_sentiment(_get_aylien_client(AYLIEN_APP_ID, AYLIEN_APP_KEY))
