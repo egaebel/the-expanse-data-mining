@@ -4,7 +4,8 @@ import html2text
 import os
 import re
 
-FILES_DIR = "the-expanse/"
+FILES_DIR = "../the-expanse/"
+CHAPTER_FILES_DIR = os.path.join(FILES_DIR, "chapters")
 VALID_CHAPTER_FORMATS = [
     "Prologue: .+",
     "Chapter [^ ]+: .+",
@@ -82,9 +83,18 @@ for epub_file_name in expanse_epub_files:
                     % (book_title, ref_fixed))
         chapter_content = html_to_text.handle(str(chapter_content.decode('utf-8')))
         print("Chapter content: %s" % chapter_content)
-        full_book_content.append(chapter_content)
+        full_book_content.append((chapter_order, chapter_title, chapter_content))
     with open(os.path.join(FILES_DIR, epub_file_name.replace(".epub", ".txt")), "w") as txt_file:
-        for chapter in full_book_content:
-            txt_file.write(chapter)
+        for chapter_tuple in full_book_content:
+            order = chapter_tuple[0]
+            title = chapter_tuple[1]
+            content = chapter_tuple[2]
+            txt_file.write(content)
+
+            chapter_file_name = epub_file_name.replace(".epub", "")
+            chapter_file_name += "--" + order.zfill(3) + "--" + title
+            chapter_file_name += ".txt"
+            with open(os.path.join(CHAPTER_FILES_DIR, chapter_file_name), "w") as chapter_txt_file:
+                chapter_txt_file.write(content)
     ebook.close()
     print("==========================================================================\n\n\n")
