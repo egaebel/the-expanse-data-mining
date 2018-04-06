@@ -8,8 +8,10 @@ import matplotlib.pyplot as plt
 import numpy as np
 import re
 
-AYLIEN_APP_ID = None # "7fe8de1d"
-AYLIEN_APP_KEY = None # "ef49f063d5cb17a97f158e43de5f7747"
+AYLIEN_APP_ID = None
+AYLIEN_APP_KEY = None
+AYLIEN_CACHE = "aylien-cache"
+AYLIEN_SENTIMENT_CACHE = os.path.join(AYLIEN_CACHE, "sentiment")
 
 FILES_DIR = "../the-expanse/"
 FILE_PREFIX = "the-expanse-"
@@ -17,7 +19,36 @@ CHAPTER_FILES_DIR = os.path.join(FILES_DIR, "chapters")
 
 RATE_LIMIT_PER_MINUTE = 100
 
-def extract_sentiment(aylien_client, directory=CHAPTER_FILES_DIR):
+class AylienCachingClient():
+    def __init__(self, aylien_client):
+        self.aylien_client = aylien_client
+
+    def _create_cache(self, cache_folder):
+        try:
+            os.mkdir(AYLIEN_CACHE)
+        except:
+            pass
+        try:
+            os.mkdir(cache_folder)
+        except:
+            pass
+
+    def sentiment(self, sentence):
+        _create_cache(AYLIEN_SENTIMENT_CACHE)
+        sentence_cache_file_name = str(sentence)\
+            .replace(",", "")\
+            .replace("**", "")\
+            .replace(";", "")[:255]
+        file_path = os.path.join(
+            AYLIEN_SENTIMENT_CACHE, sentence_cache_file_name)
+        if os.path.exists(file_path):
+            with open(file_path, "r") as sentiment_response_file:
+                response = sentiment_response_file.read()
+        else:
+            response = self.aylien_client.Sentiment({'text': sentence})
+        return response
+
+def extract_sentiment(aylien_caching_client, directory=CHAPTER_FILES_DIR):
     calls_since_last_sleep = 0
     # Ignore hidden files and files that aren't .txt files
     sorted_valid_file_names = list(filter(
@@ -47,7 +78,7 @@ def extract_sentiment(aylien_client, directory=CHAPTER_FILES_DIR):
                         sleep(60)
                         print("Done sleeping!")
                         calls_since_last_sleep = 0
-                    sentiment = aylien_client.Sentiment({'text': sentence})
+                    sentiment = aylien_caching_client
                     calls_since_last_sleep += 1
                 except Exception as e:
                     print("Made request with sentence: %s" % sentence)
@@ -121,4 +152,4 @@ def _get_aylien_client(
 
 if __name__ == '__main__':
     _load_aylien_credentials()
-    extract_sentiment(_get_aylien_client(AYLIEN_APP_ID, AYLIEN_APP_KEY))
+    extract_sentiment(AylienCachingClient(_get_aylien_client(AYLIEN_APP_ID, AYLIEN_APP_KEY)))
