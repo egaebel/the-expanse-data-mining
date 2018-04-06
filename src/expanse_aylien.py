@@ -1,12 +1,14 @@
 from aylienapiclient import textapi
 from time import sleep
 
+import json
 import os
 import matplotlib
 matplotlib.use('tkagg')
 import matplotlib.pyplot as plt
 import numpy as np
 import re
+import sys
 
 AYLIEN_APP_ID = None
 AYLIEN_APP_KEY = None
@@ -18,10 +20,13 @@ FILE_PREFIX = "the-expanse-"
 CHAPTER_FILES_DIR = os.path.join(FILES_DIR, "chapters")
 
 RATE_LIMIT_PER_MINUTE = 100
+RATE_LIMIT_PER_DAY = 1000
 
 class AylienCachingClient():
     def __init__(self, aylien_client):
         self.aylien_client = aylien_client
+        self.calls_since_last_sleep = 0
+        self.calls_since_instantiation = 0
 
     def _create_cache(self, cache_folder):
         try:
@@ -34,22 +39,47 @@ class AylienCachingClient():
             pass
 
     def sentiment(self, sentence):
-        _create_cache(AYLIEN_SENTIMENT_CACHE)
+        print("sentence: ||%s||" % sentence)
+        self._create_cache(AYLIEN_SENTIMENT_CACHE)
         sentence_cache_file_name = str(sentence)\
             .replace(",", "")\
-            .replace("**", "")\
-            .replace(";", "")[:255]
+            .replace(";", "")\
+            .replace(" ", "-")\
+            .replace("/", "--slash--")[:255]
         file_path = os.path.join(
             AYLIEN_SENTIMENT_CACHE, sentence_cache_file_name)
+        print("File path: %s" % file_path)
+        response = None
         if os.path.exists(file_path):
             with open(file_path, "r") as sentiment_response_file:
-                response = sentiment_response_file.read()
+                response = json.loads(sentiment_response_file.read())
         else:
-            response = self.aylien_client.Sentiment({'text': sentence})
+            # Rate limiting
+            if self.calls_since_instantiation >= RATE_LIMIT_PER_DAY:
+                sys.exit()
+            if self.calls_since_last_sleep >= RATE_LIMIT_PER_MINUTE:
+                print("Sleeping to respect aylien rate limit...")
+                sleep(60)
+                print("Done sleeping!")
+                self.calls_since_last_sleep = 0
+            self.calls_since_instantiation += 1
+            self.calls_since_last_sleep += 1
+            try:
+                response = self.aylien_client.Sentiment({'text': sentence})
+            except Exception as e:
+                print("Made request with sentence: %s" % sentence)
+                try:
+                    print("Exception: %s" % e)
+                except Exception as e2:
+                    print("Exception while handling exception...")
+                    print("Exception: %s" % e2)
+            if response is not None:
+                with open(file_path, "w") as sentiment_response_file:
+                    sentiment_response_file.write(json.dumps(response))
+
         return response
 
 def extract_sentiment(aylien_caching_client, directory=CHAPTER_FILES_DIR):
-    calls_since_last_sleep = 0
     # Ignore hidden files and files that aren't .txt files
     sorted_valid_file_names = list(filter(
         lambda x: x.find(".txt") != -1 and x.find(".") != 0,
@@ -71,22 +101,10 @@ def extract_sentiment(aylien_caching_client, directory=CHAPTER_FILES_DIR):
             full_book = re.sub(" +", " ", full_book)
             sentences = full_book.split(".")
             for sentence in sentences:
-                sentiment = None
-                try:
-                    if calls_since_last_sleep >= RATE_LIMIT_PER_MINUTE:
-                        print("Sleeping to respect aylien rate limit...")
-                        sleep(60)
-                        print("Done sleeping!")
-                        calls_since_last_sleep = 0
-                    sentiment = aylien_caching_client
-                    calls_since_last_sleep += 1
-                except Exception as e:
-                    print("Made request with sentence: %s" % sentence)
-                    try:
-                        print("Exception: %s" % e)
-                    except Exception as e2:
-                        print("Exception while handling exception...")
-                        print("Exception: %s" % e2)
+                sentence = sentence.strip()
+                if not sentence:
+                    continue
+                sentiment = aylien_caching_client.sentiment(sentence)
                 print("Sentence sentiment tuple: %s" % str((sentence, sentiment)))
                 if sentiment is not None:
                     sentence_sentiment_tuples.append((sentence, sentiment))
