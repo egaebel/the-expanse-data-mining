@@ -61,7 +61,6 @@ def average_sentence_lengths():
 def get_words_to_counts(txt_file_name, files_dir=FILES_DIR):
     with open(os.path.join(files_dir, txt_file_name), "r") as txt_file:
         full_book = txt_file.read()
-        full_book
         full_book_no_punctuation = re.sub(PUNCTUATION_REGEX, "", full_book).replace("\u201c", "").replace("\u2013", "")
         full_book_words = full_book_no_punctuation.split(" ")
         words_to_counts = dict()
@@ -112,6 +111,33 @@ def get_top_n_words(n_words=20):
                     sorted_items[:n_words]))))
         print("=========================================================\n\n\n")
 
+def count_sentences(files_dir=None):
+    if files_dir is None:
+        files_dir = FILES_DIR
+    print("files_dir: ||%s||" % files_dir)
+    book_sentence_count_tuples = list()
+    for txt_file_name in os.listdir(files_dir):
+        # Ignore hidden files
+        if txt_file_name[0] == '.':
+            continue
+        # Ignore files that don't have the epub extension
+        if os.path.splitext(txt_file_name)[1] != ".txt":
+            continue
+        
+        with open(os.path.join(files_dir, txt_file_name), "r") as txt_file:
+            full_book = txt_file.read()
+            full_book_sentences = full_book.split(".")
+            book_sentence_count_tuples.append(
+                (txt_file_name, len(full_book_sentences)))
+
+    total_sentence_count = 0
+    for book_sentence_count_tuple in book_sentence_count_tuples:
+        book_name = book_sentence_count_tuple[0]
+        sentence_count = book_sentence_count_tuple[1]
+        total_sentence_count += sentence_count
+        print("Book %s has: %d sentences." % (book_name, sentence_count))
+    print("\nThe Expanse series has: %d sentences (currently)."
+        % total_sentence_count)
 
 if __name__ == '__main__':
-    get_top_n_words(50)
+    count_sentences()
