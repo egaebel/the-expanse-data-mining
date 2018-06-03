@@ -1,0 +1,7262 @@
+Processing entities for files: the-expanse-1-leviathan-wakes.txt
+the-expanse-2-calibans-war.txt
+the-expanse-3-abaddons-gate.txt
+the-expanse-4-cibola-burn.txt
+the-expanse-5-nemesis-games.txt
+the-expanse-6-babylons-ashes.txt
+the-expanse-7-persepolis-rising.txt
+Processing file name: the-expanse-1-leviathan-wakes.txt
+Extracting named entities from 14793 sentences.
+Extracted entities!
+Aggregating entities across sentences.
+Aggregated entities!
+Processing file name: the-expanse-2-calibans-war.txt
+Extracting named entities from 14394 sentences.
+Extracted entities!
+Aggregating entities across sentences.
+Aggregated entities!
+Processing file name: the-expanse-3-abaddons-gate.txt
+Extracting named entities from 14330 sentences.
+Extracted entities!
+Aggregating entities across sentences.
+Aggregated entities!
+Processing file name: the-expanse-4-cibola-burn.txt
+Extracting named entities from 15016 sentences.
+Extracted entities!
+Aggregating entities across sentences.
+Aggregated entities!
+Processing file name: the-expanse-5-nemesis-games.txt
+Extracting named entities from 14268 sentences.
+Extracted entities!
+Aggregating entities across sentences.
+Aggregated entities!
+Processing file name: the-expanse-6-babylons-ashes.txt
+Extracting named entities from 14564 sentences.
+Extracted entities!
+Aggregating entities across sentences.
+Aggregated entities!
+Processing file name: the-expanse-7-persepolis-rising.txt
+Extracting named entities from 14110 sentences.
+Extracted entities!
+Aggregating entities across sentences.
+Aggregated entities!
+Processed all entities.
+Outputting entities for files: the-expanse-1-leviathan-wakes.txt
+the-expanse-2-calibans-war.txt
+the-expanse-3-abaddons-gate.txt
+the-expanse-4-cibola-burn.txt
+the-expanse-5-nemesis-games.txt
+the-expanse-6-babylons-ashes.txt
+the-expanse-7-persepolis-rising.txt
+Top Entities for the-expanse-1-leviathan-wakes.txt:
+miller--nnp: 1655
+holden--nnp: 1518
+naomi--nnp: 532
+amos--nnp: 332
+alex--nnp: 323
+fred--nnp: 274
+eros--nnp: 240
+julie--nnp: 160
+opa--nnp: 151
+havelock--nnp: 148
+belt--nnp: 137
+earth--nnp: 113
+mars--nnp: 89
+roci--nnp: 79
+shaddid--nnp: 78
+martian--jj: 78
+rocinante--nnp: 63
+dresden--nnp: 63
+okay--nnp: 62
+ceres--nnp: 62
+scopuli--nnp: 54
+canterbury--nnp: 53
+donnager--nnp: 50
+tycho--nnp: 50
+mcdowell--nnp: 49
+don--nnp: 49
+jim--nnp: 49
+shed--nnp: 46
+nauvoo--nnp: 44
+protogen--nnp: 44
+diogo--nnp: 44
+kelly--nnp: 43
+dawes--nnp: 43
+captain--nnp: 41
+ade--nnp: 40
+knight--nnp: 39
+muss--nnp: 37
+cap--nnp: 36
+sematimba--nnp: 29
+earth--nn: 29
+cant--nnp: 26
+ceres--nns: 21
+belters--nnp: 20
+gomez--nnp: 20
+boss--nnp: 20
+someone--nn: 19
+star helix--nnp-nnp: 18
+hasini--nnp: 18
+julie mao--nnp-nnp: 18
+phoebe--nnp: 17
+venus--nnp: 17
+fred johnson--nnp-nnp: 16
+mao--nnp: 16
+ravi--nnp: 16
+lopez--nnp: 16
+becca--nnp: 16
+thoth--nnp: 16
+detective--nnp: 15
+shit--nnp: 15
+ganymede--nnp: 14
+saturn--nnp: 14
+might--nnp: 14
+eros--nns: 13
+canterbury--nn: 13
+luna--nnp: 13
+james holden--nnp-nnp: 13
+martian--nnp: 12
+belter--nnp: 12
+mcrn--nnp: 12
+sam--nnp: 12
+pallas--nnp: 12
+coalition--nnp: 12
+tell--nnp: 11
+ko--nnp: 11
+belters--nns: 11
+shirtless--nnp: 11
+no--nnp: 11
+roger--nnp: 11
+mcbride--nnp: 10
+new--nnp: 10
+johnson--nnp: 10
+men--nn: 10
+paj--nnp: 10
+tycho station--nnp-nnp: 10
+juliette--nnp: 10
+candace--nnp: 10
+jupiter--nnp: 9
+anderson station--nnp-nnp: 9
+un--nnp: 9
+unn--nnp: 9
+didn--nnp: 9
+earther--nnp: 9
+jesus--nnp: 9
+pampaw--nnp: 9
+sorry--nnp: 8
+lieutenant kelly--nnp-nnp: 8
+pdcs--nnp: 8
+epstein--nnp: 8
+mars--nns: 8
+blue frog--nnp-nnp: 8
+eros station--nnp-nnp: 8
+doesn--nnp: 8
+saturn station--nnp-nnp: 7
+dowd--nnp: 7
+right--nnp: 7
+gunderson--nnp: 7
+juliette mao--nnp-nnp: 7
+bomie--nnp: 7
+colonel johnson--nnp-nnp: 7
+captain shaddid--nnp-nnp: 7
+molinari--nnp: 6
+thoth station--nnp-nnp: 6
+hell--nnp: 6
+look--nnp: 6
+europa--nnp: 6
+kamal--nnp: 6
+razorback--nnp: 6
+xo--nnp: 6
+brown--nnp: 6
+ceres station--nnp-nnp: 6
+hold--nnp: 6
+montana--nnp: 6
+loca greiga--nnp-nnp: 6
+golden bough--nnp-nnp: 6
+detective miller--nnp-nnp: 6
+protogen--nn: 5
+nothing--nn: 5
+j mao--n-nnp: 5
+sir--nnp: 5
+good--jj: 5
+naomi--nn: 5
+el tee--nnp-nnp: 5
+hud--nnp: 5
+which--nnp: 5
+how--nnp: 5
+the--nnp: 5
+klaxon--nnp: 5
+hindi--nnp: 5
+guy molinari--nnp-nnp: 5
+fifteen--nnp: 5
+lionel--nnp: 5
+please--nnp: 5
+station--nnp: 5
+captain mcdowell--nnp-nnp: 5
+led--nnp: 5
+yep--nnp: 5
+anyone--nn: 5
+g society--n-nnp: 5
+andromeda mao--nnp-nnp: 5
+everyone--nn: 4
+make--nnp: 4
+bad--nnp: 4
+light--nnp: 4
+who--nnp: 4
+scipio--nnp: 4
+gelbfish--nnp: 4
+was--nnp: 4
+which--wdt: 4
+daddy--nnp: 4
+yao--nnp: 4
+plan--nn: 4
+martians--nnps: 4
+nah--nnp: 4
+coriolis--nnp: 4
+donnie--nnp: 4
+haven--nnp: 4
+leds--nnp: 4
+good--nnp: 4
+p--nnp: 4
+tachi--nnp: 4
+jim holden--nnp-nnp: 4
+ladar--nnp: 4
+mcrn donnager--nnp-nnp: 4
+mateo judd--nnp-nnp: 4
+eva--nnp: 4
+s security--n-nnp: 4
+lionel polanski--nnp-nnp: 4
+god--nnp: 4
+chief--nnp: 4
+polanski--nnp: 3
+misko--nnp: 3
+o alliance--n-nnp: 3
+swat--nnp: 3
+listen--nnp: 3
+marisko--nnp: 3
+colonel--nnp: 3
+jesus christ--nnp-nnp: 3
+black--nnp: 3
+okay--nn: 3
+opa--nn: 3
+shit--nn: 3
+captain yao--nnp-nnp: 3
+medical--jj: 3
+armageddon--nnp: 3
+aren--nnp: 3
+captain--nn: 3
+part--nn: 3
+shouldn--nnp: 3
+riot--nnp: 3
+captain holden--nnp-nnp: 3
+anderson dawes--nnp-nnp: 3
+lieutenant--nnp: 3
+pdc--nnp: 3
+network--nnp: 3
+sohiro--nnp: 3
+olympus mons--nnp-nnp: 3
+girl--nnp: 3
+goddamn--nnp: 3
+comm--nnp: 3
+sorry--nn: 3
+hours--nnp: 3
+too--nnp: 3
+alex kamal--nnp-nnp: 3
+un navy--nnp-nnp: 3
+huh--nnp: 3
+stupid--nnp: 2
+personal--nnp: 2
+get--nnp: 2
+yevgeny--nnp: 2
+dna--nnp: 2
+wallace fitz--nnp-nnp: 2
+air--nnp: 2
+damn--nnp: 2
+total--jj: 2
+sematimba--nn: 2
+anderson--nnp: 2
+talk--nn: 2
+panic--nnp: 2
+normal--jj: 2
+thanks--nnp: 2
+lyell--nnp: 2
+dos santos--nnp-nnp: 2
+russian--jj: 2
+faster--nnp: 2
+eros--nn: 2
+navy--nnp: 2
+callisto--nnp: 2
+cic--nnp: 2
+grab--nnp: 2
+mars navy--nnp-nnp: 2
+look--nn: 2
+cobb--nnp: 2
+part--nnp: 2
+great--nn: 2
+stupid--jj: 2
+chinese--nnp: 2
+dave--nnp: 2
+stay--nnp: 2
+ceres--nnps: 2
+hard--nnp: 2
+brothels--nns: 2
+heavy--nnp: 2
+yao--nn: 2
+james--nnp: 2
+mateo--nnp: 2
+marconi--nnp: 2
+mormons--nnp: 2
+pale--nnp: 2
+ceres center--nnp-nnp: 2
+wasn--nnp: 2
+sex--nn: 2
+hieronymous bosch--nnp-nnp: 2
+i dowd--n-nnp: 2
+titan--nnp: 2
+you--nnp: 2
+fuckin--nnp: 2
+gas--nnp: 2
+busted--nnp: 2
+mole--nnp: 2
+cameron--nnp: 2
+fifty--nnp: 2
+anyone--nnp: 2
+white--nnp: 2
+spanish--jj: 2
+gravity--nnp: 2
+genghis khan--nnp-nnp: 2
+seems--nnp: 2
+hello--nnp: 2
+loud--nnp: 2
+funny--nnp: 2
+wouldn--nnp: 2
+havelock--nn: 2
+united nations--nnp-nnps: 2
+just--nnp: 2
+emergency--nnp: 2
+io--nnp: 2
+loud--jj: 2
+tubes--nnp: 2
+mother--nnp: 2
+dark--nnp: 2
+but--nnp: 2
+mine--nnp: 2
+radar--nn: 2
+star--nnp: 2
+shut--nnp: 2
+unn command--nnp-nnp: 2
+hang--nnp: 2
+mother elise--nnp-nnp: 2
+will--nnp: 2
+english--nnp: 2
+semi--nnp: 2
+elise--nnp: 2
+earth--jj: 2
+c yao--n-nnp: 2
+gone--nnp: 2
+security--nn: 2
+spartan--nnp: 2
+don quixote--nnp-nnp: 2
+meat--nn: 2
+bandon--nnp: 2
+same--nn: 2
+reactor--nnp: 2
+ceres station--nns-nnp: 2
+kids--nnp: 2
+data--nnp: 2
+d lounge--n-nnp: 2
+xo--nn: 2
+captain darren--nnp-nnp: 2
+santos--nnp: 2
+long--jj: 2
+shoot--nnp: 2
+fear--nn: 2
+got--nnp: 2
+donnanger--nnp: 2
+heat--nnp: 2
+thank--nn: 2
+fast--nnp: 2
+christ--nnp: 2
+jiu jitsu--nnp-nnp: 2
+tiny--jj: 2
+wow--nnp: 2
+gabby smalls--nnp-nnp: 2
+ba834024112--nnp: 2
+donnager--nn: 2
+blood--nn: 2
+ceres station--nnps-nnp: 2
+hadn--nnp: 2
+missiles--nnp: 2
+again--nnp: 2
+lieutenant lopez--nnp-nnp: 2
+are--nnp: 2
+ariadne--nnp: 2
+feel--nnp: 2
+deimos--nnp: 2
+razorback--nn: 2
+course--nnp: 2
+afterward--nnp: 2
+question--nn: 1
+sweat--nn: 1
+hurry--nnp: 1
+slowly--nnp: 1
+ha--nn: 1
+pallas--nns: 1
+sweetie--nn: 1
+panic--nn: 1
+sixteen--nnp: 1
+klaxons--nnp: 1
+father tom--nnp-nnp: 1
+darwin--nnp: 1
+mariner valley--nnp-nnp: 1
+phoebe station--nnp-nnp: 1
+stop--nnp: 1
+move earth--nnp-nnp: 1
+korean--jj: 1
+unidentified--nnp: 1
+al--nnp: 1
+broke--nnp: 1
+sloppy--jj: 1
+loca--nnp: 1
+buona--nnp: 1
+neptune--nnp: 1
+trans01--nnp: 1
+slow--nnp: 1
+roger--nn: 1
+round--nnp: 1
+makes--nnp: 1
+belters for--nns-in: 1
+venusian--jj: 1
+sorormaya--nnp: 1
+arm--nnp: 1
+chapter nine--nnp-nnp: 1
+detour--nnp: 1
+little--jj: 1
+detective--nn: 1
+mak--nnp: 1
+club--nnp: 1
+khan--nnp: 1
+talbot leeds--nnp-nnp: 1
+does--nnp: 1
+incognito--nnp: 1
+thirty--nnp: 1
+lump--nn: 1
+head--nn: 1
+josephus--nnp: 1
+range--nnp: 1
+maokwik--nnp: 1
+drop--nnp: 1
+chapter eleven--nnp-nnp: 1
+c navy--n-nnp: 1
+same--nnp: 1
+order--nn: 1
+wet--nnp: 1
+heck--nnp: 1
+report--nn: 1
+sticky--nnp: 1
+rise--nnp: 1
+case--nn: 1
+earthlily--nnp: 1
+naw--nnp: 1
+christmas--nnp: 1
+chapter thirty--nnp-nnp: 1
+parents--nnp: 1
+couldn--nnp: 1
+ohmygod--nnp: 1
+tycho--nn: 1
+triton--nnp: 1
+shuttle cons--nnp-nnp: 1
+deal--nnp: 1
+bare--nnp: 1
+lost--nnp: 1
+casualty--nnp: 1
+gun--nnp: 1
+xinglong--nnp: 1
+iapetus--nnp: 1
+c johnson----nnp: 1
+sounds--nnp: 1
+carson--nnp: 1
+jesus--nn: 1
+goody--nnp: 1
+east indians--nnp-nnps: 1
+methodists--nns: 1
+fate--nn: 1
+s trikoloski--n-nnp: 1
+vacuum--nn: 1
+un naval--nnp-nnp: 1
+wife--nnp: 1
+east indian--nnp-nnp: 1
+u navy--n-nnp: 1
+available--nnp: 1
+mobility--nnp: 1
+roman--nnp: 1
+olympus--nnp: 1
+see--nnp: 1
+judgment--nn: 1
+intercepted--nnp: 1
+rebecca byers--nnp-nnp: 1
+food--nnp: 1
+time--nn: 1
+hariri--nnp: 1
+partner--nnp: 1
+long--nnp: 1
+move--nnp: 1
+dawes--nn: 1
+needles--nnp: 1
+loses--nnp: 1
+shape--nn: 1
+basic--jj: 1
+keeps--nnp: 1
+flight--nnp: 1
+amos--nns: 1
+problems--nnp: 1
+yellow--jj: 1
+full--nnp: 1
+work--nn: 1
+al abbiq—hung--nnp-nnp: 1
+deep--nnp: 1
+darren--nnp: 1
+badass motherfucker--nnp-nnp: 1
+strange--nnp: 1
+mariner--nnp: 1
+gah--nnp: 1
+ira--nnp: 1
+tissue--nn: 1
+m no--n-nnp: 1
+k company--n-nnp: 1
+arabic--nnp: 1
+true--nn: 1
+mother tamara--nnp-nnp: 1
+swiss--jj: 1
+greed--nnp: 1
+three--nnp: 1
+which--jj: 1
+european--jj: 1
+mains--nnp: 1
+snake--nnp: 1
+south--jj: 1
+water--nnp: 1
+show--nnp: 1
+chucky snails--nnp-nnp: 1
+violence--nn: 1
+platinum--nnp: 1
+epstein drive--nnp-nnp: 1
+sample--nn: 1
+again--nn: 1
+stoic--nn: 1
+scipio africanus--nnp-nnp: 1
+burst--nnp: 1
+student--nn: 1
+german--nnp: 1
+dmitri havelock--nnp-nnp: 1
+battle--nnp: 1
+randolph--nnp: 1
+aberforth--nn: 1
+communication--nn: 1
+mommy--nnp: 1
+say--nnp: 1
+focus--nnp: 1
+captain mcbride--nnp-nnp: 1
+friend--nn: 1
+shopping--nn: 1
+co2--nnp: 1
+associated--nnp: 1
+territory--nn: 1
+oq117--nnp: 1
+adequate--nnp: 1
+orbital--jj: 1
+keep--nnp: 1
+f johnson--n-nnp: 1
+javier liu--nnp-nnp: 1
+local--jj: 1
+this--nnp: 1
+muller--nnp: 1
+ve--nnp: 1
+core--nn: 1
+music--jj: 1
+sleep--nnp: 1
+phantom--nnp: 1
+whale--nnp: 1
+genghis kahn--nnp-nnp: 1
+pinnace--nn: 1
+red martials--nnp-nnp: 1
+pampaw--nn: 1
+adrianopole--nnp: 1
+daddy warbucks--nnp-nnp: 1
+carne por--nnp-nnp: 1
+ready--jj: 1
+mumbai--nnp: 1
+african--jj: 1
+ship--nnp: 1
+recycled--nnp: 1
+belowdecks--nns: 1
+chapter eight--nnp-nnp: 1
+second--jj: 1
+acima--nnp: 1
+liquor--nnp: 1
+japanese--jj: 1
+scientific--jj: 1
+sound--nnp: 1
+howdy--nnp: 1
+help--nn: 1
+really--nnp: 1
+mikey--nnp: 1
+incomplete--nnp: 1
+jmao--nnp: 1
+crossed--jj: 1
+elaborate--nnp: 1
+explain--nnp: 1
+deck--nnp: 1
+j gentlemen--n-nnp: 1
+interested--jj: 1
+access--nnp: 1
+earther sheriff--nnp-nnp: 1
+soft--jj: 1
+moldy filters--nnp-nnp: 1
+titania--nnp: 1
+african--nnp: 1
+us--nnp: 1
+mormon--nnp: 1
+patel--nnp: 1
+schlauch--nnp: 1
+fuck--nnp: 1
+drive--nnp: 1
+stealth--nn: 1
+malthus tycho--nnp-nnp: 1
+aryan flyers--nnp-nnp: 1
+dos--nnp: 1
+maintainin--nnp: 1
+could--nnp: 1
+looks--nnp: 1
+loops--nnp: 1
+twelve--nnp: 1
+comfortable--nnp: 1
+shed garvey--nnp-nnp: 1
+wide--nnp: 1
+moses--nnp: 1
+came--nnp: 1
+gon--nnp: 1
+inner--nnp: 1
+a group--n-nnp: 1
+m navy----nnp: 1
+burns--nnp: 1
+apology--nnp: 1
+vermont cheddar--nnp-nnp: 1
+knives--nns: 1
+stairs--nnp: 1
+side--nn: 1
+analysis--nn: 1
+clean--nnp: 1
+poker--nnp: 1
+methodist--nn: 1
+sleep--nn: 1
+inspector sematimba--nnp-nnp: 1
+message--nnp: 1
+sociopath--nnp: 1
+neural--jj: 1
+harder--nn: 1
+shirtless--nn: 1
+charles lyell--nnp-nnp: 1
+chapter twenty--nnp-nnp: 1
+cast--nn: 1
+aloisus miller--nnp-nnp: 1
+add--nnp: 1
+dropped--nnp: 1
+wonder--nnp: 1
+tappan--nnp: 1
+genital--nnp: 1
+lights--nns: 1
+call--nnp: 1
+octavia muss--nnp-nnp: 1
+guessin--nnp: 1
+thirty--nn: 1
+communicate--nn: 1
+bredon--nnp: 1
+richter--nnp: 1
+mck--nn: 1
+corvus--nnp: 1
+javier--nnp: 1
+n consortium--n-nnp: 1
+try--nnp: 1
+chapter thirteen--nnp-nnp: 1
+humanity--nnp: 1
+james r--nnp-nnp: 1
+islamic--nnp: 1
+ipbms--nnp: 1
+sabez--nnp: 1
+real--jj: 1
+cqb--nnp: 1
+sorrow--nn: 1
+ain--nnp: 1
+humming--nnp: 1
+able--nnp: 1
+background--nnp: 1
+great--nnp: 1
+f foundation--n-nnp: 1
+turn--nn: 1
+m republic--j-nnp: 1
+against--nnp: 1
+honest--nnp: 1
+calls--nnp: 1
+thanks--nns: 1
+power--nnp: 1
+grass--nnp: 1
+chiron--nnp: 1
+intercept of--nnp-nnp: 1
+broadcast--nnp: 1
+hide--nnp: 1
+poison--nn: 1
+hilton--nnp: 1
+building--nnp: 1
+port--nnp: 1
+kasagawa--nnp: 1
+ramachandra--nnp: 1
+your--nnp: 1
+tube--nnp: 1
+tactical--nnp: 1
+aerobic--nnp: 1
+myofb corporation--nnp-nnp: 1
+hour--nnp: 1
+hook--nn: 1
+name--nn: 1
+pirate--nnp: 1
+nitrogen--nn: 1
+chapter seven--nnp-nnp: 1
+popped--nnp: 1
+gone--nn: 1
+adam--nnp: 1
+distinguished hyacinth--nnp-nnp: 1
+huge--nn: 1
+forgotten--nnp: 1
+golgo--nnp: 1
+immanuel--nnp: 1
+burn--nnp: 1
+life--nnp: 1
+direction--nn: 1
+stand--nnp: 1
+did--nnp: 1
+garvey--nn: 1
+soup--nnp: 1
+magic--nnp: 1
+uh--nnp: 1
+long--rb: 1
+bush--nnp: 1
+free eros--nnp-nnp: 1
+bible--jj: 1
+pierre mao--nnp-nnp: 1
+memory--nn: 1
+clean--jj: 1
+offer holden--nnp-nnp: 1
+e santos--n-nnp: 1
+cpm--nn: 1
+tycho manufacturing--nnp-nnp: 1
+texans--nns: 1
+rebecca--nnp: 1
+leave--nnp: 1
+rhea--nnp: 1
+navigator tukunbo--nnp-nnp: 1
+regret--nnp: 1
+technician--jj: 1
+bathroom--nnp: 1
+guy--nnp: 1
+till--nnp: 1
+stuff--nnp: 1
+transport--nnp: 1
+cops--nnp: 1
+antony dresden--nnp-nnp: 1
+morse--nnp: 1
+first lieutenant--nnp-nnp: 1
+guys--nnp: 1
+almost--nnp: 1
+someplace--nnp: 1
+safe--jj: 1
+guilt trips--nnp-nnp: 1
+deflect--nnp: 1
+give--nnp: 1
+safety--nn: 1
+martyr--nnp: 1
+circle--nnp: 1
+square--nnp: 1
+posthuman--nn: 1
+gotcha--nnp: 1
+spleen--nnp: 1
+takin--nnp: 1
+taller--nnp: 1
+gato preto--nnp-nnp: 1
+trouble--nnp: 1
+port--nn: 1
+sebastian--nnp: 1
+built--nnp: 1
+frustration--nn: 1
+pretty--nnp: 1
+understood--nnp: 1
+iv--nnp: 1
+bullshit--nnp: 1
+point--nnp: 1
+revenge--nn: 1
+door--nnp: 1
+follow--nnp: 1
+vietnamese--jj: 1
+valley--nnp: 1
+click--nnp: 1
+kuiper--nnp: 1
+eighty--nnp: 1
+em--nnp: 1
+overhead--nn: 1
+winner--nnp: 1
+papa--nnp: 1
+safer--nn: 1
+breakfast--nnp: 1
+c holden--n-nnp: 1
+period--nn: 1
+least--nnp: 1
+martian congress--nnp-nnp: 1
+shuttle pros--nnp-nnp: 1
+valka--nnp: 1
+trick--nnp: 1
+symptom--nnp: 1
+trask--nnp: 1
+given phoebe--nnp-nnp: 1
+thermal--nnp: 1
+main--nnp: 1
+down--nnp: 1
+chest--nnp: 1
+red moon--nnp-nnp: 1
+buddha--nnp: 1
+antichrist--nnp: 1
+e nagata--n-nnp: 1
+moon--nnp: 1
+extradition--nn: 1
+geek--nn: 1
+terrytown--nnp: 1
+broken--nnp: 1
+east indian--nnp-jj: 1
+missiles--nnps: 1
+twelve--nn: 1
+heir--nn: 1
+engineer--nn: 1
+fish--nn: 1
+arterial--jj: 1
+bet--nnp: 1
+re--nnp: 1
+trikoloski--nnp: 1
+torch--nnp: 1
+jesus h--nnp-nnp: 1
+cpm--nnp: 1
+flesh--nn: 1
+caesar--nnp: 1
+honestly--nnp: 1
+corporation--nnp: 1
+copy--nn: 1
+mateo--nn: 1
+congress--nnp: 1
+home--nnp: 1
+human--nnp: 1
+pain--nn: 1
+u ravi----nnp: 1
+cool--nnp: 1
+space--nn: 1
+corporaçõ--nnp: 1
+rabbits--nnp: 1
+pa--nnp: 1
+clamps--nns: 1
+sad--nnp: 1
+strong--rb: 1
+velcro--nnp: 1
+duty--nn: 1
+sos--nnp: 1
+nigerian--jj: 1
+eaten--nnp: 1
+death--nn: 1
+ceres--vbz: 1
+terran--nnp: 1
+dookie--nnp: 1
+trauma--nnp: 1
+detective miller--jj-nnp: 1
+joe miller--nnp-nnp: 1
+sudden--nnp: 1
+schrauben--nnp: 1
+framework--nn: 1
+harry--nnp: 1
+gw--nnp: 1
+amos--nn: 1
+butcher--nnp: 1
+assuming--nnp: 1
+drainage--nn: 1
+mmm--nnp: 1
+freedom--nnp: 1
+general sebastian--nnp-nnp: 1
+c7--nnp: 1
+sooner--nnp: 1
+dumb--nnp: 1
+careful--jj: 1
+ordinance--nn: 1
+high--jj: 1
+animal--jj: 1
+six--nnp: 1
+aw--nnp: 1
+mylar--nnp: 1
+acetic--jj: 1
+amos burton--nnp-nnp: 1
+pleistocene--nnp: 1
+newcomer--nn: 1
+mcr--nnp: 1
+cameras--nns: 1
+normally--rb: 1
+cooper--nnp: 1
+thank god--nnp-nnp: 1
+aloud--nnp: 1
+kwikowski mercantile--nnp-nnp: 1
+automatic--jj: 1
+opportunity--nnp: 1
+cut--nnp: 1
+corrupt--nnp: 1
+chapter forty--nnp-nnp: 1
+cooperate--nn: 1
+evidence--nn: 1
+billion--nnp: 1
+amnesty--nnp: 1
+mormons--nnps: 1
+radiant--nn: 1
+powered--nnp: 1
+andreas--nnp: 1
+ten--nnp: 1
+fruitless--nn: 1
+chinese--jj: 1
+general--nnp: 1
+detention of--nnp-nnp: 1
+karaoke--nnp: 1
+aye--nnp: 1
+nnlpa--nnp: 1
+surface--nnp: 1
+portrait--nn: 1
+tukunbo--nnp: 1
+muzak--nnp: 1
+holden--nn: 1
+somebody--nn: 1
+link--nnp: 1
+soda--nnp: 1
+christ--nn: 1
+security--nnp: 1
+pleasure--nn: 1
+por--nnp: 1
+hmm--nn: 1
+uranus--nnp: 1
+silencieux courant--nnp-nnp: 1
+and--nnp: 1
+judd--nnp: 1
+radar--nnp: 1
+guilty--nn: 1
+baltimore--nnp: 1
+battleship--nn: 1
+solomon epstein--nnp-nnp: 1
+xinglong--nn: 1
+shhh--nnp: 1
+dear--nnp: 1
+massacre--nnp: 1
+tubes--nns: 1
+asian--jj: 1
+anaerobic--nnp: 1
+dim--nnp: 1
+petty--jj: 1
+mucous--jj: 1
+american--jj: 1
+red--nnp: 1
+ehren michaels--nnp-nnp: 1
+darkness--nnp: 1
+f mao--n-nnp: 1
+crazed--nnp: 1
+turn--nnp: 1
+phone--nn: 1
+doc--nnp: 1
+accidental--jj: 1
+where--nnp: 1
+pur--nnp: 1
+annansec--nnp: 1
+karma--nnp: 1
+return--nnp: 1
+muss--nn: 1
+employee--nn: 1
+enough--jj: 1
+dress--nnp: 1
+kinder--nnp: 1
+shot--nn: 1
+machina--nnp: 1
+tell alex--nnp-nnp: 1
+burton--nnp: 1
+hand--nnp: 1
+courant--nnp: 1
+asher kamamatsu--nnp-nnp: 1
+tau ceti--nnp-nnp: 1
+steady--jj: 1
+poor--nnp: 1
+property--nnp: 1
+english--jj: 1
+lousy--jj: 1
+warhead--nnp: 1
+inners--nnp: 1
+manure--nn: 1
+glapion collective--nnp-nnp: 1
+zhang fei--nnp-nnp: 1
+laminate--nn: 1
+kate--nnp: 1
+belter--nn: 1
+destination--nnp: 1
+lucius johnson--nnp-nnp: 1
+cleanup--nnp: 1
+serene--nnp: 1
+cameron paj--nnp-nnp: 1
+often--nnp: 1
+call--nn: 1
+orlan--nnp: 1
+torpedo--nnp: 1
+bomie chatterjee--nnp-nnp: 1
+silencieux--nnp: 1
+milky way--nnp-nnp: 1
+medical--nnp: 1
+liu--nnp: 1
+pinkwater--nnp: 1
+dagon--nnp: 1
+holdings--nns: 1
+behind holden--nnp-nnp: 1
+frederick johnson--nnp-nnp: 1
+wan--nnp: 1
+pictures--nns: 1
+hey--nnp: 1
+helix--nnp: 1
+holder of--nnp-in: 1
+strange--jj: 1
+weld--nnp: 1
+dyson--nnp: 1
+ballsy--nnp: 1
+al capone--nnp-nnp: 1
+booked--nnp: 1
+carne--nnp: 1
+authorizes--nnp: 1
+robin hood--nnp-nnp: 1
+abbiq--nnp: 1
+liquid--nnp: 1
+anubis--nnp: 1
+carry--nnp: 1
+chicá--nnp: 1
+einstein--nnp: 1
+hamas--nnp: 1
+deduct--nnp: 1
+fuckers--nnp: 1
+thank--nnp: 1
+name--nnp: 1
+s abramowitz--n-nnp: 1
+quiet--jj: 1
+come--nnp: 1
+smart--nn: 1
+jpm--nnp: 1
+corporate--nnp: 1
+you for--nnp-nnp: 1
+garvey--nnp: 1
+trust--nnp: 1
+blue--nnp: 1
+damn--nn: 1
+sahara--nnp: 1
+thc--nnp: 1
+gestapo--nnp: 1
+acceleration--nnp: 1
+sociopaths--nnp: 1
+fine--nn: 1
+pachinko--nnp: 1
+kamala trask--nnp-nnp: 1
+gustav--nnp: 1
+ah--nnp: 1
+high--nnp: 1
+mikey ko--nnp-nnp: 1
+j instructor--n-nnp: 1
+galley--nnp: 1
+raped--nnp: 1
+blue mars--nnp-nnp: 1
+sammy--nnp: 1
+defend eros--nnp-nnp: 1
+Total of 1025 unique entities
+===============================================================
+
+
+Top Entities for the-expanse-2-calibans-war.txt:
+holden--nnp: 1048
+prax--nnp: 621
+bobbie--nnp: 600
+amos--nnp: 532
+avasarala--nnp: 490
+naomi--nnp: 370
+alex--nnp: 264
+ganymede--nnp: 184
+mei--nnp: 173
+soren--nnp: 114
+martian--jj: 104
+un--nnp: 94
+earth--nnp: 68
+venus--nnp: 68
+rocinante--nnp: 66
+thorsson--nnp: 65
+mars--nnp: 65
+fred--nnp: 62
+mao--nnp: 61
+nguyen--nnp: 58
+okay--nnp: 56
+roci--nnp: 54
+errinwright--nnp: 51
+wendell--nnp: 48
+strickland--nnp: 48
+larson--nnp: 43
+cap--nnp: 43
+eros--nnp: 42
+cotyar--nnp: 42
+opa--nnp: 42
+souther--nnp: 40
+arjun--nnp: 38
+don--nnp: 36
+doc--nnp: 34
+prax--nn: 32
+nicola--nnp: 25
+earth--nn: 24
+tycho--nnp: 24
+martian--nnp: 22
+basia--nnp: 21
+hud--nnp: 20
+someone--nn: 20
+sam--nnp: 20
+miller--nnp: 20
+sorry--nnp: 19
+belt--nnp: 19
+jovian--jj: 19
+james holden--nnp-nnp: 19
+jupiter--nnp: 17
+jim--nnp: 16
+sergeant--nnp: 16
+captain--nnp: 15
+draper--nnp: 15
+guanshiyin--nnp: 14
+martens--nnp: 14
+sergeant draper--nnp-nnp: 13
+shit--nnp: 13
+united nations--nnp-nnps: 13
+marine--nnp: 13
+luna--nnp: 13
+pinkwater--nnp: 13
+io--nnp: 12
+might--nnp: 12
+meng--nnp: 12
+praxidike meng--nnp-nnp: 12
+tycho station--nnp-nnp: 12
+no--nnp: 12
+santichai--nnp: 12
+paula--nnp: 11
+melissa--nnp: 11
+admiral nguyen--nnp-nnp: 11
+admiral souther--nnp-nnp: 11
+somnambulist--nnp: 11
+pdc--nnp: 11
+kiki--nnp: 10
+katoa--nnp: 10
+gon--nnp: 10
+doctor strickland--nnp-nnp: 10
+miss carrie--nnp-nnp: 10
+pdcs--nnp: 9
+mommy--nnp: 9
+which--nnp: 9
+doris--nnp: 9
+razorback--nnp: 9
+fred johnson--nnp-nnp: 9
+hillman--nnp: 9
+navy--nnp: 9
+arboghast--nnp: 9
+chrisjen--nnp: 9
+eva--nnp: 9
+god--nnp: 9
+which--wdt: 8
+daddy--nnp: 8
+jesus--nnp: 8
+gunny--nnp: 8
+belters--nnp: 7
+tell--nnp: 7
+martens--nns: 7
+europa--nnp: 7
+marines--nnps: 7
+mars--nns: 7
+yep--nnp: 7
+nettleford--nnp: 7
+ganymede station--nnp-nnp: 6
+everyone--nn: 6
+ameer--nnp: 6
+callisto--nnp: 6
+cic--nnp: 6
+protogen--nnp: 6
+sir--nnp: 6
+which--jj: 6
+saturn--nnp: 6
+chuck--nnp: 6
+suri--nnp: 6
+roberta--nnp: 6
+leds--nnp: 6
+grandma--nnp: 6
+wow--nnp: 6
+buddha--nnp: 6
+yojimbo--nnp: 6
+nagata--nnp: 6
+vedas--nnp: 5
+ride--nnp: 5
+nothing--nn: 5
+fuck--nnp: 5
+chubby--nnp: 5
+didn--nnp: 5
+captain holden--nnp-nnp: 5
+damn--nnp: 5
+chrisjen avasarala--nnp-nnp: 5
+united nations--nnp-nnp: 5
+gloria--nnp: 5
+tachi--nnp: 5
+redhead--nnp: 5
+praxidike--nnp: 5
+captain martens--nnp-nnp: 4
+o alliance--n-nnp: 4
+tom--nnp: 4
+mariner valley--nnp-nnp: 4
+hell--nnp: 4
+mom--nnp: 4
+was--nnp: 4
+singh--nnp: 4
+martians--nnps: 4
+how--nnp: 4
+golgo--nnp: 4
+men--nn: 4
+agatha king--nnp-nnp: 4
+part--nn: 4
+foster--nnp: 4
+snoopy--nnp: 4
+anyone--nn: 4
+canterbury--nnp: 4
+and--nnp: 4
+jim holden--nnp-nnp: 4
+got--nnp: 4
+eros station--nnp-nnp: 4
+un navy--nnp-nnp: 4
+agee--nnp: 4
+andean--nnp: 4
+blood--nn: 4
+roberta draper--nnp-nnp: 4
+carlos--nnp: 4
+map--nnp: 3
+normally--rb: 3
+jimmy--nnp: 3
+father--nnp: 3
+protogen--nn: 3
+carrie--nnp: 3
+ceres--nnp: 3
+admiral--nnp: 3
+tiny--nnp: 3
+thanks--nnp: 3
+phoebe--nnp: 3
+jules--nnp: 3
+nicola mulko--nnp-nnp: 3
+see--nnp: 3
+mei--nn: 3
+fifty--nnp: 3
+who--nnp: 3
+blauwe blome--nnp-nnp: 3
+good--jj: 3
+souther--nn: 3
+mps--nnp: 3
+martian marine--jj-nnp: 3
+merrian--jj: 3
+explain--nnp: 3
+errinwright--nn: 3
+un marines--nnp-nnps: 3
+titan--nnp: 3
+merrian--nnp: 3
+cydonia--nnp: 3
+the--nnp: 3
+gravity--nnp: 3
+hello--nnp: 3
+tseng--nnp: 3
+atlanta--nnp: 3
+just--nnp: 3
+leniki--nnp: 3
+coriolis--nnp: 3
+whoa--nnp: 3
+marines--nnp: 3
+gourab--nnp: 3
+julie--nnp: 3
+ceres station--nnp-nnp: 3
+please--nnp: 3
+sick--nnp: 3
+glycine--nnp: 3
+merman--nnp: 3
+esteban--nnp: 3
+doctor--nnp: 3
+belter--nnp: 3
+james--nnp: 3
+mcrn--nnp: 3
+right--nnp: 3
+avasarala--nn: 3
+assistant--jj: 3
+hang--nnp: 3
+thank--nn: 3
+blue--nnp: 3
+ashanti--nnp: 3
+nani--nnp: 3
+jules mao--nnp-nnp: 3
+where--nnp: 3
+burton--nnp: 3
+mei meng--nnp-nnp: 3
+alex kamal--nnp-nnp: 3
+anomaly--nnp: 3
+montana--nnp: 3
+captain thorsson--nnp-nnp: 3
+strickland--nn: 3
+ceres--nns: 3
+eros--nns: 2
+corlinowski--nnp: 2
+moynahan--nn: 2
+iff--nnp: 2
+caudel--nnp: 2
+moynahan--nnp: 2
+humanity--nnp: 2
+european--jj: 2
+travis--nnp: 2
+cold--nnp: 2
+talk--nn: 2
+gloria tannenbaum--nnp-nnp: 2
+admiral nguyen--jj-nnp: 2
+sounds--nnp: 2
+la--nnp: 2
+hilly--nnp: 2
+paula--nn: 2
+long--nnp: 2
+estancia--nnp: 2
+vip--nnp: 2
+look--nn: 2
+thorsson--nn: 2
+wasn--nnp: 2
+mother--nnp: 2
+hard--nnp: 2
+naomi--nn: 2
+say--nnp: 2
+green--nnp: 2
+had--nnp: 2
+thrust--nnp: 2
+walter philips--nnp-nnp: 2
+formal--nnp: 2
+nguyen--nn: 2
+quiet--jj: 2
+my--nnp: 2
+shit--nn: 2
+earthers--nnps: 2
+can--nnp: 2
+couldn--nnp: 2
+looks--nnp: 2
+baby--nnp: 2
+get--nnp: 2
+you--nnp: 2
+assistant--nnp: 2
+anyone--nnp: 2
+melissa supitayaporn--nnp-nnp: 2
+madam--nnp: 2
+klaxon--nnp: 2
+seems--nnp: 2
+real--jj: 2
+bobbie--nn: 2
+aren--nnp: 2
+listen--nnp: 2
+shouldn--nnp: 2
+life--nnp: 2
+venusian--jj: 2
+tasers--nns: 2
+sergeant--jj: 2
+same--jj: 2
+long--rb: 2
+easy--jj: 2
+amos burton--nnp-nnp: 2
+dark--nnp: 2
+outside--nnp: 2
+hague--nnp: 2
+outer planets--nnp-nnps: 2
+safe--nnp: 2
+astrigan--nnp: 2
+green--jj: 2
+bullshit--nnp: 2
+station--nnp: 2
+nici--nnp: 2
+always--nnp: 2
+cab--nnp: 2
+agatha--nnp: 2
+almost--nnp: 2
+huh--nnp: 2
+port--nnp: 2
+naomi nagata--nnp-nnp: 2
+a nguyen--n-nnp: 2
+polynesian--jj: 2
+twelve--nn: 2
+earther--nnp: 2
+elise--nnp: 2
+charanpal--nnp: 2
+un marines--nnp-nnp: 2
+russian--jj: 2
+report--nnp: 2
+mikhaylov--nnp: 2
+six--nnp: 2
+inside--nnp: 2
+mcr--nnp: 2
+antony dresden--nnp-nnp: 2
+turn--nnp: 2
+massive--jj: 2
+sadavir errinwright--nnp-nnp: 2
+trish--nnp: 2
+chinese--jj: 2
+somebody--nn: 2
+security--nnp: 2
+long--jj: 2
+me--nnp: 2
+camouflage--nn: 2
+young--nnp: 2
+cease--nnp: 2
+moonface--nnp: 2
+goddamn--nnp: 2
+marines--nns: 2
+uturbé--nnp: 2
+poor--nnp: 2
+chinese--nnp: 2
+celestine--nnp: 2
+jules--nns: 2
+epipremnum--nnp: 2
+enough--nnp: 2
+primary--nnp: 2
+tiny--jj: 2
+un marine--nnp-nnp: 2
+repeat--nn: 2
+good--nnp: 2
+canterbury--nn: 2
+doesn--nnp: 2
+ceres station--nnps-nnp: 2
+quiet--nnp: 2
+private hillman--nnp-nnp: 2
+detective miller--nnp-nnp: 2
+again--nnp: 2
+again--nn: 2
+d--nnp: 1
+sixteen--nnp: 1
+admiral muhan--nnp-nnp: 1
+venusian--nnp: 1
+carson santiseverin--nnp-nnp: 1
+chesapeake--nnp: 1
+madam assistant--nnp-nnp: 1
+kill--nnp: 1
+panic--nn: 1
+sauce--nnp: 1
+past--jj: 1
+golden--nnp: 1
+polynesian--nnp: 1
+stop--nnp: 1
+stumpy--nnp: 1
+cycle--nnp: 1
+sam snelling--nnp-nnp: 1
+eighteen--nnp: 1
+hecates tholus--nnp-nnp: 1
+red devils--nnp-nnp: 1
+cordon bleu--nnp-nnp: 1
+neptune--nnp: 1
+scorch--nnp: 1
+undawe--nnp: 1
+newton--nnp: 1
+makes--nnp: 1
+tears--nnp: 1
+favorite--jj: 1
+lapsang--nnp: 1
+maximum--jj: 1
+chapter nine--nnp-nnp: 1
+nauvoo--nnp: 1
+straight--nnp: 1
+queue--nnp: 1
+far--nnp: 1
+supitayaporns--nnp: 1
+tanaka--nnp: 1
+max--nnp: 1
+thirty--nnp: 1
+g draper----nnp: 1
+poetry--nn: 1
+forward--nnp: 1
+someone--nnp: 1
+radio--nn: 1
+slave--nnp: 1
+sa--nnp: 1
+grease--nnp: 1
+cunt--nnp: 1
+aim--nnp: 1
+brown--nnp: 1
+tamara--nn: 1
+captain tseng--nnp-nnp: 1
+humanitarian--nnp: 1
+recon--nnp: 1
+damage--nnp: 1
+meeston gravis--nnp-nnp: 1
+spill--nn: 1
+naw--nnp: 1
+punjab--nnp: 1
+ceres mining--nnp-nnp: 1
+tsao--nnp: 1
+high--jj: 1
+panic--nnp: 1
+coulda--nnp: 1
+bye--nnp: 1
+triton--nnp: 1
+whoever--nnp: 1
+s draper--n-nnp: 1
+pinche--nnp: 1
+lost--nnp: 1
+vedas--nns: 1
+c johnson----nnp: 1
+blank--nnp: 1
+rowena estancia--nnp-nnp: 1
+remembered--nnp: 1
+irish--jj: 1
+lentil--nnp: 1
+anderson station--nnp-nnp: 1
+nations--nnp: 1
+east indians--nnp-nnps: 1
+gunfire--nnp: 1
+eros--nn: 1
+interference--nn: 1
+cmtu--nnp: 1
+britain--nnp: 1
+bout--nnp: 1
+would--nnp: 1
+blue meanies--nnp-nnps: 1
+senior--jj: 1
+grab--nnp: 1
+feelin--nnp: 1
+u navy--n-nnp: 1
+go--nnp: 1
+kennedy--nnp: 1
+fourth--nnp: 1
+hope--nnp: 1
+adinerado--nnp: 1
+mothers elise--nnp-nnp: 1
+us--nnp: 1
+amanda telelé--nnp-nnp: 1
+sandro--nn: 1
+gettin--nnp: 1
+nearby--nnp: 1
+catastrophic--jj: 1
+catastrophe--nnp: 1
+front--nnp: 1
+rocky mountains--nnp-nnp: 1
+needles--nnp: 1
+mao station--nnp-nnp: 1
+solyuz--nnp: 1
+carlos merrian--nnp-nnp: 1
+basic--jj: 1
+abuakár--nnp: 1
+machine--nnp: 1
+l colony--n-nnp: 1
+m valley--j-nnp: 1
+chicken--nnp: 1
+bomb--nnp: 1
+busby berkeley--nnp-nnp: 1
+strange--jj: 1
+deep--nnp: 1
+significant--nnp: 1
+brazilian--jj: 1
+gah--nnp: 1
+jesus christ--nnp-nnp: 1
+tomorrow--nn: 1
+oahu--nnp: 1
+motionless--nn: 1
+humanity ascendant--nnp-nnp: 1
+pandora--nnp: 1
+bobbie draper--nnp-nnp: 1
+true--nn: 1
+easy--nnp: 1
+dip--nnp: 1
+command--nnp: 1
+thin--nnp: 1
+annette--nnp: 1
+fifteen--nnp: 1
+m force--n-nnp: 1
+weapon--nnp: 1
+workers--nnp: 1
+church--nnp: 1
+give alex--nnp-nnp: 1
+huge--jj: 1
+dad--nnp: 1
+back--nnp: 1
+direct--nnp: 1
+bandwidth--nnp: 1
+gabby--nnp: 1
+boarding--nnp: 1
+madam secretary--nnp-nnp: 1
+spanish--jj: 1
+took--nnp: 1
+combat--nn: 1
+grew--nnp: 1
+stay--nnp: 1
+camera--nn: 1
+trish--nn: 1
+martian marines--jj-nnp: 1
+env--nnp: 1
+wardrobe--nnp: 1
+earth--jj: 1
+hokay--nnp: 1
+rental--nnp: 1
+dru--nnp: 1
+betrayed--nnp: 1
+welcome--nnp: 1
+sleep--jj: 1
+u king--n-nnp: 1
+comfort--nnp: 1
+chef marco--nnp-nnp: 1
+none--nn: 1
+above--nnp: 1
+el tee--nnp-nnp: 1
+samoan--nnp: 1
+kolp--nnp: 1
+harman--nnp: 1
+tongue--nnp: 1
+armor--nnp: 1
+strokes--nnp: 1
+flee--nnp: 1
+new hague--nnp-nnp: 1
+cairo--nnp: 1
+mp--nnp: 1
+neptune station--nnp-nnp: 1
+more--nnp: 1
+sandro--nnp: 1
+reactor--nnp: 1
+lazy--nnp: 1
+chapter forty--nnp-nnp: 1
+going--nnp: 1
+nurse--nnp: 1
+cool--nn: 1
+colored--nnp: 1
+captain--nn: 1
+ferns--nnp: 1
+reroute--nnp: 1
+greenville--nnp: 1
+fear--nn: 1
+black--nnp: 1
+sleep--nnp: 1
+wrong--nnp: 1
+rack--nn: 1
+solid--nnp: 1
+joseph--nnp: 1
+olympia--nnp: 1
+contact--nnp: 1
+tanna--nnp: 1
+consciousness--nnp: 1
+kurdish--jj: 1
+point--nn: 1
+careers--nnp: 1
+goliath--nnp: 1
+asian--nnp: 1
+done--nnp: 1
+poker--nn: 1
+really--nnp: 1
+d lab----nnp: 1
+clear--nnp: 1
+anxiety--nn: 1
+sansevieria--nnp: 1
+little--jj: 1
+mei--jj: 1
+magellan biotech--nnp-nnp: 1
+sophie--nnp: 1
+okay--nn: 1
+coalition navy--nnp-nnp: 1
+hmmmm--nnp: 1
+divorced--nnp: 1
+s theater--n-nnp: 1
+merton--nnp: 1
+johnson--nnp: 1
+control--nnp: 1
+novgorod--nnp: 1
+african--nnp: 1
+smart--nnp: 1
+lentils--nnp: 1
+plenty--nnp: 1
+someplace--nn: 1
+spiky redhead--nnp-nnp: 1
+mate singh--nnp-nnp: 1
+evolution--nn: 1
+evasive--jj: 1
+punjabi--nnp: 1
+privacy--nn: 1
+nguyen--jj: 1
+cheetahs--nnp: 1
+triple--nnp: 1
+power--nn: 1
+pause--nn: 1
+unmc--nnp: 1
+private--nnp: 1
+mcrn cydonia--nnp-nnp: 1
+blood--nnp: 1
+order--nnp: 1
+saint--nnp: 1
+loss--nnp: 1
+happy--nnp: 1
+m navy----nnp: 1
+earthers--nns: 1
+help--nnp: 1
+white--nnp: 1
+martian marines--jj-nnps: 1
+kamal--nnp: 1
+dna--nn: 1
+tasers--nnp: 1
+chapter twenty--nnp-nnp: 1
+alpha--nnp: 1
+haters--nnp: 1
+poker--nnp: 1
+phd--nnp: 1
+mark v--nnp-nnp: 1
+individual--jj: 1
+smoke--nnp: 1
+call--nnp: 1
+nah--nn: 1
+nein--nnp: 1
+armstrong stadium--nnp-nnp: 1
+emergency--nn: 1
+ragnarok--nnp: 1
+marion--nnp: 1
+greek--jj: 1
+portuguese--jj: 1
+siei--nnp: 1
+spinach--nnp: 1
+earthers--nnp: 1
+soren cottwald--nnp-nnp: 1
+unable--jj: 1
+atlantic--nnp: 1
+hezbollah--nnp: 1
+e errinwright----nnp: 1
+subsection d--nnp-nnp: 1
+chapter--nnp: 1
+star helix--nnp-nnp: 1
+beyond--nn: 1
+think--nnp: 1
+to--jj: 1
+nothin--nnp: 1
+cafeteria--nnp: 1
+plan--nn: 1
+cqb--nnp: 1
+sorrow--nn: 1
+ain--nnp: 1
+ocs--nnp: 1
+sally ride--nnp-nnp: 1
+nah--nnp: 1
+splendid--nnp: 1
+turn--nn: 1
+customs--nnp: 1
+lag--nn: 1
+m republic--j-nnp: 1
+pas--nnp: 1
+conference--nnp: 1
+powerful--nnp: 1
+power--nnp: 1
+pool--nnp: 1
+admirals souther--nnp-nnp: 1
+east--nnp: 1
+bourne--nnp: 1
+eleven--nnp: 1
+joint--jj: 1
+tech university--nnp-nnp: 1
+julie mao--nnp-nnp: 1
+quest--nnp: 1
+beijing--nnp: 1
+praxidike--jj: 1
+chernev--nnp: 1
+midnight--nnp: 1
+same--nnp: 1
+boom--nnp: 1
+checkmate--nnp: 1
+anton--nnp: 1
+michael-jon--nnp: 1
+pirate--nnp: 1
+resolve--nnp: 1
+boy--nnp: 1
+xo--nnp: 1
+windblown grass--nnp-nnp: 1
+your--nnp: 1
+epstein--nnp: 1
+love--nnp: 1
+trisha pichon--nnp-nnp: 1
+hand-to-hand--nn: 1
+iani chaos--nnp-nnp: 1
+prax meng--nnp-nnp: 1
+stand--nnp: 1
+okimbo--nnp: 1
+mei mei--nnp-nnp: 1
+tamara--nnp: 1
+squeeze--nnp: 1
+sit--nnp: 1
+did--nnp: 1
+leftover--nnp: 1
+bush--nnp: 1
+ko shu--nnp-nnp: 1
+brazil--nnp: 1
+space--nn: 1
+pierre mao--nnp-nnp: 1
+ventisiete--nnp: 1
+chief--jj: 1
+mark iv--nnp-nnp: 1
+sorry--nn: 1
+pinus--nnp: 1
+earth marines--nnp-nnp: 1
+g authority--n-nnp: 1
+vacuum--nnp: 1
+leave--nnp: 1
+serious--jj: 1
+distant--nnp: 1
+asia--nnp: 1
+prayers--nnp: 1
+mate--nnp: 1
+huge--nnp: 1
+dumpster--nnp: 1
+melissa--nn: 1
+bright--nnp: 1
+transport--nnp: 1
+hold--nnp: 1
+m goliath--n-nnp: 1
+carol kiesowski--nnp-nnp: 1
+watch--nnp: 1
+guys--nnp: 1
+a22--nnp: 1
+father caesar--nnp-nnp: 1
+sadavir--nnp: 1
+philips--nnp: 1
+bengal--nnp: 1
+kinda--nnp: 1
+been--nnp: 1
+mott--nnp: 1
+raw--nnp: 1
+ooh--nnp: 1
+kevlar--nnp: 1
+emma--nnp: 1
+mineralize--nnp: 1
+snoop--nnp: 1
+him--nnp: 1
+british--jj: 1
+specializes--nnp: 1
+dresden--nnp: 1
+bernadette koe--nnp-nnp: 1
+possibly--nnp: 1
+hmm--nnp: 1
+maxwell--nnp: 1
+authcopy--nnp: 1
+pop--nnp: 1
+depends--nnp: 1
+dimitri--nnp: 1
+holden holden--nnp-nnp: 1
+paris--nnp: 1
+point--nnp: 1
+guthrie--nnp: 1
+strap--nn: 1
+chapter thirty--nnp-nnp: 1
+basic--nnp: 1
+saw--nnp: 1
+influence--nn: 1
+martian navy--jj-nnp: 1
+eagle--nnp: 1
+chapter seven--nnp-nnp: 1
+mirror--nnp: 1
+breakfast--nnp: 1
+c holden--n-nnp: 1
+cant--nnp: 1
+time--nn: 1
+vast--jj: 1
+chocolate--nnp: 1
+north america--nnp-nnp: 1
+michel--nnp: 1
+marble arch--nnp-nnp: 1
+jaimie loomis--nnp-nnp: 1
+labrador--nnp: 1
+check--nnp: 1
+free--jj: 1
+armor--nn: 1
+brits--nnp: 1
+graves--nns: 1
+daily--jj: 1
+mother tamara--nnp-nnp: 1
+paired--nnp: 1
+texas--nnp: 1
+internal--nnp: 1
+lieutenant--nnp: 1
+larger--nn: 1
+bullet--nnp: 1
+venus--nn: 1
+definitely un--nnp-nnp: 1
+vast--nnp: 1
+english--nnp: 1
+successful--nnp: 1
+children--nnp: 1
+meng--nn: 1
+industrial--nnp: 1
+guard--nnp: 1
+ceres station--nns-nnp: 1
+shock--nn: 1
+out of--nnp-nnp: 1
+very--nnp: 1
+p electrician--n-nnp: 1
+track--nn: 1
+ready--jj: 1
+evac--nn: 1
+cool--nnp: 1
+greens--nns: 1
+u marine--n-nnp: 1
+spacious--jj: 1
+awww--nnp: 1
+dyson--nnp: 1
+discomfort--nnp: 1
+gutmansdottir--nnp: 1
+blue meanie--nnp-nnp: 1
+death--nn: 1
+gelatin--nn: 1
+c tseng--n-nnp: 1
+g roberta--n-nnp: 1
+philips--nns: 1
+c johnson--n-nnp: 1
+thank--nnp: 1
+aristophanes--nnp: 1
+nukes--nnp: 1
+m ride--n-nnp: 1
+rage--nn: 1
+kukurri--nnp: 1
+hideous--nnp: 1
+belters--nnps: 1
+time--nnp: 1
+supitayaporn--nnp: 1
+security--nn: 1
+spartan--nnp: 1
+cancer--nnp: 1
+hawkish--jj: 1
+push--nn: 1
+ganymede--nn: 1
+ronin--nnp: 1
+priority--nnp: 1
+belters--nns: 1
+come--nnp: 1
+already--rb: 1
+fookin--nnp: 1
+wait--nn: 1
+european--nnp: 1
+olympus mons--nnp-nnps: 1
+she--nnp: 1
+written--nnp: 1
+darius--nnp: 1
+extra--nnp: 1
+replace--nnp: 1
+seal--nnp: 1
+basia--nn: 1
+immediate--nnp: 1
+kwikowski mercantile--nnp-nnp: 1
+french--jj: 1
+king--nnp: 1
+admiral souther--jj-nnp: 1
+mikel agee--nnp-nnp: 1
+al abbiq--nnp-nnp: 1
+golla--nnp: 1
+unless--nnp: 1
+m service--j-nnp: 1
+gramma--nnp: 1
+skin--nnp: 1
+aye--nnp: 1
+called--vbn: 1
+her--nnp: 1
+p zone--n-nnp: 1
+sanseviera--nnp: 1
+united--nnp: 1
+to--nnp: 1
+uchi--nnp: 1
+crunch--nnp: 1
+lieutenant givens--jj-nnp: 1
+egypt--nnp: 1
+general nettleford--nnp-nnp: 1
+xo--nn: 1
+india--nnp: 1
+though--nnp: 1
+corporal travis--nnp-nnp: 1
+intelligence--nn: 1
+hull--nnp: 1
+starboard--nnp: 1
+roger--nnp: 1
+baltimore--nnp: 1
+regardless--nnp: 1
+tears--nns: 1
+hungry--nnp: 1
+park--nnp: 1
+earth navy--nnp-nnp: 1
+asian--jj: 1
+stir--nnp: 1
+scared--nnp: 1
+stupidity--nn: 1
+dasihari lounge--nnp-nnp: 1
+binnenhof--nnp: 1
+tod--nnp: 1
+taban--nn: 1
+chomp--nnp: 1
+richard--nnp: 1
+entire--nnp: 1
+fat--nnp: 1
+fusiontek reál--nnp-nnp: 1
+n nations----nnp: 1
+pur--nnp: 1
+seemed--nnp: 1
+return--nnp: 1
+africa--nnp: 1
+tev hillman--nnp-nnp: 1
+stand--nn: 1
+comm--nnp: 1
+hand--nnp: 1
+plasma--nnp: 1
+figure--nn: 1
+crinkle--nnp: 1
+u marines--n-nnps: 1
+joe--nnp: 1
+die--nnp: 1
+backup--nnp: 1
+for--nnp: 1
+tap--nnp: 1
+too--nnp: 1
+seventy--nnp: 1
+seven--nnp: 1
+trouble--nnp: 1
+montessori--nnp: 1
+yup--nnp: 1
+torpedoes--nnp: 1
+south american--nnp-nnp: 1
+victor--nnp: 1
+call--nn: 1
+lieutenant graves--nnp-nnp: 1
+annette rabbir--nnp-nnp: 1
+m corps--j-nnp: 1
+torpedo--nnp: 1
+gautama buddha--nnp-nnp: 1
+milky way--nnp-nnp: 1
+vomit--nnp: 1
+revenge--nnp: 1
+bulkhead--nnp: 1
+cracked--nnp: 1
+umea--nnp: 1
+air--nnp: 1
+hecate base--nnp-nnp: 1
+arright--nnp: 1
+call alex--nn-nnp: 1
+bushido--nnp: 1
+robust--nnp: 1
+medics--nns: 1
+feodorovna--nnp: 1
+check--nn: 1
+subtle--nn: 1
+lieutenant givens--nnp-nnp: 1
+afghanistan--nnp: 1
+captain estancia--nnp-nnp: 1
+em--nnp: 1
+given--nnp: 1
+cassandra--nnp: 1
+pete--nnp: 1
+corporate--nnp: 1
+team let--nn-nnp: 1
+rf--nnp: 1
+every--nnp: 1
+kleen--nnp: 1
+edison--nnp: 1
+pinkwater security--nnp-nnp: 1
+gourab--nn: 1
+step--nnp: 1
+phds--nn: 1
+lovell city--nnp-nnp: 1
+razorback--nn: 1
+bobbie--vb: 1
+ph--nn: 1
+bang--nnp: 1
+Total of 991 unique entities
+===============================================================
+
+
+Top Entities for the-expanse-3-abaddons-gate.txt:
+holden--nnp: 732
+bull--nnp: 645
+anna--nnp: 610
+ashford--nnp: 311
+naomi--nnp: 299
+miller--nnp: 187
+amos--nnp: 182
+melba--nnp: 161
+sam--nnp: 156
+clarissa--nnp: 140
+cortez--nnp: 139
+tilly--nnp: 121
+alex--nnp: 114
+monica--nnp: 106
+behemoth--nnp: 102
+rocinante--nnp: 95
+ren--nnp: 75
+corin--nnp: 71
+earth--nnp: 70
+opa--nnp: 55
+serge--nnp: 54
+martian--jj: 53
+mars--nnp: 47
+roci--nnp: 46
+nono--nnp: 43
+pa--nnp: 43
+belter--nnp: 42
+stanni--nnp: 41
+soledad--nnp: 40
+juarez--nnp: 40
+fred--nnp: 40
+chris--nnp: 37
+okay--nnp: 36
+don--nnp: 32
+cohen--nnp: 29
+someone--nn: 29
+nami--nnp: 29
+verbinski--nnp: 29
+james holden--nnp-nnp: 28
+thomas prince--nnp-nnp: 26
+cerisier--nnp: 24
+julie--nnp: 24
+jojo--nnp: 24
+eva--nnp: 24
+earth--nn: 23
+un--nnp: 23
+cass--nnp: 23
+captain--nnp: 22
+god--nnp: 22
+sorry--nnp: 21
+martian--nnp: 21
+seung un--nnp-nnp: 21
+fred johnson--nnp-nnp: 21
+eros--nnp: 19
+venus--nnp: 19
+mister baca--nnp-nnp: 18
+prince--nnp: 17
+okju--nnp: 17
+jim holden--nnp-nnp: 17
+travin--nnp: 16
+serge--nn: 15
+monica stuart--nnp-nnp: 15
+europa--nnp: 15
+jim--nnp: 15
+bull--nn: 15
+belt--nnp: 14
+nick--nnp: 14
+bob--nnp: 14
+clip--nnp: 14
+ganymede--nnp: 13
+chan--nnp: 13
+ruiz--nnp: 13
+alexi--nnp: 13
+sir--nnp: 12
+red--nnp: 11
+nothing--nn: 11
+nauvoo--nnp: 11
+how--nnp: 11
+belters--nnp: 10
+xo--nnp: 10
+captain ashford--nnp-nnp: 10
+ceres--nnp: 10
+néo--nnp: 10
+might--nnp: 10
+melba koh--nnp-nnp: 10
+father--nnp: 9
+r zone----nnp: 9
+clarissa mao--nnp-nnp: 9
+claire--nnp: 9
+gareth--nnp: 9
+tycho station--nnp-nnp: 9
+no--nnp: 9
+annie--nnp: 8
+hector--nnp: 8
+cap--nnp: 8
+martians--nnps: 8
+mao--nnp: 8
+sophia--nnp: 8
+someone--nnp: 7
+hell--nnp: 7
+tell--nnp: 7
+hank--nnp: 7
+saturn--nnp: 7
+father michel--nnp-nnp: 7
+leds--nnp: 7
+canterbury--nnp: 7
+jakande--nnp: 7
+belters--nns: 7
+julie mao--nnp-nnp: 7
+uranus--nnp: 7
+michel--nnp: 7
+doesn--nnp: 7
+blood--nn: 7
+ceres--nns: 7
+rufus--nnp: 6
+petyr--nnp: 6
+vip--nnp: 6
+good--jj: 6
+hector cortez--nnp-nnp: 6
+shit--nnp: 6
+pastor anna--nnp-nnp: 6
+michio pa--nnp-nnp: 6
+which--nnp: 6
+titania--nnp: 6
+clarissa--nn: 6
+naomi nagata--nnp-nnp: 6
+doctor--nnp: 6
+right--nnp: 6
+robert--nnp: 6
+cortez--nn: 6
+fagan--nnp: 6
+tycho--nnp: 6
+o alliance--n-nnp: 5
+humanity--nnp: 5
+casimir--nnp: 5
+new--nnp: 5
+macondo--nnp: 5
+koh--nnp: 5
+epstein--nnp: 5
+moscow--nnp: 5
+didn--nnp: 5
+jin--nnp: 5
+mars--nns: 5
+him--nnp: 5
+led--nnp: 5
+luna--nnp: 5
+hello--nnp: 5
+baltimore--nnp: 5
+xo--nn: 5
+carlos baca--nnp-nnp: 5
+anna volovodov--nnp-nnp: 5
+hammurabi--nnp: 4
+engineer rosenberg--nnp-nnp: 4
+phoebe--nnp: 4
+donnager--nnp: 4
+armageddon--nnp: 4
+tilly fagan--nnp-nnp: 4
+sterling--nnp: 4
+everyone--nnp: 4
+nagata--nnp: 4
+evita--nnp: 4
+c mao--n-nnp: 4
+hoy--nnp: 4
+gon--nnp: 4
+united nations--nnp-nnps: 4
+mister--nnp: 4
+tara--nnp: 4
+captain holden--nnp-nnp: 4
+please--nnp: 4
+c holden--n-nnp: 4
+sergeant--nnp: 4
+esteban--nnp: 4
+huh--nnp: 4
+solé--nnp: 4
+gutmansdottir--nnp: 4
+anyone--nn: 4
+fifteen--nnp: 4
+sammy--nnp: 4
+kill--nnp: 3
+far--nnp: 3
+miss koh--nnp-nnp: 3
+russian--nnp: 3
+doctor cortez--nnp-nnp: 3
+stuart--nnp: 3
+sergeant verbinski--nnp-nnp: 3
+who--nnp: 3
+david--nnp: 3
+ren--nn: 3
+james--nnp: 3
+chris williams--nnp-nnp: 3
+nikos--nnp: 3
+anamarie--nnp: 3
+ready--jj: 3
+which--wdt: 3
+garza--nnp: 3
+o exports--n-nnp: 3
+johnson--nnp: 3
+bull bull--nnp-nnp: 3
+chen--nnp: 3
+medical--jj: 3
+hud--nnp: 3
+fifty--nnp: 3
+nazis--nnp: 3
+jesus--nnp: 3
+klaxon--nnp: 3
+damn--nnp: 3
+europan--nnp: 3
+jojo--nn: 3
+station--nnp: 3
+always--nnp: 3
+anamarie ruiz--nnp-nnp: 3
+samara rosenberg--nnp-nnp: 3
+russian--jj: 3
+namono--nnp: 3
+tachi--nnp: 3
+new mexican--nnp-nnp: 3
+anderson station--nnp-nnp: 3
+father cortez--nnp-nnp: 3
+doctor hank--nnp-nnp: 3
+y que--nnp-nnp: 3
+rosenberg--nnp: 3
+captain pa--nnp-nnp: 3
+hey--nnp: 3
+klaxons--nnp: 2
+everyone--nn: 2
+neptune--nnp: 2
+slow--nnp: 2
+jupiter--nnp: 2
+null--nnp: 2
+kimry--nnp: 2
+protogen--nn: 2
+ruiz--nn: 2
+dna--nnp: 2
+travin--nn: 2
+sympathy--nnp: 2
+christmas--nnp: 2
+talk--nn: 2
+mariner valley--nnp-nnp: 2
+time--nn: 2
+nice--nnp: 2
+parmesan--nnp: 2
+understand--nnp: 2
+ren--jj: 2
+adri--nnp: 2
+methodist--nnp: 2
+daddy--nnp: 2
+between--nnp: 2
+marcos--nnp: 2
+light--nnp: 2
+jesus christ--nnp-nnp: 2
+where--nnp: 2
+church--nnp: 2
+wasn--nnp: 2
+shift--nnp: 2
+agatha king--nnp-nnp: 2
+mother--nnp: 2
+ceres--nnps: 2
+word--nnp: 2
+had--nnp: 2
+u prince--n-nnp: 2
+united--nnp: 2
+christ--nnp: 2
+savior--nnp: 2
+concern--nn: 2
+was--nnp: 2
+okay--nn: 2
+which--jj: 2
+alonzo guzman--nnp-nnp: 2
+vast--jj: 2
+michael--nnp: 2
+hot--nnp: 2
+make--nnp: 2
+enough--nnp: 2
+blood--nnp: 2
+anthea--nnp: 2
+uganda--nnp: 2
+belters--nnps: 2
+white--nnp: 2
+marines--nnps: 2
+earthers--nns: 2
+baca--nnp: 2
+emts--nnp: 2
+caesar--nnp: 2
+earther--nnp: 2
+r volovodov----nnp: 2
+gathoni--nnp: 2
+holden naomi--nnp-nnp: 2
+wouldn--nnp: 2
+truth--nn: 2
+emergency--nnp: 2
+fallen--nnp: 2
+coriolis--nnp: 2
+old--nnp: 2
+pastor--nnp: 2
+whole--jj: 2
+men--nn: 2
+faith--nnp: 2
+father hank--nnp-nnp: 2
+lock--nnp: 2
+protocol--nnp: 2
+russia--nnp: 2
+australian--nnp: 2
+marine--nnp: 2
+protogen--nnp: 2
+montana--nnp: 2
+will--nnp: 2
+paul--nnp: 2
+methodists--nns: 2
+pain--nn: 2
+ceres station--nnps-nnp: 2
+part--nn: 2
+jovian--jj: 2
+data--nnp: 2
+bullets--nns: 2
+australian--jj: 2
+captain jakande--nnp-nnp: 2
+esá--nnp: 2
+mormons--nnp: 2
+captain--nn: 2
+eros station--nnp-nnp: 2
+security--nnp: 2
+seven--nnp: 2
+doctor sterling--nnp-nnp: 2
+american--jj: 2
+fear--nn: 2
+beautiful--nnp: 2
+loca greiga--nnp-nnp: 2
+lucien--nnp: 2
+thank--nn: 2
+tiny--jj: 2
+anna anna--nnp-nnp: 2
+wow--nnp: 2
+good--nnp: 2
+ugandan--nnp: 2
+sorrow--nnp: 2
+peaches--nnp: 2
+dangerous--jj: 1
+sweat--nn: 1
+nucleus--nnp: 1
+keep naomi--nnp-nnp: 1
+pneumonia--nnp: 1
+excited--jj: 1
+mixed--nnp: 1
+tears--nnp: 1
+hatch--nnp: 1
+silvestari campos--nnp-nnp: 1
+stupid--nnp: 1
+hangar b--nnp-nnp: 1
+matthew--nnp: 1
+armed--nnp: 1
+hatred--nnp: 1
+roman catholic--nnp-nnp: 1
+lieutenant--nnp: 1
+reverend doctor--nnp-nnp: 1
+são paulo--nnp-nnp: 1
+iron--nnp: 1
+brighter--nn: 1
+pastor--nn: 1
+start--nnp: 1
+gods--nnp: 1
+episcopalian--nn: 1
+maximum--jj: 1
+chapter nine--nnp-nnp: 1
+typical--nnp: 1
+get--nnp: 1
+goliath--nnp: 1
+bull carlos--nnp-nnp: 1
+soft--jj: 1
+uncertainty--nn: 1
+f barbara--n-nnp: 1
+guzman--nnp: 1
+smaller--nnp: 1
+head--nn: 1
+chapter twenty--nnp-nnp: 1
+silvestari--nnp: 1
+dunno--nnp: 1
+light--nn: 1
+helpless--nnp: 1
+humanitarian--jj: 1
+shazam--nnp: 1
+wheeless--nnp: 1
+vips--nnp: 1
+changed--nnp: 1
+chapter seven--nnp-nnp: 1
+andre commenhi--nnp-nnp: 1
+lunar campus--nnp-nnp: 1
+brown--nnp: 1
+doctor volovodov--nnp-nnp: 1
+earther--nn: 1
+babel--nn: 1
+tentative--nn: 1
+give--nnp: 1
+purple--nnp: 1
+c arsenau--n-nnp: 1
+pdcs--nnp: 1
+nauvoo--nn: 1
+erosian--jj: 1
+holden well--nnp-nnp: 1
+soladad--nnp: 1
+titan--nnp: 1
+want--nnp: 1
+sounds--nnp: 1
+anger--nnp: 1
+spin--nnp: 1
+santos--nnp: 1
+drop--nnp: 1
+xo pa--nnp-nnp: 1
+manéo manéo--nnp-nnp: 1
+eros--nn: 1
+st--nnp: 1
+deep--nnp: 1
+cartilage--nn: 1
+senior--jj: 1
+strong--nnp: 1
+grab--nnp: 1
+hijo--nnp: 1
+mister holden--nnp-nnp: 1
+hope--nnp: 1
+k holden--n-nnp: 1
+tau ceti--nnp-nnp: 1
+annushka volovodov--nnp-nnp: 1
+catastrophic--jj: 1
+verb--nnp: 1
+earthers--nnp: 1
+shut--nnp: 1
+mine--nn: 1
+colonel--nnp: 1
+callisto--nnp: 1
+law--nnp: 1
+curious--jj: 1
+bennie--nnp: 1
+cavalier--nnp: 1
+gone--nn: 1
+m koh--n-nnp: 1
+tense--nnp: 1
+catholics--nnps: 1
+bobbie--nnp: 1
+inch--nn: 1
+full--nnp: 1
+solid--jj: 1
+meaningless--nnp: 1
+work--nn: 1
+yellow--jj: 1
+look--nn: 1
+burton--nnp: 1
+gehst--nnp: 1
+screw--nnp: 1
+aunt--nnp: 1
+priest--nnp: 1
+chow--nnp: 1
+sophia brun--nnp-nnp: 1
+humanity ascendant--nnp-nnp: 1
+pandora--nnp: 1
+radio--nnp: 1
+thin--nnp: 1
+bible--jj: 1
+nicht--nnp: 1
+holden uranus--nnp-nnp: 1
+steady--jj: 1
+distant--jj: 1
+luke--nnp: 1
+toda--nnp: 1
+angry--jj: 1
+partners--nnps: 1
+holden wow--nnp-nnp: 1
+show--nnp: 1
+kelvin--nnp: 1
+shipwide--nnp: 1
+spanish--jj: 1
+nancy gao--nnp-nnp: 1
+new dolinsk--nnp-nnp: 1
+lovely--jj: 1
+mister ichigawa--nnp-nnp: 1
+coincidence--nn: 1
+ours--nnp: 1
+live--nnp: 1
+hard--nnp: 1
+buddhist--nnp: 1
+claire mao--nnp-nnp: 1
+bouvard--nnp: 1
+harsh--nnp: 1
+reaver--nnp: 1
+crisis--nn: 1
+naomi--nn: 1
+defense--nnp: 1
+say--nnp: 1
+none--nn: 1
+el tee--nnp-nnp: 1
+pierre--nnp: 1
+nobody--nn: 1
+change--nn: 1
+outside--nnp: 1
+practice--nnp: 1
+ship--nn: 1
+bobbie draper--nnp-nnp: 1
+freedom--nn: 1
+chapter forty--nnp-nnp: 1
+pale--nnp: 1
+dangerous--nnp: 1
+cheap--nnp: 1
+black--nnp: 1
+pierre mao--nnp-nnp: 1
+calm--nnp: 1
+ivs--nnp: 1
+instinct--nnp: 1
+besso--nnp: 1
+physical--jj: 1
+african--jj: 1
+mihn sterling--nnp-nnp: 1
+amnesty--nn: 1
+nadie--nnp: 1
+restore--nnp: 1
+smells--nns: 1
+trouble--nnp: 1
+europa--nn: 1
+nepal--nnp: 1
+garza--nn: 1
+afraid--nnp: 1
+aortic--jj: 1
+simple--nnp: 1
+same--jj: 1
+smart--nnp: 1
+e--nnp: 1
+reverend--nnp: 1
+general contracting--nnp-nnp: 1
+little--jj: 1
+rabbi--nnp: 1
+check--nnp: 1
+supply--nn: 1
+scupski--nnp: 1
+tell fred--nnp-nnp: 1
+alexander verbinski--nnp-nnp: 1
+never--nnp: 1
+good god--nnp-nnp: 1
+popular--jj: 1
+better--nnp: 1
+paolo--nnp: 1
+unn--nnp: 1
+lube--nnp: 1
+mister gutmansdottir--nnp-nnp: 1
+vertigo--nnp: 1
+phlegm--nnp: 1
+un navy--nnp-nnp: 1
+shitty--jj: 1
+de--nnp: 1
+alive--jj: 1
+sad--nn: 1
+evita jung--nnp-nnp: 1
+bunsen--nnp: 1
+spinal--jj: 1
+smoke--nnp: 1
+anna bull--nnp-nnp: 1
+catholic--jj: 1
+certainly--nnp: 1
+campos--nnp: 1
+plan--nn: 1
+hunger--nnp: 1
+opcom--nnp: 1
+chapter five--nnp-nnp: 1
+danis--nnp: 1
+security--nn: 1
+maos--nnp: 1
+assault--nnp: 1
+inflammation--nn: 1
+wonder--nnp: 1
+opa belter--nnp-nnp: 1
+d volovodov--n-nnp: 1
+methodist council--nnp-nnp: 1
+throat--nn: 1
+hmmm--nnp: 1
+archdiocese--nnp: 1
+labels--nnp: 1
+alonzo--nnp: 1
+detective--nnp: 1
+wish--nnp: 1
+ashford--nn: 1
+optimism--nn: 1
+brilliant--jj: 1
+roswell--nnp: 1
+golden bough--nnp-nnp: 1
+seed--nnp: 1
+partly--rb: 1
+samantha rosenberg--nnp-nnp: 1
+aware--nnp: 1
+death--nnp: 1
+corvusier--nnp: 1
+real--jj: 1
+cut--nnp: 1
+bobbie--nn: 1
+holden hey--nnp-nnp: 1
+nah--nnp: 1
+again--nn: 1
+m republic--j-nnp: 1
+against--nnp: 1
+empty--nnp: 1
+aren--nnp: 1
+africa--nnp: 1
+mortality--nnp: 1
+food--nn: 1
+lieutenant williams--nnp-nnp: 1
+ahead--nn: 1
+wall--nnp: 1
+look--nnp: 1
+eleven--nnp: 1
+show--nn: 1
+weapons--nnp: 1
+just--nnp: 1
+grace--nnp: 1
+einstein--nnp: 1
+silence--nn: 1
+virgin--nnp: 1
+guess--nnp: 1
+chrisjen avasarala--nnp-nnp: 1
+action--nn: 1
+listen--nnp: 1
+u broadcasting--n-nnp: 1
+complex--nnp: 1
+call ruiz--nnp-nnp: 1
+reeds--nns: 1
+religious--jj: 1
+mercury--nnp: 1
+love--nnp: 1
+scorch--nn: 1
+fuck--nn: 1
+shouldn--nnp: 1
+shoot--nnp: 1
+sympathy--nn: 1
+alscie--nnp: 1
+baja--nn: 1
+sort--nn: 1
+sergeant--jj: 1
+unn thomas--nnp-nnp: 1
+did--nnp: 1
+hardcore--nnp: 1
+long--rb: 1
+brazilian--jj: 1
+easy--jj: 1
+es--nnp: 1
+environmental--nnp: 1
+a volovodov--n-nnp: 1
+sam rosenberg--nnp-nnp: 1
+nicholas trubachev--nnp-nnp: 1
+did holden--nnp-nnp: 1
+chief--jj: 1
+fire--nn: 1
+boston university--nnp-nnp: 1
+boss--nnp: 1
+andrew smoot--nnp-nnp: 1
+anna nami--nnp-nnp: 1
+goodbye--nnp: 1
+d miller--n-nnp: 1
+slot--nnp: 1
+ceres station--nnp-nnp: 1
+up--nn: 1
+watanabe--nnp: 1
+canterbury--nn: 1
+straight--nnp: 1
+grief--nn: 1
+tension--nn: 1
+f zone--n-nnp: 1
+caucasian--jj: 1
+watch--nnp: 1
+call--nnp: 1
+mine--nnp: 1
+grief--nnp: 1
+horses--nns: 1
+sergio koh--nnp-nnp: 1
+blobs--nnp: 1
+nicholas--nnp: 1
+nineveh--nnp: 1
+cold--nn: 1
+safety--nn: 1
+alzbeta koh--nnp-nnp: 1
+hold--nnp: 1
+united nations--nnp-nnp: 1
+wake--nnp: 1
+supply--nnp: 1
+gotcha--nnp: 1
+neck--nnp: 1
+find--nnp: 1
+history--nnp: 1
+esteban--jj: 1
+hmm--nnp: 1
+desperation--nn: 1
+north--jj: 1
+frustration--nn: 1
+pretty--nnp: 1
+himmler--nnp: 1
+numerous--jj: 1
+holden holden--nnp-nnp: 1
+matilda--nnp: 1
+time--nnp: 1
+chapter thirty--nnp-nnp: 1
+respond--nnp: 1
+rigor--nnp: 1
+wound--nnp: 1
+wonderful--jj: 1
+cant--nnp: 1
+least--nnp: 1
+driver--nnp: 1
+distance--nn: 1
+mila sana--nnp-nnp: 1
+partners--nns: 1
+hephaestus--nnp: 1
+labrador--nnp: 1
+cathartic--jj: 1
+gotten--nnp: 1
+rome--nnp: 1
+vigilant--nn: 1
+funny--nnp: 1
+disaster--nn: 1
+typical--jj: 1
+understood--nnp: 1
+certainty--nnp: 1
+twelve--nn: 1
+large--jj: 1
+ate--nnp: 1
+english--nnp: 1
+up--nnp: 1
+officer--nnp: 1
+mira--nnp: 1
+mcrn hammurabi--nnp-nnp: 1
+south--nnp: 1
+brittle--nnp: 1
+shock--nn: 1
+lucky--jj: 1
+new mexico--nnp-nnp: 1
+elise--nnp: 1
+human--nnp: 1
+sparks--nns: 1
+us--nnp: 1
+vengeance--nn: 1
+annoyance--nn: 1
+worst--nnp: 1
+velcro--nnp: 1
+earth--jj: 1
+bennie cortland-mapu--nnp-nnp: 1
+women--nnp: 1
+almighty--nnp: 1
+weird--nnp: 1
+broadcast--nn: 1
+waldorf--nnp: 1
+outrage--nn: 1
+cairo--nnp: 1
+crack--nnp: 1
+afghan--nnp: 1
+beyond--nn: 1
+catholic--nnp: 1
+electrochemical--jj: 1
+down--nnp: 1
+arabic--nnp: 1
+rsvp--nnp: 1
+west texas--nnp-nnp: 1
+natural--nnp: 1
+palm--nnp: 1
+heroism--nn: 1
+petyr--nnps: 1
+dna--nn: 1
+tilly--rb: 1
+embarrassment--nn: 1
+meat--nn: 1
+knuckles--nns: 1
+sooner--nnp: 1
+save--nnp: 1
+melba stanni--nnp-nnp: 1
+high--jj: 1
+allah--nnp: 1
+ceres station--nns-nnp: 1
+amos burton--nnp-nnp: 1
+terrible--jj: 1
+melba julie--nnp-nnp: 1
+mcr--nnp: 1
+system--nnp: 1
+science--nn: 1
+elio casti--nnp-nnp: 1
+methodists--nnp: 1
+soil--nn: 1
+cargo--nnp: 1
+rehearsal--nnp: 1
+yep--nnp: 1
+becca--nnp: 1
+unless--nnp: 1
+clumsy--nn: 1
+chinese--jj: 1
+inside--nnp: 1
+micha krauss--nnp-nnp: 1
+juliette--nnp: 1
+muzak--nnp: 1
+anna eleven--nnp-nnp: 1
+sedon--nnp: 1
+christ--nn: 1
+journalism--nnp: 1
+pleasure--nn: 1
+ballistic--nnp: 1
+damage--nn: 1
+un--nn: 1
+cass--nn: 1
+brought--nnp: 1
+eastern european--jj-jj: 1
+roger--nnp: 1
+solomon epstein--nnp-nnp: 1
+tears--nns: 1
+martyrdom--nnp: 1
+bandao solice--nnp-nnp: 1
+me--nnp: 1
+cheerful--nnp: 1
+girl--nnp: 1
+wordless--nnp: 1
+pallas--nnp: 1
+atlantic ocean--nnp-nnp: 1
+young--nnp: 1
+mormon--nnp: 1
+honor--nn: 1
+claire--nn: 1
+god himself--nnp-nnp: 1
+stick--nnp: 1
+anglicans--nnps: 1
+pixie--nnp: 1
+utilitarian--jj: 1
+impatience--nn: 1
+best--nnp: 1
+r volovodov--n-nnp: 1
+tacky--nn: 1
+israel--nnp: 1
+rest--nnp: 1
+scotland--nnp: 1
+power--nnp: 1
+brothers--nnps: 1
+got--nnp: 1
+colombia--nnp: 1
+half--nnp: 1
+cute--nnp: 1
+r slow--n-nnp: 1
+mubi--nnp: 1
+irony--nnp: 1
+rabbi kimble--nnp-nnp: 1
+no jesus--nnp-nnp: 1
+can--nnp: 1
+crystal--jj: 1
+mikelson--nnp: 1
+sorry--nn: 1
+english--jj: 1
+electrochemical--nnp: 1
+hyperion--nnp: 1
+impressive--jj: 1
+urgent--nnp: 1
+ships--nnp: 1
+directional--nnp: 1
+kid--nnp: 1
+galley--nnp: 1
+toward--nnp: 1
+claro--nnp: 1
+electricity--nn: 1
+record--nn: 1
+civilian--jj: 1
+took--nn: 1
+thomas--nnp: 1
+eight--nnp: 1
+damp--nnp: 1
+busy--nnp: 1
+bitterness--nnp: 1
+tree--nnp: 1
+colonel johnson--nnp-nnp: 1
+broadcast--nnp: 1
+clip--nn: 1
+bring--nnp: 1
+annushka--nnp: 1
+dread--nnp: 1
+hi nono--nnp-nnp: 1
+move--nnp: 1
+knuckles--nnp: 1
+perdón--nnp: 1
+which earth--nnp-nnp: 1
+mourn--nnp: 1
+islay--nnp: 1
+tls--nnp: 1
+chan bao-zhi--nnp-nnp: 1
+score--nnp: 1
+macedon--nnp: 1
+apologize--nnp: 1
+wiser--nnp: 1
+sabotage--nn: 1
+mexican--nnp: 1
+marca--nnp: 1
+alamogordo--nnp: 1
+freedom--nnp: 1
+tomorrow--nnp: 1
+violence--nnp: 1
+n zone----nnp: 1
+ashtun collective--nnp-nnp: 1
+minnesota--nnp: 1
+people--nns: 1
+scared--nnp: 1
+steven comer--nnp-nnp: 1
+oq--nnp: 1
+muscovite--nnp: 1
+movement--nn: 1
+lie--nn: 1
+bottle--nnp: 1
+brilliant--nnp: 1
+anna eschatology--nnp-nnp: 1
+ichigawa--nnp: 1
+again--nnp: 1
+reverend father--nnp-nnp: 1
+plenty--nn: 1
+ready--nnp: 1
+learn--nnp: 1
+malachi--nnp: 1
+gray--nnp: 1
+happy--jj: 1
+john--nnp: 1
+normal--nnp: 1
+twenty--nnp: 1
+Total of 913 unique entities
+===============================================================
+
+
+Top Entities for the-expanse-4-cibola-burn.txt:
+holden--nnp: 840
+basia--nnp: 569
+havelock--nnp: 532
+elvi--nnp: 425
+murtry--nnp: 409
+alex--nnp: 306
+naomi--nnp: 302
+amos--nnp: 300
+fayez--nnp: 205
+rce--nnp: 183
+miller--nnp: 173
+lucia--nnp: 139
+israel--nnp: 117
+rocinante--nnp: 113
+coop--nnp: 100
+barbapiccola--nnp: 87
+wei--nnp: 74
+ilus--nnp: 70
+jacek--nnp: 61
+carol--nnp: 56
+felcia--nnp: 55
+don--nnp: 53
+roci--nnp: 51
+murtry--nn: 51
+marwick--nnp: 50
+un--nnp: 46
+new terra--nnp-nnp: 46
+okay--nnp: 44
+opa--nnp: 43
+cate--nnp: 41
+barb--nnp: 39
+ganymede--nnp: 38
+earth--nnp: 37
+edward israel--nnp-nnp: 37
+bobbie--nnp: 36
+belter--nnp: 34
+scotty--nnp: 33
+james holden--nnp-nnp: 30
+new--nnp: 29
+reeve--nnp: 29
+mars--nnp: 28
+hud--nnp: 28
+fred--nnp: 27
+sorry--nnp: 25
+captain--nnp: 25
+someone--nn: 24
+avasarala--nnp: 23
+ibrahim--nnp: 23
+koenen--nnp: 22
+martian--jj: 19
+zadie--nnp: 19
+eva--nnp: 19
+cap--nnp: 18
+luna--nnp: 18
+first landing--nnp-nnp: 18
+cassie--nnp: 17
+captain holden--nnp-nnp: 17
+terra--nnp: 17
+sudyam--nnp: 16
+katoa--nnp: 16
+medina--nnp: 15
+might--nnp: 14
+carol chiwewe--nnp-nnp: 14
+earth--nn: 14
+belt--nnp: 13
+doctor--nnp: 13
+pete--nnp: 13
+how--nnp: 12
+papa--nnp: 12
+medina station--nnp-nnp: 12
+eros--nnp: 11
+nothing--nn: 11
+doctor okoye--nnp-nnp: 11
+kemp--nnp: 11
+sol--nnp: 11
+sir--nnp: 11
+merton--nnp: 11
+mfume--nnp: 11
+right--nnp: 11
+basia--nn: 11
+no--nnp: 11
+royal--nnp: 10
+jim--nnp: 10
+williams--nnp: 10
+nagata--nnp: 10
+elvi okoye--nnp-nnp: 9
+fred johnson--nnp-nnp: 9
+belters--nnp: 8
+good--jj: 8
+which--nnp: 8
+hello--nnp: 8
+jim holden--nnp-nnp: 8
+doesn--nnp: 8
+eric--nnp: 7
+xo--nnp: 7
+r energy--n-nnp: 7
+huh--nnp: 7
+naomi nagata--nnp-nnp: 7
+ceres--nnp: 7
+basia merton--nnp-nnp: 7
+belters--nns: 7
+doctor merton--nnp-nnp: 6
+salvatore--nnp: 6
+thorrsen--nnp: 6
+johnson--nnp: 6
+captain marwick--nnp-nnp: 6
+which--wdt: 6
+honneker--nnp: 6
+belters--nnps: 6
+wouldn--nnp: 6
+pdcs--nnp: 6
+part--nn: 6
+elvi elvi--nnp-nnp: 6
+earther--nnp: 6
+earthman--nnp: 6
+ceres station--nnps-nnp: 6
+mister havelock--nnp-nnp: 5
+basia--vb: 5
+tell--nnp: 5
+engineer koenen--nnp-nnp: 5
+amanda--nnp: 5
+zeb--nnp: 5
+okoye--nnp: 5
+basia basia--nnp-nnp: 5
+amos burton--nnp-nnp: 5
+pallas--nnp: 5
+lucia merton--nnp-nnp: 5
+elvi--nn: 5
+smith--nnp: 5
+american--jj: 5
+loris--nnp: 5
+yma--nnp: 5
+cbc--nnp: 5
+jupiter--nnp: 4
+martian--nnp: 4
+breach candy--nnp-nnp: 4
+chiwewe--nnp: 4
+hell--nnp: 4
+look--nnp: 4
+forecast analytics--nnp-nnp: 4
+shit--nnp: 4
+baz--nnp: 4
+peter--nnp: 4
+fifty--nnp: 4
+star helix--nnp-nnp: 4
+venus--nnp: 4
+mars--nns: 4
+hey--nnp: 4
+drake--nnp: 4
+please--nnp: 4
+north--jj: 4
+que--nnp: 4
+had--nnp: 4
+monica--nnp: 4
+holden holden--nnp-nnp: 4
+mei--nnp: 4
+roger--nnp: 4
+tick--nnp: 4
+alex kamal--nnp-nnp: 4
+god--nnp: 4
+bad--nnp: 3
+chandra wei--nnp-nnp: 3
+everyone--nn: 3
+someone--nnp: 3
+protogen--nnp: 3
+skip--nn: 3
+sarkis--nnp: 3
+trajan--nnp: 3
+see--nnp: 3
+callisto--nnp: 3
+rce--jj: 3
+look--nn: 3
+patterns--nnp: 3
+wasn--nnp: 3
+lucy--nnp: 3
+chrisjen avasarala--nnp-nnp: 3
+wrong--nnp: 3
+adolphus murtry--nnp-nnp: 3
+taser--nnp: 3
+dad--nnp: 3
+jesus--nnp: 3
+new terran--nnp-nnp: 3
+david--nnp: 3
+gravity--nnp: 3
+didn--nnp: 3
+dahlke--nnp: 3
+stay--nnp: 3
+nah--nnp: 3
+mister burton--nnp-nnp: 3
+outside--nnp: 3
+saturn--nnp: 3
+hold--nnp: 3
+united nations--nnp-nnp: 3
+first--nnp: 3
+honestly--nnp: 3
+beta--nnp: 3
+mcrn--nnp: 3
+amos--nn: 3
+jovian--jj: 3
+yep--nnp: 3
+inside--nnp: 3
+pur--nnp: 3
+work--nn: 3
+burton--nnp: 3
+michaela--nnp: 3
+sorry--nn: 3
+montana--nnp: 3
+vast--nnp: 3
+good--nnp: 3
+almost--nnp: 3
+nasr maxwell--nnp-nnp: 2
+royal charter--nnp-nnp: 2
+fine--nnp: 2
+sweat--nn: 2
+hurry--nnp: 2
+jason--nnp: 2
+stupid--nnp: 2
+o alliance--n-nnp: 2
+dimitri havelock--nnp-nnp: 2
+gillett--nnp: 2
+nauvoo--nnp: 2
+far--nnp: 2
+humanity--nnp: 2
+behemoth--nnp: 2
+welder--nnp: 2
+danger--nnp: 2
+mariner valley--nnp-nnp: 2
+sounds--nnp: 2
+adrenaline--nnp: 2
+between--nnp: 2
+food--nnp: 2
+full--nnp: 2
+clear--nnp: 2
+armageddon--nnp: 2
+mother--nnp: 2
+nobody--nn: 2
+nigeria--nnp: 2
+james--nnp: 2
+explain--nn: 2
+first landers--nnp-nnp: 2
+aterpol--nnp: 2
+aurorae sinus--nnp-nnp: 2
+everyone--nnp: 2
+mister merton--nnp-nnp: 2
+angry--jj: 2
+medical--jj: 2
+power--nn: 2
+make--nnp: 2
+well--nnp: 2
+couldn--nnp: 2
+baby--nnp: 2
+gon--nnp: 2
+arjun--nnp: 2
+security--nn: 2
+the--nnp: 2
+klaxon--nnp: 2
+thirty--nn: 2
+martians--nnps: 2
+acetylene--nnp: 2
+ah--nn: 2
+aren--nnp: 2
+food--nn: 2
+united nations--nnp-nnps: 2
+charter energy--nnp-nnp: 2
+sort--nn: 2
+men--nn: 2
+leds--nnp: 2
+cordoba--nnp: 2
+paulson--nnp: 2
+peter pan--nnp-nnp: 2
+old--nnp: 2
+light--jj: 2
+halfway--nnp: 2
+sibbets--nnp: 2
+problem--nnp: 2
+will--nnp: 2
+shock--nn: 2
+boyd--nnp: 2
+seems--nnp: 2
+dimitri--nnp: 2
+anneke--nnp: 2
+black--nnp: 2
+anyone--nn: 2
+humanity--nn: 2
+meet--nn: 2
+forecast--nnp: 2
+security--nnp: 2
+me--nnp: 2
+cass--nnp: 2
+felcia merton--nnp-nnp: 2
+mama--nnp: 2
+got--nnp: 2
+talissa--nnp: 2
+connection--nn: 2
+tiny--jj: 2
+pinkwater--nnp: 2
+caterine--nnp: 2
+hihiri--nnp: 2
+tycho--nnp: 2
+havelock havelock--nnp-nnp: 2
+chief--nnp: 2
+again--nnp: 2
+couple--nnp: 1
+oe--nnp: 1
+europeans--nnps: 1
+inertia--nnp: 1
+done--nn: 1
+leds--nn: 1
+twice--nnp: 1
+darwin--nnp: 1
+adrenaline--nn: 1
+stop--nnp: 1
+sergeant wei--nnp-nnp: 1
+hop--nnp: 1
+beth--nnp: 1
+taken--nnp: 1
+switched--nnp: 1
+neptune--nnp: 1
+h ride----nnp: 1
+tragedy--nnp: 1
+dale--nnp: 1
+tears--nnp: 1
+tipene--nnp: 1
+chappel--nnp: 1
+should--nnp: 1
+standard--nnp: 1
+gigantic--jj: 1
+chapter nine--nnp-nnp: 1
+ready--jj: 1
+sanchez--nnp: 1
+worm fields--nnp-nnps: 1
+dna--nnp: 1
+better--nnp: 1
+surreal--nn: 1
+unconsciousness--nn: 1
+babosa--nnp: 1
+air--nnp: 1
+forward--nnp: 1
+radio--nn: 1
+same--nnp: 1
+io--nnp: 1
+suche--nnp: 1
+cockpit--nnp: 1
+e koenen--n-nnp: 1
+julie--nnp: 1
+crescent city--nnp-nnp: 1
+terrible--nnp: 1
+trento--nnp: 1
+trying--nn: 1
+naw--nnp: 1
+greasy--nnp: 1
+holds--nnp: 1
+médico--nnp: 1
+landing--nnp: 1
+mcarron--nnp: 1
+wbc--nnp: 1
+chapter thirty--nnp-nnp: 1
+panic--nnp: 1
+time--nn: 1
+amazon--nnp: 1
+dirt--nnp: 1
+nice--nnp: 1
+putrescence--nn: 1
+large--jj: 1
+asiatic--nnp: 1
+central information--nnp-nnp: 1
+montezuma--nnp: 1
+enemy--nnp: 1
+dui--nnp: 1
+nitrogen--nnp: 1
+fines--nns: 1
+orbas--nn: 1
+ashamed--nnp: 1
+first landing--jj-nnp: 1
+simply--nnp: 1
+jesus--nn: 1
+felica--nnp: 1
+phoebe--nnp: 1
+bright--nnp: 1
+scotty--jj: 1
+thirteen--nnp: 1
+overreact--nnp: 1
+tonight--nn: 1
+cease--nnp: 1
+vanderwert--nnp: 1
+um--nn: 1
+neo-libertarian--jj: 1
+beings--nns: 1
+jacek--nns: 1
+sight--nnp: 1
+meet--nnp: 1
+gibbs--nnp: 1
+ilus gate--nnp-nnp: 1
+partner--nnp: 1
+long--nnp: 1
+clay dahlke--nnp-nnp: 1
+shut--nnp: 1
+into--nnp: 1
+anson--nnp: 1
+mao-kwikowski--nnp: 1
+samoa--nnp: 1
+science--nnp: 1
+maria--nnp: 1
+deeper--nnp: 1
+samish--jj: 1
+solid--jj: 1
+narrow--nnp: 1
+terrorism--nnp: 1
+mariner--nnp: 1
+pta--nn: 1
+jesus christ--nnp-nnp: 1
+dreamlike--nn: 1
+pierce--nnp: 1
+certain--nnp: 1
+k company--n-nnp: 1
+pdcs--nn: 1
+who--nnp: 1
+wakey--nnp: 1
+goldilocks zone--nnp-nnp: 1
+left--nnp: 1
+three--nnp: 1
+african--nnp: 1
+sex--nn: 1
+aten base--nnp-nnp: 1
+fusion--nn: 1
+spanish--jj: 1
+veteran--nnp: 1
+elvi holden--nnp-nnp: 1
+americas--nnp: 1
+glasgow--nnp: 1
+maravalis--nnp: 1
+lva--nnp: 1
+context--nnp: 1
+ours--nnp: 1
+whose--nnp: 1
+farengier--nnp: 1
+gas--nnp: 1
+naked comes--nnp-nnps: 1
+german--jj: 1
+doctor sarkis--nnp-nnp: 1
+morales--nnp: 1
+call for--nn-nnp: 1
+yes--nnp: 1
+small--jj: 1
+mimic--nnp: 1
+none--nn: 1
+argonaut--nnp: 1
+above--nnp: 1
+noir revival--nnp-nnp: 1
+wei--nn: 1
+heavy--nnp: 1
+slow--jj: 1
+orson kalk--nnp-nnp: 1
+plan b--nn-nnp: 1
+bobbie draper--nnp-nnp: 1
+recoilless--nnp: 1
+bering--nnp: 1
+soil--nn: 1
+chapter forty--nnp-nnp: 1
+prax--nnp: 1
+cells--nns: 1
+hope--nn: 1
+ground--nn: 1
+r zone----nnp: 1
+black bart--nnp-nnp: 1
+eirinn--nnp: 1
+fear--nn: 1
+hmmm--nnp: 1
+sleep--nnp: 1
+peaceful--nn: 1
+compensation--nnp: 1
+motivation--nnp: 1
+physical--jj: 1
+delay--nnp: 1
+doctor strickland--nnp-nnp: 1
+christ--nnp: 1
+miss nagata--nnp-nnp: 1
+oh--nnp: 1
+nezávislé news--nnp-nnp: 1
+tor--nnp: 1
+kano--nnp: 1
+was--nnp: 1
+with--nnp: 1
+cut--nnp: 1
+has--nnp: 1
+really--nnp: 1
+high--nnp: 1
+fayez--nn: 1
+patricia silva--nnp-nnp: 1
+shikata--nnp: 1
+northern--nnp: 1
+plymouth rock--nnp-nnp: 1
+explain--nnp: 1
+ilusite--nnp: 1
+lipid--jj: 1
+phds--nnp: 1
+shipboard--nnp: 1
+carbon--nn: 1
+iff--nnp: 1
+water--nnp: 1
+toward--nnp: 1
+check--nnp: 1
+okay--nn: 1
+soft--jj: 1
+weight--nn: 1
+shock--nnp: 1
+himself--nnp: 1
+son--nnp: 1
+aragão--nnp: 1
+havelock slowly--nnp-nnp: 1
+asteroid--nnp: 1
+daddy--nnp: 1
+smart--nnp: 1
+dodge--nnp: 1
+fuckin--nnp: 1
+thai--nnp: 1
+deal--nn: 1
+related--nnp: 1
+lean--nnp: 1
+huge--jj: 1
+part--nnp: 1
+skippy--nnp: 1
+software--nnp: 1
+mediator--nnp: 1
+solomon--nnp: 1
+monica stuart--nnp-nnp: 1
+false--jj: 1
+tobias--nnp: 1
+a pratkanis--n-nnp: 1
+simple--nnp: 1
+enough--nnp: 1
+europa--nnp: 1
+figure--nn: 1
+house--nnp: 1
+help--nnp: 1
+ursa major--nnp-nnp: 1
+manhattan--nnp: 1
+smoke--nnp: 1
+holiness--nnp: 1
+sheriff--nnp: 1
+madam--nnp: 1
+alexandria--nnp: 1
+hunger--nnp: 1
+orion--nnp: 1
+red eva--nnp-nnp: 1
+harder--nn: 1
+subatomic--nnp: 1
+increased--nnp: 1
+kamal--nnp: 1
+chapter twenty--nnp-nnp: 1
+tracer--nnp: 1
+alpha--nnp: 1
+humans--nns: 1
+truth--nn: 1
+call--nnp: 1
+anyone--nnp: 1
+professor--nnp: 1
+massive--nnp: 1
+smart--jj: 1
+speakin--nnp: 1
+mmm--nnp: 1
+injector--nnp: 1
+elvi sitting--nnp-nnp: 1
+droppin--nnp: 1
+hassan smith--nnp-nnp: 1
+fresh-ish--jj: 1
+crisp--nnp: 1
+damn--nnp: 1
+faithful--nn: 1
+push--nn: 1
+skippy--jj: 1
+ebisu--nnp: 1
+real--jj: 1
+earthers--nnps: 1
+bobbie--nn: 1
+unaware--nn: 1
+great--nnp: 1
+mister smith--nnp-nnp: 1
+aunt bobbie--nnp-nnp: 1
+elveeaye--nnp: 1
+empty--nnp: 1
+grandpa raynard--nnp-nnp: 1
+laberge--nn: 1
+mos--nnp: 1
+persian--nnp: 1
+petri--nnp: 1
+pretty--nnp: 1
+helplessness--nnp: 1
+angry--nnp: 1
+eleven--nnp: 1
+londres nova--nnp-nnp: 1
+gone--nn: 1
+possible--nnp: 1
+prior--nnp: 1
+captain--nn: 1
+energy--nnp: 1
+elvi scientific--nnp-nnp: 1
+los--nnp: 1
+sergio--nnp: 1
+coriolis--nnp: 1
+chapter seven--nnp-nnp: 1
+smells--nnp: 1
+slug--nnp: 1
+cuma--nnp: 1
+dream--nnp: 1
+adam--nnp: 1
+kinda--nnp: 1
+hey miller--nnp-nnp: 1
+potable--jj: 1
+haven--nnp: 1
+line--nnp: 1
+europa--nn: 1
+tasers--nns: 1
+tamara--nnp: 1
+did--nnp: 1
+basic--jj: 1
+soon--nnp: 1
+sturdy--nnp: 1
+bush--nnp: 1
+clean--jj: 1
+jacek merton--nnp-nnp: 1
+felcia--nn: 1
+habits--nns: 1
+chang--nnp: 1
+rna--nn: 1
+basia coop--nnp-nnp: 1
+carol--nn: 1
+european--jj: 1
+profit--nn: 1
+boss--nnp: 1
+balance--nnp: 1
+goodbye--nnp: 1
+ceres station--nnp-nnp: 1
+mbeki soon--nnp-nnp: 1
+uncertain--nn: 1
+holden murtry--nnp-nnp: 1
+s zone--n-nnp: 1
+assistant--nn: 1
+chandra--nnp: 1
+elvi--nnps: 1
+ay--nn: 1
+watch--nnp: 1
+plate--nnp: 1
+mostly--rb: 1
+trace--nn: 1
+avoid--nn: 1
+rice--nnp: 1
+security murtry--nnp-nnp: 1
+legal--jj: 1
+eat--nnp: 1
+kevlar--nnp: 1
+details--nnp: 1
+genghis khan--nnp-nnp: 1
+charles dickens--nnp-nnp: 1
+christmas--nnp: 1
+ouch--nnp: 1
+visual--jj: 1
+him--nnp: 1
+british--jj: 1
+crystal--jj: 1
+hmm--nnp: 1
+innis shallow--nnp-nnp: 1
+frustration--nn: 1
+pop--nnp: 1
+understood--nnp: 1
+celsius--nnp: 1
+holden--jj: 1
+kottler--nnp: 1
+goodnight--nnp: 1
+conflict--nnp: 1
+equipment--nnp: 1
+kani--nnp: 1
+station--nnp: 1
+time--nnp: 1
+cortez--nnp: 1
+star--nnp: 1
+bischen--nnp: 1
+sol gate--nnp-nnp: 1
+meaningless--nn: 1
+jones--nnp: 1
+plastic--nn: 1
+eric vanderwert--nnp-nnp: 1
+anderson dawes--nnp-nnp: 1
+sweetie--nnp: 1
+c holden--n-nnp: 1
+andrada--nnp: 1
+north america--nnp-nnp: 1
+anglo--nnp: 1
+sergeant--nnp: 1
+annamarie--nnp: 1
+agatha--nnp: 1
+captain andrada--nnp-nnp: 1
+wow--nnp: 1
+down--nnp: 1
+b merton--n-nnp: 1
+donde--nnp: 1
+mister murtry--nnp-nnp: 1
+riots--nnp: 1
+tribal--nnp: 1
+dog--nnp: 1
+yma--nn: 1
+mister kamal--nnp-nnp: 1
+rbc--nnp: 1
+fityani--nnp: 1
+polynesian--jj: 1
+done--nnp: 1
+bullet--nnp: 1
+gun--nnp: 1
+pdc--nnp: 1
+permission--nnp: 1
+somethin--nnp: 1
+astronomy--nnp: 1
+goodwill--nnp: 1
+money--nnp: 1
+south--nnp: 1
+farouk--nnp: 1
+hardpan--nnp: 1
+focus--nn: 1
+ojos--nnp: 1
+bears--nns: 1
+como--nnp: 1
+human--nnp: 1
+occluded--nnp: 1
+young--nnp: 1
+edward--nnp: 1
+space--nnp: 1
+awww--nnp: 1
+too--nn: 1
+pratkanis--nnp: 1
+weird--nnp: 1
+jacek--nn: 1
+walters--nnp: 1
+agreed--nnp: 1
+twenty--nn: 1
+detective miller--jj-nnp: 1
+laughter--nnp: 1
+sophie--nnp: 1
+yell--nn: 1
+seem--nnp: 1
+gone--nnp: 1
+dna--nn: 1
+lucia--nn: 1
+jordan--nnp: 1
+nine--nn: 1
+gregorio--nnp: 1
+ganymede--nn: 1
+sooner--nnp: 1
+hutton--nnp: 1
+cruel--nnp: 1
+hadrian--nnp: 1
+blancos--nnp: 1
+mud--nnp: 1
+ceres station--nns-nnp: 1
+wait--nn: 1
+european--nnp: 1
+thanks--nnp: 1
+written--nnp: 1
+mcr--nnp: 1
+drink--nnp: 1
+turn--nnp: 1
+normally--rb: 1
+wei--jj: 1
+science--nn: 1
+canterbury--nnp: 1
+luminescence--nn: 1
+united states--nnp-nnps: 1
+new york--nnp-nnp: 1
+vyakislav--nnp: 1
+hobart--nnp: 1
+tycho station--nnp-nnp: 1
+spare--jj: 1
+nariman--nnp: 1
+arturo ramsey--nnp-nnp: 1
+chu--nnp: 1
+same--nn: 1
+silverware--nn: 1
+letter--nnp: 1
+sally ride--nnp-nnp: 1
+mankind--nnp: 1
+me--nn: 1
+jetzt--nnp: 1
+glad basia--nnp-nnp: 1
+hang--nnp: 1
+anita--nnp: 1
+stone--nnp: 1
+uranus--nnp: 1
+solomon epstein--nnp-nnp: 1
+thank--nn: 1
+bram--nnp: 1
+harsh--jj: 1
+long--jj: 1
+jason--nn: 1
+nelson--nnp: 1
+bring--nnp: 1
+terrans--nnps: 1
+ir--nnp: 1
+rain--nn: 1
+hassan--nnp: 1
+atlantic ocean--nnp-nnp: 1
+astrapani--nnp: 1
+tough--nn: 1
+está--nnp: 1
+vee--nn: 1
+xo--nn: 1
+mimic--jj: 1
+numeric--nnp: 1
+trying--nnp: 1
+schrödinger--nnp: 1
+best--nnp: 1
+west african--jj-jj: 1
+c marwick--n-nnp: 1
+dawkinsian--jj: 1
+great--jj: 1
+tight--nnp: 1
+holden--nn: 1
+rest--nnp: 1
+havelock havelock--nn-nnp: 1
+funny--nnp: 1
+exploit--nnp: 1
+orbital--nnp: 1
+john deloso--nnp-nnp: 1
+nights--nns: 1
+blah--nnp: 1
+caskey--nnp: 1
+sensor--nnp: 1
+ilus--nn: 1
+fifteen--nnp: 1
+eros station--nnp-nnp: 1
+just--nnp: 1
+pope holden--nnp-nnp: 1
+store--nnp: 1
+hours--nnp: 1
+tolerson--nnp: 1
+man--nnp: 1
+backup--nnp: 1
+dahlkes--nnp: 1
+mister curvelo--nnp-nnp: 1
+despair--nn: 1
+once--nnp: 1
+ilusian--nnp: 1
+sneeze--nnp: 1
+charter--nnp: 1
+too--nnp: 1
+kid--nnp: 1
+protocol--nn: 1
+kate--nnp: 1
+hitler--nnp: 1
+kasim andrada--nnp-nnp: 1
+fame--nn: 1
+first response--nnp-nnp: 1
+fayez sarkis--nnp-nnp: 1
+hadrian institute--nnp-nnp: 1
+maudlin--nn: 1
+b four--n-nnp: 1
+absurd--nnp: 1
+true--nnp: 1
+china--nnp: 1
+geology--nnp: 1
+pied piper--nnp-nnp: 1
+simon--nnp: 1
+louder--nnp: 1
+havelock--nn: 1
+milky way--nnp-nnp: 1
+farewell--nnp: 1
+trufire--nn: 1
+severn--nnp: 1
+torre--nnp: 1
+havelock blue--nnp-nnp: 1
+wan--nnp: 1
+afwan--nnp: 1
+rail--nnp: 1
+fingertips--nnp: 1
+distant--jj: 1
+bushido--nnp: 1
+led--nnp: 1
+mayon--nnp: 1
+sad--nnp: 1
+li--nnp: 1
+twelve--nn: 1
+lovell--nnp: 1
+conspiracy--nn: 1
+honneker--nn: 1
+mom--nnp: 1
+hadn--nnp: 1
+yessir--nnp: 1
+violence--nnp: 1
+joint--nnp: 1
+various--jj: 1
+evacuation--nn: 1
+fine--jj: 1
+praxidike--nnp: 1
+upstairs--nnp: 1
+arches--nns: 1
+fun--nn: 1
+plenty--nn: 1
+yma chappel--nnp-nnp: 1
+b holden--n-nnp: 1
+ah--nnp: 1
+jacob--nnp: 1
+hosni--nnp: 1
+fragile--nn: 1
+pierce--nn: 1
+alone--nnp: 1
+draper--nnp: 1
+ph--nn: 1
+bang--nnp: 1
+bullets--nns: 1
+Total of 907 unique entities
+===============================================================
+
+
+Top Entities for the-expanse-5-nemesis-games.txt:
+amos--nnp: 571
+alex--nnp: 550
+holden--nnp: 549
+naomi--nnp: 365
+fred--nnp: 309
+bobbie--nnp: 259
+erich--nnp: 156
+marco--nnp: 147
+filip--nnp: 146
+cyn--nnp: 114
+earth--nnp: 96
+rocinante--nnp: 86
+monica--nnp: 80
+avasarala--nnp: 79
+jim--nnp: 78
+peaches--nnp: 78
+mars--nnp: 75
+opa--nnp: 72
+martian--jj: 66
+roci--nnp: 65
+belt--nnp: 64
+clarissa--nnp: 48
+razorback--nnp: 45
+sakai--nnp: 45
+drummer--nnp: 44
+tycho--nnp: 44
+don--nnp: 43
+konecheck--nnp: 40
+chetzemoka--nnp: 40
+smith--nnp: 39
+luna--nnp: 38
+karal--nnp: 38
+lydia--nnp: 33
+tycho station--nnp-nnp: 30
+free navy--nnp-nnp: 28
+james holden--nnp-nnp: 28
+rona--nnp: 27
+duarte--nnp: 26
+pella--nnp: 25
+baltimore--nnp: 24
+earth--nn: 24
+un--nnp: 22
+eva--nnp: 22
+morris--nnp: 21
+sárta--nnp: 21
+someone--nn: 21
+charles--nnp: 20
+medina--nnp: 20
+navy--nnp: 19
+ilus--nnp: 19
+butch--nnp: 19
+okay--nnp: 18
+naomi nagata--nnp-nnp: 17
+belter--nnp: 17
+sullivan--nnp: 16
+captain--nnp: 16
+rico--nnp: 16
+medina station--nnp-nnp: 16
+knuckles--nnp: 16
+martian--nnp: 14
+tell--nnp: 14
+miral--nnp: 14
+fred johnson--nnp-nnp: 14
+burton--nnp: 14
+aaman--nnp: 13
+pau kant--nnp-nnp: 13
+fermín--nnp: 13
+sauveterre--nnp: 13
+no--nnp: 13
+inaros--nnp: 13
+might--nnp: 13
+ganymede--nnp: 12
+paula--nnp: 12
+pdcs--nnp: 12
+malikah--nnp: 12
+how--nnp: 12
+zhang guo--nnp-nnp: 12
+hungaria--nnp: 12
+ceres--nnp: 12
+belters--nns: 12
+chapter fourteen--nn-nnp: 11
+sorry--nnp: 11
+josie--nnp: 11
+rokku--nnp: 11
+sam--nnp: 11
+andrew--nnp: 10
+new--nnp: 10
+wings--nnp: 10
+which--nnp: 10
+epstein--nnp: 10
+mars--nns: 10
+stokes--nnp: 10
+canterbury--nnp: 10
+station--nnp: 10
+filipito--nnp: 10
+jovian--jj: 10
+ceres--nns: 10
+belters--nnp: 9
+pella--nn: 9
+callisto--nnp: 9
+monica stuart--nnp-nnp: 9
+filip--nn: 9
+please--nnp: 9
+min--nnp: 9
+right--nnp: 9
+pit--nnp: 9
+pallas--nnp: 9
+tali--nnp: 8
+park--nnp: 8
+gor--nnp: 8
+johnson--nnp: 7
+chrisjen avasarala--nnp-nnp: 7
+shit--nnp: 7
+kamal--nnp: 7
+hat--nnp: 7
+cap--nnp: 7
+bethlehem--nnp: 7
+mfume--nnp: 7
+wendy--nnp: 7
+jianguo--nnp: 7
+alexander--nnp: 7
+foster--nnp: 6
+barkeith--nnp: 6
+chrissie--nnp: 6
+gamarra--nnp: 6
+chapter--nnp: 6
+new terra--nnp-nnp: 6
+miller--nnp: 6
+alex kamal--nnp-nnp: 6
+talissa--nnp: 6
+milky way--nnp-nnp: 6
+londres nova--nnp-nnp: 6
+darius--nnp: 6
+draper--nnp: 6
+garret--nnp: 5
+nate--nnp: 5
+stuart--nnp: 5
+see--nnp: 5
+good--jj: 5
+mcrn--nnp: 5
+which--wdt: 5
+gon--nnp: 5
+hud--nnp: 5
+klaxon--nnp: 5
+didn--nnp: 5
+maura--nnp: 5
+tatu--nnp: 5
+wouldn--nnp: 5
+mao--nnp: 5
+ceres station--nnp-nnp: 5
+cant--nnp: 5
+huh--nnp: 5
+part--nn: 5
+belters--nnps: 5
+clarissa mao--nnp-nnp: 5
+amos burton--nnp-nnp: 5
+ben--nnp: 5
+new york--nnp-nnp: 5
+golgo--nnp: 5
+comm--nnp: 5
+yup--nnp: 5
+doesn--nnp: 5
+blood--nn: 5
+o alliance--n-nnp: 4
+someone--nnp: 4
+atlantic--nnp: 4
+marco inaros--nnp-nnp: 4
+long--nnp: 4
+italian--jj: 4
+mariner--nnp: 4
+hell--nnp: 4
+wasn--nnp: 4
+chuchu--nnp: 4
+sandra ip--nnp-nnp: 4
+north africa--nnp-nnp: 4
+mps--nnp: 4
+explosion--nnp: 4
+okay--nn: 4
+rabia balkhi--nnp-nnp: 4
+couldn--nnp: 4
+hoy--nnp: 4
+plan--nn: 4
+captain holden--nnp-nnp: 4
+nah--nnp: 4
+africa--nnp: 4
+toreador--nnp: 4
+martian navy--nnp-nnp: 4
+frank aiken--nnp-nnp: 4
+saturn--nnp: 4
+hey--nnp: 4
+anderson dawes--nnp-nnp: 4
+danger--nn: 4
+timmy--nnp: 4
+hecate--nnp: 4
+cortázar--nnp: 4
+fifteen--nnp: 4
+god--nnp: 4
+eros--nnp: 3
+klaxons--nnp: 3
+boy--nnp: 3
+nothing--nn: 3
+dakar--nnp: 3
+thirty--nnp: 3
+behemoth--nnp: 3
+engineer sakai--nnp-nnp: 3
+tiny--nnp: 3
+sounds--nnp: 3
+got--nnp: 3
+anger--nnp: 3
+anderson station--nnp-nnp: 3
+keller--nnp: 3
+indian--jj: 3
+sir--nnp: 3
+ceres--nnps: 3
+hard--nnp: 3
+bobbie draper--nnp-nnp: 3
+dawes--nnp: 3
+gozerian--nnp: 3
+open--nnp: 3
+kogoma--nnp: 3
+sergeant draper--nnp-nnp: 3
+twelve--nnp: 3
+air--nnp: 3
+chip--nnp: 3
+tachi--nnp: 3
+martians--nnps: 3
+low--nnp: 3
+mister--nnp: 3
+coriolis--nnp: 3
+cyn--nn: 3
+ships--nnp: 3
+men--nn: 3
+leds--nnp: 3
+venus--nnp: 3
+tell james--nnp-nnp: 3
+innis shallow--nnp-nnp: 3
+message--nn: 3
+holden holden--nnp-nnp: 3
+mister kamal--nnp-nnp: 3
+lieutenant--nnp: 3
+pdc--nnp: 3
+mongo--nnp: 3
+augustín gamarra--nnp-nnp: 3
+maura patel--nnp-nnp: 3
+hassan--nnp: 3
+philadelphia--nnp: 3
+chava--nnp: 3
+take--nnp: 3
+mister patel--nnp-nnp: 3
+inside--nnp: 3
+holden--nn: 3
+babbage--nnp: 3
+rattlesnake island--nnp-nnp: 3
+nagata--nnp: 3
+hygeia station--nnp-nnp: 3
+pinkwater--nnp: 3
+canterbury--nn: 3
+hecate base--nnp-nnp: 3
+scarf--nnp: 3
+chrisjen--nnp: 3
+tia margolis--nnp-nnp: 3
+steinberg--nnp: 3
+admiral duarte--nnp-nnp: 2
+disable--jj: 2
+jupiter--nnp: 2
+sakai--nn: 2
+nauvoo--nnp: 2
+soft--jj: 2
+re--nnp: 2
+lagrange--nnp: 2
+n city--n-nnp: 2
+france--nnp: 2
+same--nnp: 2
+sales--nns: 2
+naw--nnp: 2
+mariner valley--nnp-nnp: 2
+grimace--nnp: 2
+specs--nn: 2
+she--nnp: 2
+murtry--nnp: 2
+thanks--nnp: 2
+had--nnp: 2
+shadows--nnp: 2
+magnetic--jj: 2
+hygeia--nnp: 2
+adrenaline--nnp: 2
+everyone--nn: 2
+donnager--nnp: 2
+scarf boy--nnp-nnp: 2
+chapter thirty--nnp-nnp: 2
+washington--nnp: 2
+nathan--nnp: 2
+tomorrow--nn: 2
+chava lombaugh--nnp-nnp: 2
+david--nnp: 2
+look--nnp: 2
+shouldn--nnp: 2
+holy--nnp: 2
+who--nnp: 2
+kaarlo--nnp: 2
+haan--nnp: 2
+me--nn: 2
+boss--nnp: 2
+kleinmann--nnp: 2
+second--jj: 2
+golden bough--nnp-nnp: 2
+little--jj: 2
+came--nnp: 2
+never--nnp: 2
+terryon lock--nnp-nnp: 2
+krakatoa--nnp: 2
+europa--nnp: 2
+nathan smith--nnp-nnp: 2
+earthers--nns: 2
+the--nnp: 2
+lights--nns: 2
+martian navy--jj-nnp: 2
+hello--nnp: 2
+colonel johnson--nnp-nnp: 2
+real--jj: 2
+ain--nnp: 2
+united nations--nnp-nnps: 2
+belgium--nnp: 2
+just--nnp: 2
+truth--nn: 2
+gracias--nnp: 2
+hard--jj: 2
+emergency--nnp: 2
+chapter seven--nnp-nnp: 2
+works--nnp: 2
+fuck--nn: 2
+bad--nnp: 2
+boston--nnp: 2
+sergeant--jj: 2
+dark--nnp: 2
+bull--nnp: 2
+watch--nnp: 2
+marco--nn: 2
+laconia--nnp: 2
+sleep--nn: 2
+innis--nnp: 2
+paris--nnp: 2
+time--nnp: 2
+valley--nnp: 2
+tired--nnp: 2
+her--nnp: 2
+e cooperative----nnp: 2
+north america--nnp-nnp: 2
+sergeant--nnp: 2
+chapter fifteen--nn-nnp: 2
+peaches--nns: 2
+honestly--nnp: 2
+kazantzakis--nnp: 2
+aterpol--nnp: 2
+thai--nnp: 2
+if--nnp: 2
+londres--nnp: 2
+chinese--jj: 2
+choudhary--nnp: 2
+balkhi--nnp: 2
+high--jj: 2
+miss clarissa--nnp-nnp: 2
+lake winnipesaukee--nnp-nnp: 2
+anyone--nn: 2
+french--jj: 2
+detective miller--nnp-nnp: 2
+aldrin--nnp: 2
+esá--nnp: 2
+olympus mons--nnp-nnp: 2
+tyce--nnp: 2
+eros station--nnp-nnp: 2
+long--jj: 2
+tycho station--jj-nnp: 2
+galveston--nnp: 2
+chapter eleven--nn-nnp: 2
+atlantic ocean--nnp-nnp: 2
+prison--nn: 2
+captain choudhary--nnp-nnp: 2
+laconia station--nnp-nnp: 2
+stokes--nns: 2
+trojan--nnp: 2
+seemed--nnp: 2
+hand--nnp: 2
+sorry--nn: 2
+droga--nnp: 2
+fear--nnp: 2
+pallas station--nnp-nnp: 2
+blauwe blome--nnp-nnp: 2
+naomi--nn: 2
+augustín--nnp: 2
+message--nnp: 2
+toward--nnp: 2
+embarrassment--nn: 2
+amatix--nnp: 2
+good--nnp: 2
+alexander--nn: 2
+chung--nnp: 2
+passed--nnp: 2
+happy--jj: 2
+gunny--nnp: 2
+again--nnp: 2
+mother tamara--nnp-nnp: 2
+put--nn: 2
+chemistry--nnp: 1
+new kashmir--nnp-nnp: 1
+well--nnp: 1
+sweat--nn: 1
+amos ash--nnp-nnp: 1
+forget--nnp: 1
+madam uber--nnp-nnp: 1
+kill--nnp: 1
+boy scout--nnp-nnp: 1
+amos sullivan--nnp-nnp: 1
+shush--nnp: 1
+korol nadkarni--nnp-nnp: 1
+etwas--nnp: 1
+normally--rb: 1
+commander duarte--nnp-nnp: 1
+xo--nnp: 1
+interior--nnp: 1
+fólkvangr--nnp: 1
+kerry trautwine--nnp-nnp: 1
+kennst josie--nnp-nnp: 1
+b hospital----nnp: 1
+asshole--nnp: 1
+mutiny--nnp: 1
+costlow--nnp: 1
+me--nnp: 1
+gratia--nnp: 1
+suliman--nnp: 1
+landborn--nnp: 1
+mister ip--nnp-nnp: 1
+thick--nnp: 1
+return--nnp: 1
+glass--nnp: 1
+la fromagerie--nnp-nnp: 1
+seen--nnp: 1
+phobos--nnp: 1
+tia--nnp: 1
+chapter nine--nnp-nnp: 1
+fifteen--nn: 1
+chandrayaan plaza--nnp-nnp: 1
+tychonet--nnp: 1
+trautwine--nnp: 1
+staten island--nnp-nnp: 1
+smaller--nnp: 1
+cream--nnp: 1
+husband of--nnp-nnp: 1
+freenavy--nnp: 1
+bunker hill--nnp-nnp: 1
+bogotá--nnp: 1
+humanity--nnp: 1
+mouse pie--nnp-nnp: 1
+carbon--nnp: 1
+honest--nnp: 1
+margolis--nnp: 1
+chapter eleven--nnp-nnp: 1
+either--nnp: 1
+io--nnp: 1
+falkners--nnp: 1
+martian republic--nnp-nnp: 1
+report--nn: 1
+stuff--nnp: 1
+exhaust--nnp: 1
+europe--nnp: 1
+anderson--nnp: 1
+travis--nnp: 1
+danger--nnp: 1
+laci--nnp: 1
+parisian--jj: 1
+tio kriztec--nnp-nnp: 1
+panic--nnp: 1
+time--nn: 1
+little--nnp: 1
+lay--nnp: 1
+blanket--nnp: 1
+french--nnp: 1
+son--nnp: 1
+fed--nnp: 1
+deimos--nnp: 1
+stavros--nnp: 1
+oyé--nnp: 1
+monet--nnp: 1
+strip--nnp: 1
+amos loading--nnp-nnp: 1
+p beltran--n-nnp: 1
+flood--nnp: 1
+want--nnp: 1
+erich--jj: 1
+baja--nn: 1
+bright--nnp: 1
+lec--nnp: 1
+spat--nn: 1
+paula--nn: 1
+sabe--nnp: 1
+euphoria--nn: 1
+carolina--nnp: 1
+hijo--nnp: 1
+militia--nnp: 1
+captain sauveterre--nnp-nnp: 1
+full--nnp: 1
+chapter eight--nn-nnp: 1
+naomi back--nnp-nnp: 1
+relief--nn: 1
+chapter twelve--nnp-nnp: 1
+betrayal--nnp: 1
+private--jj: 1
+pain--nn: 1
+dawes--nn: 1
+cipher--nnp: 1
+n jie--n-nnp: 1
+cic--nnp: 1
+shoots--nnp: 1
+allen--nnp: 1
+radiant--jj: 1
+rubble--jj: 1
+high texas--nnp-nnp: 1
+c sales--n-nns: 1
+aaron hu--nnp-nnp: 1
+look--nn: 1
+roomy--nn: 1
+plan c--nnp-nnp: 1
+brazil--nnp: 1
+jesus christ--nnp-nnp: 1
+modular--nnp: 1
+explosives--nnp: 1
+launch--nnp: 1
+torture--nn: 1
+less--nnp: 1
+s grill----nnp: 1
+easy--nnp: 1
+liano--nnp: 1
+l sharabaghar--n-nnp: 1
+figure--nn: 1
+mister kuhn--nnp-nnp: 1
+mister kogoma--nnp-nnp: 1
+smart--nn: 1
+macedonian--jj: 1
+concrete--nnp: 1
+clear--nnp: 1
+again--nn: 1
+bengali--nnp: 1
+muscle--nn: 1
+lieutenant babbage--nnp-nnp: 1
+touch--jj: 1
+sex--nn: 1
+tasnim--nn: 1
+benches--nns: 1
+armageddon--nnp: 1
+oxford center--nnp-nnp: 1
+spanish--jj: 1
+chapter seventeen--nn-nnp: 1
+chinese--nnp: 1
+splurgin--nnp: 1
+highland swing--nnp-nnp: 1
+agatha king--nnp-nnp: 1
+tsuchi--nnp: 1
+knees--nnp: 1
+mother--nnp: 1
+joe--nnp: 1
+paula gutierrez--nnp-nnp: 1
+sniper--nnp: 1
+sandalphon--nnp: 1
+h mfume--n-nnp: 1
+german--nnp: 1
+battle--nnp: 1
+alex alex--nnp-nnp: 1
+chesed--jj: 1
+already--nnp: 1
+weirdly--nnp: 1
+junior--nnp: 1
+celebrity--nn: 1
+lesson--nnp: 1
+say--nnp: 1
+power--nn: 1
+mostly--nnp: 1
+duty--nn: 1
+marcoisgreat--nnp: 1
+dinner--nnp: 1
+johnny zhou--nnp-nnp: 1
+preston--nnp: 1
+mister chou--nnp-nnp: 1
+company--nnp: 1
+greenland--nnp: 1
+healthy--nnp: 1
+nobody--nn: 1
+darwa--nnp: 1
+kashmir--nnp: 1
+inhale--nnp: 1
+james--nnp: 1
+eric khan--nnp-nnp: 1
+place--nnp: 1
+peace--nnp: 1
+esme--nn: 1
+south america--nnp-nnp: 1
+fléchette--nnp: 1
+sri lanka--nnp-nnp: 1
+instrumental--nnp: 1
+between--nnp: 1
+captain--nn: 1
+mischance--nn: 1
+new mars--nnp-nnp: 1
+cheap--nnp: 1
+blown--nnp: 1
+black--nnp: 1
+sleep--nnp: 1
+sa--nnp: 1
+gregory--nnp: 1
+pinnace--nn: 1
+luna base--nnp-nnp: 1
+solid--nnp: 1
+holes--nns: 1
+ready--jj: 1
+crash--nnp: 1
+shallow--nnp: 1
+miss nagata--nnp-nnp: 1
+kid--nnp: 1
+jian--nnp: 1
+filip inaros--nnp-nnp: 1
+repeat--nn: 1
+farsi--nnp: 1
+strange--jj: 1
+childbirth--nnp: 1
+with--nnp: 1
+mister mfume--nnp-nnp: 1
+hermano--nnp: 1
+perfect--nn: 1
+has--nnp: 1
+help--nn: 1
+wide--nnp: 1
+persia--nnp: 1
+gray--nnp: 1
+armed--nnp: 1
+clients--nns: 1
+zadislaw--nnp: 1
+almost--nn: 1
+emergency--nn: 1
+water--nnp: 1
+apalala--nnp: 1
+hearing--nnp: 1
+macedonian--nn: 1
+winston duarte--nnp-nnp: 1
+shock--nnp: 1
+clumsy--nnp: 1
+ranchero--nnp: 1
+himself--nnp: 1
+chai--nn: 1
+metis base--nnp-nnp: 1
+good god--nnp-nnp: 1
+great--nn: 1
+withdrawing--nnp: 1
+vesta station--nnp-nnp: 1
+filipito--nn: 1
+which--jj: 1
+us--nnp: 1
+smart--nnp: 1
+dhejet--nn: 1
+marcos--nnp: 1
+identify--nnp: 1
+visitation--nn: 1
+patel--nnp: 1
+washes--nnp: 1
+light--nnp: 1
+michael--nnp: 1
+coffee--nnp: 1
+back--nnp: 1
+chip--nn: 1
+medical--jj: 1
+breath--nn: 1
+pizza--nnp: 1
+maintain--nnp: 1
+bosslet--nnp: 1
+los compadres--nnp-nnp: 1
+north carolina--nnp-nnp: 1
+cortázar--nn: 1
+cooks--nnp: 1
+loca griega--nnp-nnp: 1
+william sakai--nnp-nnp: 1
+najjar--nnp: 1
+common european--jj-jj: 1
+perfect--nnp: 1
+alex three--nnp-nnp: 1
+guard--nnp: 1
+sweet--nnp: 1
+looks--nnp: 1
+house--nnp: 1
+melancholy--nnp: 1
+ouija--nnp: 1
+erich--rb: 1
+metzinger--nnp: 1
+fourteen--nnp: 1
+amal shah--nnp-nnp: 1
+fifty--nnp: 1
+engineering--nnp: 1
+harder--nn: 1
+aliens--nns: 1
+foster--nn: 1
+yeah--nn: 1
+chapter twenty--nnp-nnp: 1
+mikkam--nnp: 1
+add--nnp: 1
+sunward--nn: 1
+romantic--nnp: 1
+jesus--nnp: 1
+lombaugh--nnp: 1
+new terran--nnp-nnp: 1
+gravity--nnp: 1
+light--jj: 1
+clarissa--nn: 1
+whoa--nn: 1
+outer--nnp: 1
+swahili--nnp: 1
+adapt--nnp: 1
+permission--nn: 1
+thirty--nn: 1
+connection--nn: 1
+positive--nnp: 1
+verdad--nnp: 1
+c spaceport--n-nnp: 1
+richter--nnp: 1
+average--jj: 1
+davidovics--nnps: 1
+mech--nnp: 1
+went--nnp: 1
+wow--nnp: 1
+stealth--nnp: 1
+bedlam--nnp: 1
+terran--nnp: 1
+eustachian--jj: 1
+bennett--nnp: 1
+property--nn: 1
+esme--nnp: 1
+caution--nn: 1
+wings--nns: 1
+xie--nn: 1
+sorrow--nn: 1
+great--nnp: 1
+careful--jj: 1
+closure--nn: 1
+wisps--nnp: 1
+shed garvey--nnp-nnp: 1
+drop--nnp: 1
+calls--nnp: 1
+empty--nnp: 1
+software--nnp: 1
+aren--nnp: 1
+funny--nnp: 1
+grass--nnp: 1
+persian--nnp: 1
+earthers--nnps: 1
+greek--jj: 1
+prison--nnp: 1
+oshima--nnp: 1
+vermont--nnp: 1
+khooni--nnp: 1
+useful--jj: 1
+mister sakai--nnp-nnp: 1
+best--jjs: 1
+sauveterre--jj: 1
+andrea howard--nnp-nnp: 1
+bellaire--nnp: 1
+nine--nnp: 1
+venn--nnp: 1
+tears--nns: 1
+handguns--nnp: 1
+envy--nnp: 1
+amos between--nnp-nnp: 1
+room--nn: 1
+tears--nnp: 1
+oliver--nnp: 1
+inner planets--nnp-nnps: 1
+hangar--nnp: 1
+mercury--nnp: 1
+anyplace--nnp: 1
+skipper--nnp: 1
+seung un--nnp-nnp: 1
+north--nnp: 1
+terra--nnp: 1
+people--nnp: 1
+nightmares--nnps: 1
+macedon--nnp: 1
+haven--nnp: 1
+life--nnp: 1
+depends--nnp: 1
+reduce--nnp: 1
+piracy--nnp: 1
+isn--nnp: 1
+eight--nnp: 1
+troy--nnp: 1
+marines--nnp: 1
+andale--nn: 1
+ahead--nn: 1
+andreas hofer--nnp-nnp: 1
+bush--nnp: 1
+somehow--nn: 1
+s incident--n-nnp: 1
+samantha rosenberg--nnp-nnp: 1
+wait--nn: 1
+speculate--nn: 1
+dallas--nnp: 1
+defense--nnp: 1
+chapter three--nnp-nnp: 1
+outside--nnp: 1
+west--nnp: 1
+moisture--nn: 1
+jerusalem--nnp: 1
+european--jj: 1
+haizhe--nnp: 1
+o exports--n-nnp: 1
+elkhashab towers--nnp-nnps: 1
+cielo--nnp: 1
+vento--nnp: 1
+inner--nnp: 1
+chrissie avasarala--nnp-nnp: 1
+won--nnp: 1
+edward israel--nnp-nnp: 1
+d to--n-nnp: 1
+asia--nnp: 1
+up--nn: 1
+regret--nnp: 1
+pictures--nns: 1
+wondering--nn: 1
+grief--nn: 1
+tension--nn: 1
+transworld--nnp: 1
+mine--nnp: 1
+kevlar--nnp: 1
+lock--nnp: 1
+kivrin althusser--nnp-nnp: 1
+hold--nnp: 1
+protocol--nnp: 1
+galveston shallow--nnp-nnp: 1
+newport--nnp: 1
+history--nnp: 1
+beaucoup--nnp: 1
+hugs--nnp: 1
+north--jj: 1
+inoffensive--nnp: 1
+led--nnp: 1
+que--nnp: 1
+bullshit--nnp: 1
+arachosians--nnps: 1
+alarmed--nnp: 1
+jeffers--nnp: 1
+seems--nnp: 1
+annoyance--nnp: 1
+exterior--nnp: 1
+rain--nn: 1
+niban--nnp: 1
+gaugamela--nnp: 1
+thank--nnp: 1
+always--nnp: 1
+bastien--nnp: 1
+first--nnp: 1
+agatha--nnp: 1
+chapter fifty--nnp-nnp: 1
+co2--nnp: 1
+check--nnp: 1
+souja--nnp: 1
+behind--nnp: 1
+montana--nnp: 1
+him--nnp: 1
+marian--jj: 1
+down--nnp: 1
+lazy songbird--nnp-nnp: 1
+density resonance--nnp-nnp: 1
+months--nns: 1
+cassandra--nnp: 1
+latest--nnp: 1
+captain mcdowell--nnp-nnp: 1
+paar--nnp: 1
+ip--nnp: 1
+triton--nnp: 1
+chapter twelve--nn-nnp: 1
+tell baja--nnp-nnp: 1
+suck--nnp: 1
+formed--nnp: 1
+ser--nnp: 1
+butchers--nnp: 1
+hannu--nnp: 1
+mission--nnp: 1
+english--nnp: 1
+wage--nn: 1
+stockholm--nnp: 1
+silas--nnp: 1
+very--nnp: 1
+ophir--nnp: 1
+como--nnp: 1
+naomi once--nnp-nnp: 1
+chapter eight--nnp-nnp: 1
+justice--nnp: 1
+sheriff--nnp: 1
+school--nnp: 1
+fifty--jj: 1
+chow--nnp: 1
+a plaza----nnp: 1
+space--nnp: 1
+velcro--nnp: 1
+too--nn: 1
+short--nnp: 1
+castro--nnp: 1
+blue meanie--nnp-nnp: 1
+strip--nn: 1
+bigger--nnp: 1
+russian--jj: 1
+ammunition--nn: 1
+pot--nnp: 1
+environment--nn: 1
+sophie--nnp: 1
+c johnson--n-nnp: 1
+cartography--nn: 1
+breach--nnp: 1
+zero--nnp: 1
+arabic--nnp: 1
+poof--nn: 1
+ankara--nnp: 1
+channel--nnp: 1
+scrape--nnp: 1
+dna--nn: 1
+rabat--nnp: 1
+nine--nn: 1
+admiral long--nnp-nnp: 1
+garret ming--nnp-nnp: 1
+terryon--nnp: 1
+yes--nnp: 1
+bergavins--nnp: 1
+pallets--nns: 1
+ceres station--nns-nnp: 1
+status--nnp: 1
+voltaire collective--nnp-nnp: 1
+doable--nnp: 1
+pleistocene--nnp: 1
+ichiban--nnp: 1
+heartsick--nnp: 1
+kids--nnp: 1
+mister keller--nnp-nnp: 1
+london--nnp: 1
+gao--nnp: 1
+massive--jj: 1
+chapter forty--nnp-nnp: 1
+bin marteño--nnp-nnp: 1
+independent--jj: 1
+al abbiq--nnp-nnp: 1
+lifetimes--nnp: 1
+peace--nn: 1
+three forks--nnp-nnp: 1
+kivrin--nnp: 1
+benji--nnp: 1
+cracks--nnp: 1
+chu--nnp: 1
+head--nnp: 1
+electrician first--nnp-nnp: 1
+rinse--nnp: 1
+book--nnp: 1
+hang--nnp: 1
+security--nnp: 1
+ir--nnp: 1
+timothy--nnp: 1
+interest zone--nnp-nnp: 1
+roger--nnp: 1
+jim holden--nnp-nnp: 1
+mal--nnp: 1
+dull--jj: 1
+breakfast--nnp: 1
+ashanti--nnp: 1
+huge--nn: 1
+thank--nn: 1
+dim--nnp: 1
+shame--nn: 1
+american--jj: 1
+deal--nn: 1
+zach kazantzakis--nnp-nnp: 1
+brace--nnp: 1
+hamechie--nn: 1
+n lock--n-nnp: 1
+outside--jj: 1
+idealistic--nnp: 1
+impatience--nn: 1
+dead--nnp: 1
+where--nnp: 1
+pur--nnp: 1
+lydia maalouf--nnp-nnp: 1
+gor droga--nnp-nnp: 1
+arnold mfume--nnp-nnp: 1
+half--nnp: 1
+porto--nnp: 1
+sharp--nn: 1
+food--nn: 1
+fermi--nnp: 1
+gorman--nnp: 1
+estranged--nnp: 1
+steady--jj: 1
+poor--nnp: 1
+skinny--nn: 1
+took--nnp: 1
+pau--nnp: 1
+hunted--nnp: 1
+hours--nnp: 1
+drummer--nn: 1
+kin--nnp: 1
+schismatic--nnp: 1
+blasphemous--nnp: 1
+dock--nnp: 1
+chapter nineteen--nn-nnp: 1
+mother elise--nnp-nnp: 1
+beneath--nnp: 1
+young--nn: 1
+monkton--nnp: 1
+fancy--nnp: 1
+garlic--nnp: 1
+adapting--nnp: 1
+between earth--nnp-nnp: 1
+scout--nnp: 1
+rzhavchina--nnp: 1
+lot--nnp: 1
+naomi naomi--nnp-nnp: 1
+poush--nnp: 1
+wet--nn: 1
+naomi hour--nnp-nnp: 1
+close--nnp: 1
+plural--nnp: 1
+black--nn: 1
+call--nn: 1
+c yuan--n-nnp: 1
+unfamiliar--jj: 1
+ten--nn: 1
+tiny--jj: 1
+name--nn: 1
+üzgün--nn: 1
+flat--jj: 1
+luna base--jj-nnp: 1
+jacksons--nnps: 1
+callistan--nnp: 1
+main--nnp: 1
+set--nnp: 1
+id--nnp: 1
+children--nns: 1
+complex--nnp: 1
+hate--nnp: 1
+donnager--nn: 1
+prisoner--nnp: 1
+acadian front--jj-nnp: 1
+angola--nnp: 1
+will--nnp: 1
+almost--nnp: 1
+natalia--nnp: 1
+shitty--nnp: 1
+charisma--nnp: 1
+belgian--jj: 1
+curved--nnp: 1
+old sandy--nnp-nnp: 1
+ceres station--nnps-nnp: 1
+ballard--nnp: 1
+hadn--nnp: 1
+esa--nnp: 1
+come--nnp: 1
+secrecy--nnp: 1
+ejection--nn: 1
+music--nnp: 1
+carson lei--nnp-nnp: 1
+evacuation--nn: 1
+sabez--nnp: 1
+shed--nnp: 1
+blue--nnp: 1
+chemical--nnp: 1
+maalouf--nnp: 1
+lie--nn: 1
+trabajan--nnp: 1
+bistro--nnp: 1
+flora--nnp: 1
+tightbeam--nn: 1
+walt--nnp: 1
+nope--nnp: 1
+sluggish--jj: 1
+plenty--nn: 1
+bist--nnp: 1
+firdaws--nnp: 1
+ah--nnp: 1
+heading--nn: 1
+martinez--nnp: 1
+ellis island--nnp-nnp: 1
+lovell city--nnp-nnp: 1
+suis--nnp: 1
+mars republic--nnp-nnp: 1
+tali--nn: 1
+get--nn: 1
+twenty--nnp: 1
+whether--nnp: 1
+cook--nnp: 1
+grenade--nnp: 1
+Total of 1090 unique entities
+===============================================================
+
+
+Top Entities for the-expanse-6-babylons-ashes.txt:
+holden--nnp: 522
+marco--nnp: 333
+naomi--nnp: 292
+filip--nnp: 281
+bobbie--nnp: 256
+michio--nnp: 228
+free navy--nnp-nnp: 220
+alex--nnp: 214
+belt--nnp: 155
+earth--nnp: 142
+amos--nnp: 140
+fred--nnp: 124
+medina--nnp: 123
+avasarala--nnp: 116
+dawes--nnp: 114
+rocinante--nnp: 111
+opa--nnp: 101
+mars--nnp: 96
+jim--nnp: 93
+roci--nnp: 88
+pella--nnp: 88
+rosenfeld--nnp: 81
+prax--nnp: 74
+salis--nnp: 71
+clarissa--nnp: 71
+fred johnson--nnp-nnp: 67
+inaros--nnp: 65
+oksana--nnp: 64
+nadia--nnp: 61
+ceres--nnp: 60
+anna--nnp: 59
+vandercaust--nnp: 55
+johnson--nnp: 55
+earth--nn: 53
+martian--jj: 52
+giambattista--nnp: 52
+jakulski--nnp: 52
+connaught--nnp: 50
+josep--nnp: 47
+roberts--nnp: 44
+karal--nnp: 43
+tycho--nnp: 41
+ganymede--nnp: 39
+bertold--nnp: 37
+laura--nnp: 37
+luna--nnp: 37
+pdc--nnp: 37
+michio pa--nnp-nnp: 36
+marco inaros--nnp-nnp: 36
+pallas--nnp: 35
+james holden--nnp-nnp: 34
+ceres--nns: 34
+pa--nnp: 33
+sanjrani--nnp: 32
+djuna--nnp: 30
+don--nnp: 29
+hornblower--nnp: 29
+nami--nnp: 28
+captain--nnp: 27
+laconia--nnp: 27
+carmondy--nnp: 26
+belters--nnp: 24
+pdcs--nnp: 24
+chen--nnp: 24
+azure dragon--nnp-nnp: 23
+callisto--nnp: 22
+duarte--nnp: 22
+nono--nnp: 22
+mei--nnp: 21
+belter--nnp: 21
+smith--nnp: 21
+free navy--jj-nnp: 20
+karvonides--nnp: 19
+panshin--nnp: 18
+rodriguez--nnp: 18
+okay--nnp: 18
+souther--nnp: 18
+namono--nnp: 18
+evans--nnp: 18
+ceres station--nnp-nnp: 17
+miral--nnp: 17
+navy--nnp: 16
+tycho station--nnp-nnp: 16
+josie--nnp: 15
+kiki--nnp: 15
+natalia--nnp: 15
+khana--nnp: 14
+koto--nnp: 14
+shului--nnp: 14
+titan--nnp: 14
+someone--nn: 14
+peaches--nnp: 14
+iapetus--nnp: 13
+sol--nnp: 13
+didn--nnp: 13
+sandra--nnp: 13
+carlos walker--nnp-nnp: 13
+serrio mal--nnp-nnp: 12
+minsky--nnp: 12
+aimee ostman--nnp-nnp: 12
+belters--nns: 12
+foyle--nnp: 12
+shaddid--nnp: 11
+pella--nn: 11
+good--jj: 11
+micah--nnp: 11
+solano--nnp: 11
+sandra ip--nnp-nnp: 11
+ostman--nnp: 10
+ip--nnp: 10
+saturn--nnp: 10
+alis--nnp: 10
+wings--nnp: 10
+shinsakuto--nnp: 10
+how--nnp: 10
+epstein--nnp: 10
+roberts--nns: 10
+mars--nns: 10
+bastien--nnp: 10
+captain holden--nnp-nnp: 10
+medina station--nnp-nnp: 10
+marta--nnp: 10
+endor--nnp: 10
+gorman le--nnp-nnp: 10
+martian--nnp: 9
+saladin--nnp: 9
+behemoth--nnp: 9
+anderson--nnp: 9
+un--nnp: 9
+chrisjen avasarala--nnp-nnp: 9
+meng--nnp: 9
+richards--nnp: 9
+eugenia--nnp: 9
+captain pa--nnp-nnp: 9
+father--nnp: 8
+hy1810--nnp: 8
+anderson station--nnp-nnp: 8
+sorry--nnp: 8
+walker--nnp: 8
+tell--nnp: 8
+james--nnp: 8
+filip inaros--nnp-nnp: 8
+cap--nnp: 8
+free--nnp: 8
+station--nnp: 8
+naomi nagata--nnp-nnp: 8
+part--nn: 8
+clarissa mao--nnp-nnp: 8
+jovian--jj: 8
+ceres station--nnps-nnp: 8
+brice--nnp: 7
+o alliance--n-nnp: 7
+proteus--nnp: 7
+tía--nnp: 7
+shit--nnp: 7
+sárta--nnp: 7
+ashford--nnp: 7
+monica--nnp: 7
+filipito--nnp: 7
+carlos--nnp: 7
+said--nnp: 7
+everyone--nn: 6
+jupiter--nnp: 6
+lagrange--nnp: 6
+new--nnp: 6
+rhea--nnp: 6
+hoy--nnp: 6
+prax--nn: 6
+europa--nnp: 6
+liang goodfortune--nnp-nnp: 6
+vesta--nnp: 6
+mfume--nnp: 6
+free--jj: 6
+long--jj: 6
+wasn--nnp: 6
+pinkwater--nnp: 6
+draper--nnp: 6
+pallas--nns: 5
+abbey--nnp: 5
+chou--nnp: 5
+drummer--nnp: 5
+little--jj: 5
+busch--nnp: 5
+hud--nnp: 5
+belters--nnps: 5
+great--nnp: 5
+coriolis--nnp: 5
+samuels--nnp: 5
+mother--nnp: 5
+berman--nnp: 5
+aimee--nnp: 5
+please--nnp: 5
+anderson dawes--nnp-nnp: 5
+will--nnp: 5
+right--nnp: 5
+canterbury--nnp: 5
+sam--nnp: 5
+no--nnp: 5
+nagata--nnp: 5
+steinberg--nnp: 5
+which--wdt: 5
+pieter--nnp: 4
+babs--nnp: 4
+nothing--nn: 4
+father cesar--nnp-nnp: 4
+bien--nnp: 4
+sir--nnp: 4
+bobbie draper--nnp-nnp: 4
+liang--nnp: 4
+ceres--nnps: 4
+might--nnp: 4
+was--nnp: 4
+make--nnp: 4
+eudoxia--nnp: 4
+captain samuels--nnp-nnp: 4
+nico--nnp: 4
+hope--nn: 4
+bull--nnp: 4
+filip--nn: 4
+venus--nnp: 4
+doesn--nnp: 4
+torngarsuk--nnp: 4
+always--nnp: 4
+montana--nnp: 4
+le--nnp: 4
+mcrn--nnp: 4
+afghan--nnp: 4
+voltaire collective--nnp-nnp: 4
+witch--nnp: 4
+distract--nnp: 4
+always--nns: 4
+ashanti--nnp: 4
+rosenfeld guoliang--nnp-nnp: 4
+gorman--nnp: 4
+pallas station--nnp-nnp: 4
+un navy--nnp-nnp: 4
+admiral--nnp: 4
+god--nnp: 4
+cesar--nnp: 4
+mother tamara--nnp-nnp: 4
+dujaili--nnp: 3
+bad--nnp: 3
+humanity--nnp: 3
+us--nn: 3
+winston duarte--nnp-nnp: 3
+goodfortune--nnp: 3
+anger--nnp: 3
+rokku--nnp: 3
+zuma rock--nnp-nnp: 3
+heard--nnp: 3
+easy--nnp: 3
+chava lombaugh--nnp-nnp: 3
+abuja--nnp: 3
+alles--nnp: 3
+kelso--nnp: 3
+fire--nn: 3
+gino--nnp: 3
+fear--nn: 3
+native--jj: 3
+dui--nnp: 3
+okay--nn: 3
+himself--nnp: 3
+which--nnp: 3
+patel--nnp: 3
+monica stuart--nnp-nnp: 3
+pause--nn: 3
+m navy----nnp: 3
+arjun--nnp: 3
+arnold--nnp: 3
+tolstoy--nnp: 3
+earther--nnp: 3
+zedina rael--nnp-nnp: 3
+wouldn--nnp: 3
+just--nnp: 3
+old gino--nnp-nnp: 3
+hard--nnp: 3
+mao--nnp: 3
+nico sanjrani--nnp-nnp: 3
+casa azul--nnp-nnp: 3
+ezio rodriguez--nnp-nnp: 3
+hague--nnp: 3
+emily richards--nnp-nnp: 3
+que--nnp: 3
+arcadia--nnp: 3
+mother elise--nnp-nnp: 3
+munroe--nnp: 3
+kelsey--nnp: 3
+hoss--nnp: 3
+captain rodriguez--nnp-nnp: 3
+madam--nnp: 3
+savvy--nnp: 3
+ezio--nnp: 3
+anyone--nn: 3
+blue frog--nnp-nnp: 3
+dimitri--nnp: 3
+security--nnp: 3
+look--nnp: 3
+michi--nnp: 3
+jammy rakshasa--nnp-nnp: 3
+where--nnp: 3
+gor droga--nnp-nnp: 3
+sorry--nn: 3
+thank--nn: 3
+naomi--nn: 3
+liliana--nnp: 3
+li--nnp: 3
+guilt--nnp: 3
+eros--nnp: 2
+exhaustion--nn: 2
+corvid--nnp: 2
+pull--nnp: 2
+strange--nnp: 2
+black sky--nnp-nnp: 2
+better--nnp: 2
+tom--nnp: 2
+trojan--nnp: 2
+europe--nnp: 2
+oksana busch--nnp-nnp: 2
+time--nn: 2
+enemy--nnp: 2
+maura patel--nnp-nnp: 2
+got--nnp: 2
+phoebe--nnp: 2
+bright--nnp: 2
+weird--jj: 2
+hygeia--nnp: 2
+response committee--nnp-nnp: 2
+between--nnp: 2
+annie--nnp: 2
+clear--jj: 2
+mine--nn: 2
+dawes--nn: 2
+into--nnp: 2
+cannon--nnp: 2
+lister--nnp: 2
+jakulski--nn: 2
+somehow--nnp: 2
+evans--nnps: 2
+look--nn: 2
+hell--nnp: 2
+captain foyle--nnp-nnp: 2
+true--nn: 2
+part--nnp: 2
+ships--nnp: 2
+violence--nn: 2
+again--nn: 2
+earth--jj: 2
+battle--nnp: 2
+say--nnp: 2
+none--nn: 2
+had--nnp: 2
+keep--nnp: 2
+get--nnp: 2
+rock--nnp: 2
+belter creole--nnp-nnp: 2
+doctrine--nnp: 2
+alis caspár--nnp-nnp: 2
+shit--nn: 2
+us--nnp: 2
+angry--jj: 2
+nom--nnp: 2
+open--nnp: 2
+pycior--nnp: 2
+saint--nnp: 2
+looks--nnp: 2
+fifty--nnp: 2
+harmony--nnp: 2
+anyone--nnp: 2
+pdcs--nn: 2
+klaxon--nnp: 2
+vesta--nn: 2
+boston--nnp: 2
+permission--nn: 2
+message--nnp: 2
+hello--nnp: 2
+martians--nnps: 2
+real--jj: 2
+aren--nnp: 2
+anton--nnp: 2
+xo--nnp: 2
+status--nnp: 2
+enceladus--nnp: 2
+weariness--nnp: 2
+montemayor--nnp: 2
+salis--nn: 2
+seven--nnp: 2
+rail--nnp: 2
+old--nnp: 2
+been--nnp: 2
+prénom--nn: 2
+dusters--nnp: 2
+vandercaust--nn: 2
+thrust--nnp: 2
+susanna foyle--nnp-nnp: 2
+huh--nnp: 2
+english--nnp: 2
+honestly--nnp: 2
+chetzemoka--nnp: 2
+elise--nnp: 2
+hindi--nnp: 2
+pain--nn: 2
+worst--nnp: 2
+food--nn: 2
+markov--nnp: 2
+cairo--nnp: 2
+russian--jj: 2
+sooner--nnp: 2
+roman--nnp: 2
+thud--nn: 2
+bates--nnp: 2
+green--jj: 2
+carl--nnp: 2
+bobbie--nn: 2
+the hague--dt-nnp: 2
+humanity--nn: 2
+esá--nnp: 2
+history--nn: 2
+ir--nnp: 2
+newton--nnp: 2
+mi--nnp: 2
+maddie--nnp: 2
+young--nnp: 2
+yeah--nn: 2
+strategy--nnp: 2
+fifteen--nnp: 2
+whose--nnp: 2
+united nations--nnp-nnps: 2
+sunshine--nnp: 2
+wide--nnp: 2
+hasn--nnp: 2
+true--nnp: 2
+colonel johnson--nnp-nnp: 2
+milky way--nnp-nnp: 2
+rindai--nnp: 2
+good--nnp: 2
+humanist--nnp: 2
+jovian--nnp: 2
+humanist society--nnp-nnp: 2
+hadn--nnp: 2
+traffic--nnp: 2
+ilus--nnp: 2
+droga--nnp: 2
+fair--nnp: 2
+screw--nnp: 1
+fourteen--nn: 1
+careless--nn: 1
+martians--nns: 1
+aaman--nnp: 1
+bedyadat jadida--nnp-nnp: 1
+kennet--nnp: 1
+resin--nnp: 1
+pallas witch--nnp-nnp: 1
+inviolate--nn: 1
+philip--nnp: 1
+stupid--nnp: 1
+golden bough--nnp-in: 1
+four horsemen--nnp-nnp: 1
+brave--nnp: 1
+blockade--nn: 1
+terrible--jj: 1
+naomi medina--nnp-nnp: 1
+le monde--nnp-nnp: 1
+mutiny--nnp: 1
+carlos pinnani--nnp-nnp: 1
+apex--nnp: 1
+cleared--nnp: 1
+mark watney--nnp-nnp: 1
+medic--nnp: 1
+denmark--nnp: 1
+round--nnp: 1
+stay--nn: 1
+best--nnp: 1
+makes--nnp: 1
+moderate--nnp: 1
+eastern economic--nnp-nnp: 1
+agua--nnp: 1
+lindsey--nnp: 1
+chapter nine--nnp-nnp: 1
+righteous--jj: 1
+welker--nnp: 1
+lína--nnp: 1
+forgotten--nnp: 1
+delight--nnp: 1
+gravel--nnp: 1
+marcus aurelius--nnp-nnp: 1
+thirty--nnp: 1
+suit--nn: 1
+leslie--nnp: 1
+praiseworthy--nnp: 1
+helen--nnp: 1
+aldo--nnp: 1
+ops--nnp: 1
+samuel jabari--nnp-nnp: 1
+word--nnp: 1
+opa fred--nnp-nnp: 1
+creepy--nnp: 1
+six--nnp: 1
+chapter eleven--nnp-nnp: 1
+throw--nn: 1
+io--nnp: 1
+commst--nnp: 1
+planck--nnp: 1
+pay--nnp: 1
+nine--jj: 1
+anneke swinehart--nnp-nnp: 1
+guoliang--nnp: 1
+martian republic--nnp-nnp: 1
+consolidated--nnp: 1
+wilco--nnp: 1
+darker--nn: 1
+alarms--nnp: 1
+s meng--n-nnp: 1
+safe--jj: 1
+metrics--nns: 1
+cold--nnp: 1
+talk--nn: 1
+coyo--nnp: 1
+haven--nnp: 1
+chapter thirty--nnp-nnp: 1
+phoenix--nnp: 1
+fine--nnp: 1
+pubs--nnp: 1
+sangre--nnp: 1
+mcconnell--nnp: 1
+statement--nn: 1
+tu--nnp: 1
+homeland--nnp: 1
+ganymede station--nnp-nnp: 1
+tiny--nnp: 1
+beer--nn: 1
+captain montemayor--nnp-nnp: 1
+ecm--nnp: 1
+coffee--nn: 1
+sounds--nnp: 1
+pride--nn: 1
+kelso station--nnp-nnp: 1
+ando--nnp: 1
+mama--nnp: 1
+t collective--n-nnp: 1
+turtle-meek--jj: 1
+soft--nnp: 1
+magnetic--jj: 1
+the--nnp: 1
+tonight--nn: 1
+avasarala avasarala--nnp-nnp: 1
+marco son--nnp-nnp: 1
+babysit--nnp: 1
+entry--nn: 1
+inaros--nnps: 1
+neutral--nnp: 1
+transportation--nnp: 1
+alex--vb: 1
+tía michelle--nnp-nnp: 1
+did--nnp: 1
+mister vandercaust--nnp-nnp: 1
+cryptic--jj: 1
+hurry--nnp: 1
+fatima crehan--nnp-nnp: 1
+dodge--nnp: 1
+opportunist--nn: 1
+amos sex--nnp-nnp: 1
+cathedral--nnp: 1
+feel--nnp: 1
+rage--nnp: 1
+pinché--nnp: 1
+bethany thomas--nnp-nnp: 1
+pleasant--nn: 1
+curiosity--nnp: 1
+jacques harbinger—had--nnp-nnp: 1
+at--nnp: 1
+port control--nnp-nnp: 1
+trachtman corporation--nnp-nnp: 1
+ekg--nnp: 1
+deep--nnp: 1
+stacey--nnp: 1
+lakash hedayat--nnp-nnp: 1
+moment--nn: 1
+light--nnp: 1
+thisbe--nn: 1
+casil--jj: 1
+research--nn: 1
+big himself--nnp-nnp: 1
+heidegger--nnp: 1
+excitement--nn: 1
+coldwater--nnp: 1
+shittiest--nnp: 1
+luna—and--nnp: 1
+mortality--nn: 1
+n navy--n-nnp: 1
+work--nnp: 1
+command--nnp: 1
+thin--nnp: 1
+sumerian--jj: 1
+grown--nnp: 1
+san pietro--nnp-nnp: 1
+shanghai--nnp: 1
+silver--nnp: 1
+sergeant draper--jj-nnp: 1
+override--nnp: 1
+left--nnp: 1
+mccoy--nnp: 1
+cover--nnp: 1
+sex--nn: 1
+inaros--nns: 1
+joy--nnp: 1
+spaced--nnp: 1
+julian--nnp: 1
+shift--nnp: 1
+sweet--nnp: 1
+hy18--nnp: 1
+kerr ackerman--nnp-nnp: 1
+madam secretary--nnp-nnp: 1
+kinshasa--nnp: 1
+donnager--nnp: 1
+david--nnp: 1
+needless--nn: 1
+universe--nnp: 1
+melt--nnp: 1
+camera--nn: 1
+froze--nnp: 1
+rindai--nn: 1
+fallen--nnp: 1
+diagrams--nnp: 1
+shouldn--nnp: 1
+sympathetic--jj: 1
+clever--nn: 1
+panicky--nn: 1
+bobbie confirm--nnp-nnp: 1
+already--nnp: 1
+mijo--nn: 1
+anxiety--nn: 1
+junior--nnp: 1
+behind--nnp: 1
+duarte--nnps: 1
+grandmother--nnp: 1
+arousal--nnp: 1
+freedom--nn: 1
+ifrah mccoy--nnp-nnp: 1
+amanda--nnp: 1
+co2--nnp: 1
+pathetic--jj: 1
+nami--nn: 1
+pinpoint--nnp: 1
+dishonorable--jj: 1
+longdune--nnp: 1
+bible--nnp: 1
+men--nnp: 1
+f johnson--n-nnp: 1
+rumor--nn: 1
+boa--nnp: 1
+jakulski favór--nnp-nnp: 1
+hup--nnp: 1
+mormons--nnp: 1
+captain--nn: 1
+lisbon--nnp: 1
+biohazard--nnp: 1
+symmetry--nn: 1
+perdíd--nnp: 1
+calm--nnp: 1
+harrow--nnp: 1
+luna base--nnp-nnp: 1
+solid--nnp: 1
+rael--nnp: 1
+horror--nn: 1
+miss nagata--nnp-nnp: 1
+ship--nnp: 1
+strength--nn: 1
+reactor--nnp: 1
+mariner valley--nnp-nnp: 1
+f butcher--n-nnp: 1
+stop--nn: 1
+europa--nn: 1
+zuma--nnp: 1
+marteños--nnp: 1
+really--nnp: 1
+seoul--nnp: 1
+doubt--nnp: 1
+motion--nn: 1
+fresh--jj: 1
+gray--nnp: 1
+shikata--nnp: 1
+simple--nn: 1
+corinth--nnp: 1
+armed--nnp: 1
+location--nn: 1
+patsaev--nnp: 1
+equilibrium--nn: 1
+vietnamese--nnp: 1
+c samuels----nnp: 1
+ceres station--vbz-nnp: 1
+jamil--nnp: 1
+walton--nnp: 1
+around--nnp: 1
+admiral chen--nnp-nnp: 1
+titania--nnp: 1
+idon--nnp: 1
+hope--nnp: 1
+smart--nnp: 1
+pookie--nnp: 1
+can--nnp: 1
+pinché holden--nnp-nnp: 1
+mormon--nnp: 1
+sergeant draper--nnp-nnp: 1
+proxima centauri--nnp-nnp: 1
+bossmang--nnp: 1
+vast--jj: 1
+olympus mons--nnp-nnp: 1
+valkyrie--nnp: 1
+automatic--jj: 1
+michael--nnp: 1
+greece--nnp: 1
+fuck--nnp: 1
+medical--jj: 1
+drive--nnp: 1
+rich--jj: 1
+systems--nnp: 1
+record--nn: 1
+chapter forty--nnp-nnp: 1
+loca griega--nnp-nnp: 1
+tightbeam--nnp: 1
+lives--nns: 1
+hd--nnp: 1
+yeats pratkanis--nnp-nnp: 1
+inner--nnp: 1
+colombia--nnp: 1
+grief--nnp: 1
+pale--jj: 1
+sergio plant--nnp-nnp: 1
+white--nnp: 1
+fourteen--nnp: 1
+reaction--nnp: 1
+paris--nnp: 1
+devi anderson--nnp-nnp: 1
+devargas corporation--nnp-nnp: 1
+chapter five--nnp-nnp: 1
+east asia--nnp-nnp: 1
+dna--nn: 1
+chapter twenty--nnp-nnp: 1
+add--nnp: 1
+titan--nn: 1
+troy--nnp: 1
+baca--nnp: 1
+toward mars--nnp-nnp: 1
+hat--nnp: 1
+chrissy--nnp: 1
+jesus--nnp: 1
+lombaugh--nnp: 1
+father christmas--nnp-nnp: 1
+minotaur--nnp: 1
+captain plant--nnp-nnp: 1
+lights--nns: 1
+paranoia--nnp: 1
+alex seriously--nnp-nnp: 1
+footsteps--nns: 1
+within--nnp: 1
+nausea--nn: 1
+moscow--nnp: 1
+husband--nnp: 1
+limited--jj: 1
+one ship--nnp-nnp: 1
+admiral pycior--nnp-nnp: 1
+metaphorical--nnp: 1
+wondered--nnp: 1
+damian short--nnp-nnp: 1
+play--nnp: 1
+caesar--nnp: 1
+stealth--nnp: 1
+essay--nnp: 1
+golden bough--nnp-nnp: 1
+chapter--nnp: 1
+c shalom--n-nnp: 1
+terran--nnp: 1
+fred johnsons--nnp-nnps: 1
+karol stepanov--nnp-nnp: 1
+hy17--nnp: 1
+maura--nnp: 1
+salutorg--nnp: 1
+que callisto--nnp-nnp: 1
+range--nn: 1
+bobbie regret--nnp-nnp: 1
+mother sophie--nnp-nnp: 1
+fast--nnp: 1
+ain--nnp: 1
+m corps--j-nnp: 1
+aquaculture--nnp: 1
+c pa--n-nnp: 1
+nah--nnp: 1
+thinner--nnp: 1
+dina--nnp: 1
+alastair rauch--nnp-nnp: 1
+quiana karvonides--nnp-nnp: 1
+m republic--j-nnp: 1
+sanjit sangre--nnp-nnp: 1
+powerful--nnp: 1
+petersburg--nnp: 1
+images--nns: 1
+africa--nnp: 1
+funny--nnp: 1
+devil--nnp: 1
+mom--nn: 1
+alienated--nnp: 1
+farsi--nnp: 1
+noko dada--nnp-nnp: 1
+prison--nnp: 1
+g navy--j-nnp: 1
+hail--nnp: 1
+tonight--nnp: 1
+londres nova--nnp-nnp: 1
+riots--nns: 1
+administration--nn: 1
+truth--nn: 1
+costas--nnp: 1
+silence--nn: 1
+dinner--nn: 1
+mondragon--nnp: 1
+josie--nn: 1
+tactile--nnp: 1
+celtic--nnp: 1
+captain shaddid--nnp-nnp: 1
+new london--nnp-nnp: 1
+c inaros--n-nnp: 1
+chapter seven--nnp-nnp: 1
+tears--nnp: 1
+tariffs--nnp: 1
+tanja li--nnp-nnp: 1
+worms--nnp: 1
+guandong--nnp: 1
+zig ochoa--nnp-nnp: 1
+mercury--nnp: 1
+love--nnp: 1
+victory--nnp: 1
+callisto--nn: 1
+golgo--nnp: 1
+nectaris--nnp: 1
+fuck--nn: 1
+maruttuva kulu--nnp-nnp: 1
+ingrid dineyahze--nnp-nnp: 1
+careful--nnp: 1
+gold--nnp: 1
+bhagavathi--nnp: 1
+stand--nnp: 1
+raw--nnp: 1
+isn--nnp: 1
+eight--nnp: 1
+ceramic--nnp: 1
+tamara--nnp: 1
+jon--nnp: 1
+thick--nnp: 1
+chosen--nnp: 1
+cyn--nnp: 1
+soon--nnp: 1
+authentic--nnp: 1
+stupid--jj: 1
+stepanov--nnp: 1
+tick--nn: 1
+sam rosenberg--nnp-nnp: 1
+leds--nnp: 1
+dark--nnp: 1
+denver--nnp: 1
+mindless--nnp: 1
+mephistophelean--jj: 1
+peace--nnp: 1
+jerusalem--nnp: 1
+stability--nn: 1
+seth--nnp: 1
+limited--nnp: 1
+boss--nnp: 1
+cheb khaled--nnp-nnp: 1
+inexpensive--nnp: 1
+djuna--nn: 1
+basal--nnp: 1
+biological--nnp: 1
+hush--nnp: 1
+e vandercaust--n-nnp: 1
+meditation--nn: 1
+iapetus--nn: 1
+perspective--nn: 1
+regret--nnp: 1
+alligát--nn: 1
+s zone--n-nnp: 1
+dagny taggart--nnp-nnp: 1
+pope--nnp: 1
+fried--nnp: 1
+terrible--nnp: 1
+cigdem toker--nnp-nnp: 1
+gunner--nnp: 1
+stopped--nnp: 1
+attitude--nnp: 1
+final--nnp: 1
+aloud--nn: 1
+showy--nnp: 1
+safety--nn: 1
+nbr--nnp: 1
+neptune--nnp: 1
+sleep--nn: 1
+dorian--nnp: 1
+safe--nnp: 1
+serrio--nnp: 1
+a le--n-nnp: 1
+leadership--nn: 1
+arequipa--nnp: 1
+salis wait--nnp-nnp: 1
+insolence--nn: 1
+admiral coen--nnp-nnp: 1
+knew--nnp: 1
+aurelius--nnp: 1
+focus--nnp: 1
+restlessness--nnp: 1
+message--nn: 1
+pretty--nnp: 1
+understood--nnp: 1
+data--nnp: 1
+shului--nn: 1
+adapt--nnp: 1
+capture--nn: 1
+bullshit--nnp: 1
+olivia liu--nnp-nnp: 1
+drum--nnp: 1
+r energy--n-nnp: 1
+helps--nnp: 1
+aituma--nnp: 1
+enceladus--nn: 1
+meaningless--nn: 1
+richards--nns: 1
+inspire--nnp: 1
+master inaros--nnp-nnp: 1
+yards--nns: 1
+takeshi--nnp: 1
+bila--nnp: 1
+barbatana--nnp: 1
+persian gulf--nnp-nnp: 1
+chahaya nelson--nnp-nnp: 1
+basrat--nnp: 1
+north america--nnp-nnp: 1
+metal--nn: 1
+caspian--jj: 1
+tethys--nnp: 1
+agatha--nnp: 1
+end--nn: 1
+guns--nnp: 1
+armor--nn: 1
+almost--nnp: 1
+chrisjen--nnp: 1
+holden inertia--nnp-nnp: 1
+smiles--nns: 1
+de familie--nnp-nnp: 1
+q huang--n-nnp: 1
+wakefield--nnp: 1
+typical--jj: 1
+batch--nnp: 1
+pella--nnps: 1
+han--nnp: 1
+skol--nnp: 1
+appropriate--nnp: 1
+sabbu re--nnp-nnp: 1
+twelve--nn: 1
+clearer--nn: 1
+f attack--n-nnp: 1
+ash--nnp: 1
+getting--nnp: 1
+warn--nnp: 1
+network--nnp: 1
+witch--nn: 1
+father tom--nnp-nnp: 1
+shock--nn: 1
+human development--nnp-nnp: 1
+alliance--nn: 1
+peace--nn: 1
+ready--jj: 1
+parris--nnp: 1
+gather--nnp: 1
+impact--nn: 1
+venus--nn: 1
+antinausea--nnp: 1
+lunar--nnp: 1
+float--nnp: 1
+hotaru--nnp: 1
+volveré--nnp: 1
+matter--nn: 1
+anger--nn: 1
+barry--nnp: 1
+gutmansdottir--nnp: 1
+wir--nnp: 1
+gratulacje--nnp: 1
+hall station--nnp-nnp: 1
+tubarão--nnp: 1
+crisp--nnp: 1
+amash--nn: 1
+caçada--nnp: 1
+san esteban--nnp-nnp: 1
+azure dragon--nn-nnp: 1
+c johnson--n-nnp: 1
+squats--nnp: 1
+down--nnp: 1
+name--nnp: 1
+tinnitus--nn: 1
+trigger--nnp: 1
+stubble--jj: 1
+poe--nnp: 1
+father joseph--nnp-nnp: 1
+charnapal--nnp: 1
+tachi--nnp: 1
+confirmed dead--nnp-nnp: 1
+jacob h--nnp-nnp: 1
+black--nnp: 1
+distinguished--nnp: 1
+new terra--nnp-nnp: 1
+salutorg district--nnp-nnp: 1
+rhodes--nnp: 1
+pensive--nnp: 1
+come--nnp: 1
+stranger--nnp: 1
+death--nnp: 1
+pleistocene--nnp: 1
+less--nnp: 1
+hopefully--nnp: 1
+alex good--nnp-nnp: 1
+salis--nns: 1
+weapons--nnp: 1
+eighteen--nn: 1
+gao--nnp: 1
+music--nnp: 1
+okulski--nnp: 1
+smaller--nn: 1
+massive--jj: 1
+men--nn: 1
+capitol--nnp: 1
+coordination--nn: 1
+calmly--nnp: 1
+wanting--nn: 1
+montemayor--nn: 1
+hungry--jj: 1
+cargo--nnp: 1
+momma sophie--nnp-nnp: 1
+aaman--nn: 1
+susanna--nnp: 1
+mission--nnp: 1
+slipped--nnp: 1
+thank god--nnp-nnp: 1
+father inaros--nnp-nnp: 1
+signal--nnp: 1
+strength--nnp: 1
+aldrin--nnp: 1
+hy1808--nnp: 1
+inside--nnp: 1
+humiliation--nn: 1
+strong--jj: 1
+tycho--jj: 1
+book--nnp: 1
+union--nnp: 1
+perdón--nnp: 1
+trustworthy--nnp: 1
+miller--nnp: 1
+graveyard--nnp: 1
+greater abuja--nnp-nnp: 1
+fake--nnp: 1
+jaw--nnp: 1
+rebel--nnp: 1
+compassionate--nnp: 1
+damage--nn: 1
+decent--nnp: 1
+strongly--nnp: 1
+though--nnp: 1
+covert--jj: 1
+hmm--nn: 1
+eros station--nnp-nnp: 1
+handsome--nnp: 1
+leather--nnp: 1
+mal--nnp: 1
+arab--nnp: 1
+group--nnp: 1
+nelson--nnp: 1
+new egypt--nnp-nnp: 1
+marco marco--nnp-nnp: 1
+joyful--jj: 1
+redstone--nnp: 1
+praxidike--nnp: 1
+large--jj: 1
+shame--nn: 1
+muffled--jj: 1
+observation--nnp: 1
+zach kazantzakis--nnp-nnp: 1
+shoshana rindai--nnp-nnp: 1
+shannon--nnp: 1
+fly--nnp: 1
+âge--nn: 1
+retire--nn: 1
+john galt--nnp-nnp: 1
+de--nnp: 1
+holden ifeel--nnp-nnp: 1
+tight--nnp: 1
+dmitri havelock--nnp-nnp: 1
+athens--nnp: 1
+víse--nnp: 1
+emptier--nn: 1
+edward carr--nnp-nnp: 1
+jeszcze--nnp: 1
+cicero--nnp: 1
+fragé--nnp: 1
+recycler--nnp: 1
+work--nn: 1
+sensor--nnp: 1
+burton--nnp: 1
+reconstruction committee--nnp-nnp: 1
+ilus--nn: 1
+dumb--nnp: 1
+michaela--nnp: 1
+hundred aspects--nnp-nnps: 1
+chinese--nnp: 1
+first--nnp: 1
+reedy--nnp: 1
+esá--nn: 1
+rhea--nn: 1
+a badawi--n-nnp: 1
+drunk--nnp: 1
+small--nn: 1
+remembered--nnp: 1
+too--nnp: 1
+perfect--jj: 1
+belter--nn: 1
+donne--nn: 1
+coin silver--nnp-nnp: 1
+mumbai--nnp: 1
+barkeith--nnp: 1
+plush--nnp: 1
+mom--nnp: 1
+unfamiliar--nn: 1
+bull--nn: 1
+tears--nns: 1
+opa council--nnp-nnp: 1
+coordonnées--nn: 1
+anticipation--nn: 1
+china--nnp: 1
+hospital--nn: 1
+farther--nnp: 1
+gor--nnp: 1
+fihi--nnp: 1
+amiri--nnp: 1
+ladar--nnp: 1
+liu--nnp: 1
+tabitha toeava--nnp-nnp: 1
+earth navy--nnp-nnp: 1
+michio--nn: 1
+callistan--nnp: 1
+favór--nnp: 1
+possible--nnp: 1
+ownership--nn: 1
+mind--nnp: 1
+martian duarte--jj-nnp: 1
+district--nnp: 1
+boys--nnp: 1
+run--nnp: 1
+hate--nnp: 1
+wilson--nnp: 1
+fashion--nn: 1
+norwegian--nnp: 1
+macedon--nnp: 1
+bangkok--nnp: 1
+brilliant iris--nnp-nnp: 1
+aching--nnp: 1
+sylvie kai--nnp-nnp: 1
+gato--nnp: 1
+levi watts--nnp-nnp: 1
+kanter--nnp: 1
+carry--nnp: 1
+half--nn: 1
+genius--nnp: 1
+résidence--nn: 1
+cooperative--nnp: 1
+laghouat--nnp: 1
+noise--nn: 1
+mars—alex--nnp: 1
+arl--nnp: 1
+meditations--nnps: 1
+child---jj: 1
+bozeman--nnp: 1
+brenda kaufmann--nnp-nnp: 1
+detective miller--nnp-nnp: 1
+western europe--nnp-nnp: 1
+bredon tycho--nnp-nnp: 1
+sorrow--nnp: 1
+movement--nn: 1
+gunny--nnp: 1
+burn--nnp: 1
+dad--nnp: 1
+dashiell moraga--nnp-nnp: 1
+sahara--nnp: 1
+alexander--nnp: 1
+counterattack--nn: 1
+pilot--nnp: 1
+leg--nnp: 1
+george--nnp: 1
+simon gutierrez--nnp-nnp: 1
+jon amash--nnp-nnp: 1
+jaquenetta--nnp: 1
+captain chou--nnp-nnp: 1
+inverted loop--nnp-nnp: 1
+put--nn: 1
+coordonnées--nnp: 1
+lighter--nnp: 1
+robert frost--nnp-nnp: 1
+environmental--nnp: 1
+joseph--nnp: 1
+father anton--nnp-nnp: 1
+myers--nnp: 1
+afterward--nnp: 1
+tomás--nnp: 1
+trot--nn: 1
+bullets--nns: 1
+Total of 1209 unique entities
+===============================================================
+
+
+Top Entities for the-expanse-7-persepolis-rising.txt:
+bobbie--nnp: 640
+holden--nnp: 486
+singh--nnp: 405
+naomi--nnp: 313
+drummer--nnp: 274
+alex--nnp: 258
+amos--nnp: 251
+saba--nnp: 249
+medina--nnp: 247
+clarissa--nnp: 160
+laconia--nnp: 146
+katria--nnp: 141
+laconian--jj: 132
+duarte--nnp: 119
+tempest--nnp: 118
+vaughn--nnp: 82
+trejo--nnp: 74
+overstreet--nnp: 73
+avasarala--nnp: 71
+sol--nnp: 71
+roci--nnp: 69
+rocinante--nnp: 62
+emc--nnp: 56
+paolo--nnp: 55
+mars--nnp: 54
+earth--nnp: 54
+houston--nnp: 51
+transport union--nnp-nnp: 50
+freehold--nnp: 49
+tanaka--nnp: 44
+martian--jj: 41
+marine--nnp: 37
+medina station--nnp-nnp: 33
+admiral trejo--nnp-nnp: 30
+fisk--nnp: 28
+typhoon--nnp: 27
+kasik--nnp: 27
+babs--nnp: 26
+lafflin--nnp: 26
+tur--nnp: 25
+worlds--nnp: 25
+earth--nn: 25
+natalia--nnp: 25
+admiral--nnp: 24
+jordao--nnp: 24
+don--nnp: 24
+home--nnp: 23
+pallas--nnp: 21
+madam--nnp: 20
+onni--nnp: 18
+part--nn: 18
+opa--nnp: 18
+james holden--nnp-nnp: 18
+claire--nnp: 17
+jim--nnp: 17
+storm--nnp: 17
+belter--nnp: 17
+belters--nnp: 16
+carrie fisk--nnp-nnp: 16
+okay--nnp: 16
+tori byron--nnp-nnp: 16
+pdcs--nnp: 16
+free navy--nnp-nnp: 15
+laconian--nnp: 15
+langstiver--nnp: 14
+sir--nnp: 14
+belt--nnp: 14
+captain--nnp: 14
+people--nnp: 14
+davenport--nnp: 14
+colonel tanaka--nnp-nnp: 14
+someone--nn: 13
+independence--nnp: 12
+association--nnp: 12
+luna--nnp: 12
+elsa--nnp: 12
+nat--nnp: 12
+which--wdt: 12
+laconians--nnps: 11
+marines--nnps: 11
+the--nnp: 11
+right--nnp: 11
+voltaire collective--nnp-nnp: 11
+auberon--nnp: 11
+monster--nnp: 10
+carrie--nnp: 10
+peaches--nnp: 10
+ilus--nnp: 10
+captain holden--nnp-nnp: 10
+ramez--nnp: 10
+pdc--nnp: 10
+pen--nnp: 10
+ganymede--nnp: 9
+kelly--nnp: 9
+pallas station--nnp-nnp: 9
+sonny--nnp: 9
+cap--nnp: 9
+un--nnp: 9
+camina--nnp: 9
+no--nnp: 9
+tycho--nnp: 9
+caton--nnp: 8
+good--jj: 8
+h duarte--n-nnp: 8
+james--nnp: 8
+how--nnp: 8
+iwasa--nnp: 8
+kohl--nnp: 8
+giselle--nnp: 8
+ochida--nnp: 8
+mariner valley--nnp-nnp: 7
+titan--nnp: 7
+marines--nnp: 7
+hard--nnp: 7
+hu--nnp: 7
+overstreet--nn: 7
+clarissa--nn: 7
+cameron tur--nnp-nnp: 7
+malaclypse--nnp: 7
+congress--nnp: 7
+belters--nns: 7
+admiral hu--nnp-nnp: 7
+marines--nns: 7
+martian--nnp: 6
+sanjrani--nnp: 6
+tell--nnp: 6
+was--nnp: 6
+which--nnp: 6
+kit--nnp: 6
+mars--nns: 6
+understood--nnp: 6
+betsy--nnp: 6
+anyone--nn: 6
+narwa--nnp: 6
+make--nnp: 5
+passage--nnp: 5
+nothing--nn: 5
+might--nnp: 5
+c singh--n-nnp: 5
+sorry--nnp: 5
+singh--nn: 5
+winston duarte--nnp-nnp: 5
+major--nnp: 5
+transport--nnp: 5
+didn--nnp: 5
+independence--nn: 5
+anton--nnp: 5
+consul duarte--nnp-nnp: 5
+station--nnp: 5
+time--nnp: 5
+ceres--nnp: 5
+doctor--nnp: 5
+teresa--nnp: 5
+tycho station--nnp-nnp: 5
+voltaire--nnp: 5
+mccahill--nnp: 5
+high consul--nnp-nnp: 5
+jupiter--nnp: 4
+h duarte----nnp: 4
+marco--nnp: 4
+iapetus--nnp: 4
+got--nnp: 4
+look--nnp: 4
+payne houston--nnp-nnp: 4
+shit--nnp: 4
+fuck--nnp: 4
+collective--nnp: 4
+song--nnp: 4
+great--nnp: 4
+laconians--nnp: 4
+dark--nnp: 4
+saturn--nnp: 4
+katria mendez--nnp-nnp: 4
+daphne kohl--nnp-nnp: 4
+message--nn: 4
+que--nnp: 4
+savage landing--nnp-nnp: 4
+state--nnp: 4
+fred johnson--nnp-nnp: 4
+state building--nnp-nnp: 4
+union--nnp: 4
+seven--nnp: 4
+b complex--n-nnp: 4
+freckles--nnp: 4
+god--nnp: 4
+nauvoo--nnp: 4
+chief--nnp: 4
+admiral duarte--nnp-nnp: 3
+io campaign--nnp-nnp: 3
+natalia singh--nnp-nnp: 3
+byron--nnp: 3
+eye--nnp: 3
+report--nn: 3
+bright--nnp: 3
+navy--nnp: 3
+colonel--nnp: 3
+walker--nnp: 3
+drummer--nn: 3
+governor singh--nnp-nnp: 3
+chrisjen avasarala--nnp-nnp: 3
+stay--nnp: 3
+alles--nnp: 3
+jordao--nn: 3
+control--nnp: 3
+olympus mons--nnp-nnp: 3
+singh singh--nnp-nnp: 3
+hoy--nnp: 3
+wide--nnp: 3
+guard--nnp: 3
+cortazár--nnp: 3
+grief--nnp: 3
+epstein--nnp: 3
+fire--nnp: 3
+real--jj: 3
+bobbie--nn: 3
+coriolis--nnp: 3
+xo--nnp: 3
+mao--nnp: 3
+captain draper--nnp-nnp: 3
+mmc--nnp: 3
+typhoon--nn: 3
+please--nnp: 3
+iv--nnp: 3
+and--nnp: 3
+admiral trejo--jj-nnp: 3
+ready--jj: 3
+mcrn--nnp: 3
+sooner--nnp: 3
+save--nnp: 3
+clarissa mao--nnp-nnp: 3
+awp--nnp: 3
+santiago--nnp: 3
+security--nnp: 3
+h duarte--j-nnp: 3
+traffic--nn: 3
+captain iwasa--nnp-nnp: 3
+she--nnp: 3
+fifteen--nnp: 3
+too--nnp: 3
+alex kamal--nnp-nnp: 3
+yup--nnp: 3
+wasn--nnp: 3
+blood--nn: 3
+history--nn: 3
+fine--nn: 3
+high--nnp: 3
+draper--nnp: 3
+exhaustion--nn: 2
+everyone--nn: 2
+strange--nnp: 2
+better--nnp: 2
+fuck--nn: 2
+surprise--nn: 2
+systems--nnp: 2
+behemoth--nnp: 2
+talk--nn: 2
+m recon--n-nnp: 2
+coyo--nnp: 2
+bad--nnp: 2
+the--dt: 2
+time--nn: 2
+mister davenport--nnp-nnp: 2
+benedito--nnp: 2
+fisk--nn: 2
+l navy--j-nnp: 2
+marco inaros--nnp-nnp: 2
+bobbie bobbie--nnp-nnp: 2
+sarkis--nnp: 2
+naval--jj: 2
+elsa--nn: 2
+operations--nnp: 2
+work--nn: 2
+hell--nnp: 2
+jesus christ--nnp-nnp: 2
+santos-baca--nnp: 2
+onni langstiver--nnp-nnp: 2
+easy--nnp: 2
+benedito lafflin--nnp-nnp: 2
+l command--j-nnp: 2
+chernev institute--nnp-nnp: 2
+violence--nn: 2
+live--nnp: 2
+new roma--nnp-nnp: 2
+shouldn--nnp: 2
+fisher--nnp: 2
+old buncome--nnp-nnp: 2
+patterns--nnp: 2
+me--nn: 2
+punishment--nn: 2
+ship--nnp: 2
+empire--nn: 2
+admiral goyer--nnp-nnp: 2
+plenty--nnp: 2
+laconian empire--nnp-nnp: 2
+hud--nnp: 2
+institute--nnp: 2
+twelve--nnp: 2
+perfect--nnp: 2
+you--nnp: 2
+captain singh--nnp-nnp: 2
+santiago singh--nnp-nnp: 2
+ahmed mccahill--nnp-nnp: 2
+charon--nnp: 2
+light--jj: 2
+tachi--nnp: 2
+earthers--nns: 2
+ontario--nnp: 2
+terran--nnp: 2
+trejo--nn: 2
+ilich--nnp: 2
+aunt bobbie--nnp-nnp: 2
+major overstreet--jj-nnp: 2
+lightbreaker--nnp: 2
+water reclamation--nnp-nnp: 2
+patroclus--nnp: 2
+personnel--nnp: 2
+adam--nnp: 2
+anyplace--nnp: 2
+laconian congress--jj-nnp: 2
+did--nnp: 2
+wait--nn: 2
+leds--nnp: 2
+old--nnp: 2
+hold--nnp: 2
+him--nnp: 2
+crowbar--nnp: 2
+freehold--jj: 2
+holden holden--nnp-nnp: 2
+monica--nnp: 2
+real--nnp: 2
+huh--nnp: 2
+will--nnp: 2
+diner--nnp: 2
+winston--nnp: 2
+scarred--nnp: 2
+fusang--nnp: 2
+anybody--nn: 2
+duty--nn: 2
+down--nnp: 2
+greetings--nnp: 2
+new terra--nnp-nnp: 2
+emily santos-baca--nnp-nnp: 2
+heart--nnp: 2
+green--jj: 2
+humanity--nn: 2
+uranus--nnp: 2
+baltimore--nnp: 2
+vanegas--nnp: 2
+long--jj: 2
+young--nnp: 2
+cj--nnp: 2
+castila--nnp: 2
+leuctra point--nnp-nnp: 2
+parley--nnp: 2
+comm--nnp: 2
+die--nnp: 2
+fred--nnp: 2
+mass--nnp: 2
+damn--nnp: 2
+m corps--j-nnp: 2
+perdón--nnp: 2
+add--nnp: 2
+tjon--nnp: 2
+planets--nnp: 2
+almost--nnp: 2
+traffic--nnp: 2
+again--nnp: 2
+paolo cortazár--nnp-nnp: 2
+wait--nnp: 2
+plenty--nn: 2
+fair--nnp: 2
+tori--nnp: 2
+dangerous--jj: 1
+fine--nnp: 1
+marks--nnp: 1
+point leuctra--nnp-nnp: 1
+lagrange-5--nnp: 1
+charles--nnp: 1
+positive--nnp: 1
+crystal--nnp: 1
+wheat--nnp: 1
+elvi okoye--nnp-nnp: 1
+travis--nn: 1
+klaxons--nnp: 1
+excited--jj: 1
+adrenaline--nn: 1
+gate--nnp: 1
+ren--nnp: 1
+interior--nnp: 1
+nyingchi xin--nnp-nnp: 1
+anton trejo--nnp-nnp: 1
+o alliance--n-nnp: 1
+albin nazari--nnp-nnp: 1
+old--nn: 1
+slow--nnp: 1
+round--nnp: 1
+poompaw--nnp: 1
+difficult--nnp: 1
+corruptible--jj: 1
+corazón sagrado--nnp-nnp: 1
+whirlwind--nnp: 1
+michio pa--nnp-nnp: 1
+get--nnp: 1
+savage--nnp: 1
+goliath--nnp: 1
+parallax--nn: 1
+communications--nnps: 1
+spec ops--nnp-nnp: 1
+dna--nnp: 1
+lagrange--nnp: 1
+cantor--nnp: 1
+speech--nn: 1
+g draper----nnp: 1
+pain--nnp: 1
+smaller--nnp: 1
+mine--nn: 1
+maybe--nnp: 1
+air--nnp: 1
+technology--nn: 1
+absorb--nnp: 1
+hayyam--nnp: 1
+e vanegas--n-nnp: 1
+karo--nnp: 1
+c massey--n-nnp: 1
+anxious--jj: 1
+power authority--nnp-nnp: 1
+christian--nnp: 1
+total--jj: 1
+information--nn: 1
+gone--nnp: 1
+kiosks--nnp: 1
+audio--nnp: 1
+someplace--nn: 1
+mona lisa--nnp-nnp: 1
+stormy--nnp: 1
+damage--nnp: 1
+goes--nnp: 1
+sweat--nnp: 1
+christmas--nnp: 1
+nanda--nnp: 1
+high--jj: 1
+panic--nnp: 1
+hollow--nnp: 1
+limited--jj: 1
+association legislature--nnp-nnp: 1
+large--jj: 1
+ackermann--nnp: 1
+rocicorp--nnp: 1
+turned--vbn: 1
+mortars--nns: 1
+thanks--nnp: 1
+semantic--jj: 1
+phoebe--nnp: 1
+popular--nnp: 1
+colonel massey--nnp-nnp: 1
+birth--nnp: 1
+thirteen--nnp: 1
+paradíso--nnp: 1
+magnetic--jj: 1
+c holden--n-nnp: 1
+commander davenport--nnp-nnp: 1
+c perkins--n-nnp: 1
+golden--nnp: 1
+emptier--nn: 1
+pad--nnp: 1
+rome--nnp: 1
+nature--nnp: 1
+thebes--nnp: 1
+wife--nnp: 1
+go--nnp: 1
+naraka--nnp: 1
+cuz--nnp: 1
+arcadia rose--nnp-nnp: 1
+see--nnp: 1
+fear--nn: 1
+hurry--nnp: 1
+ouch--nnp: 1
+audit summary--nnp-nnp: 1
+martin karczek--nnp-nnp: 1
+skill--nnp: 1
+long--nnp: 1
+clear--jj: 1
+colonel ilich--nnp-nnp: 1
+munhwa ilbo--nnp-nnp: 1
+puffer--nnp: 1
+guardian--nnp: 1
+ekanjo--nnp: 1
+from--nnp: 1
+bobbie tenth--nnp-nnp: 1
+spare--nnp: 1
+marais--nnp: 1
+tag--nnp: 1
+deeper--nnp: 1
+roberta w--nnp-nnp: 1
+admiral song--nnp-nnp: 1
+men--nn: 1
+rock--nn: 1
+look--nn: 1
+lust--nnp: 1
+pleasant--nnp: 1
+change--nn: 1
+ochoa opa--nnp-nnp: 1
+drummer mccahill--nnp-nnp: 1
+light--nnp: 1
+michael simeon--nnp-nnp: 1
+code--nn: 1
+command--nnp: 1
+prologue--nn: 1
+velcro--nnp: 1
+grown--nnp: 1
+workers--nnp: 1
+research--nn: 1
+reason--nnp: 1
+interim--nnp: 1
+silence--nn: 1
+visible--jj: 1
+which--jj: 1
+saba--nn: 1
+trivial--nnp: 1
+laconia university--nnp-nnp: 1
+show--nnp: 1
+brush--nnp: 1
+spanish--jj: 1
+army--nnp: 1
+when--nnp: 1
+ríocht--nnp: 1
+governor houston--nnp-nnp: 1
+knees--nnp: 1
+marks--nns: 1
+ekandjo--nnp: 1
+prison--nnp: 1
+new spain--nnp-nnp: 1
+bobbie tag--nnp-nnp: 1
+checkpoints--nns: 1
+spring--nn: 1
+alliance--nnp: 1
+awake--nnp: 1
+m overstreet--j-nnp: 1
+mommy--nnp: 1
+d duarte--n-nnp: 1
+green--nnp: 1
+anything--nn: 1
+none--nn: 1
+have--nnp: 1
+chapter three--nnp-nnp: 1
+mandarin--nnp: 1
+mother earth--nnp-nnp: 1
+note--nn: 1
+clenched--nnp: 1
+kurtadam--nnp: 1
+mps--nnp: 1
+keep--nnp: 1
+chrysanthemum--nnp: 1
+rocinanate--nnp: 1
+laconia city--nnp-nnp: 1
+local--jj: 1
+a trejo--j-nnp: 1
+taryn hong--nnp-nnp: 1
+mormons--nnp: 1
+pale--nnp: 1
+sparks--nns: 1
+sharp--nnp: 1
+rock--nnp: 1
+couldn--nnp: 1
+hmmm--nnp: 1
+lieutenant guillamet--nnp-nnp: 1
+calm--nnp: 1
+organic--jj: 1
+great--nn: 1
+standard--nn: 1
+beer--nnp: 1
+minute--nn: 1
+christ--nnp: 1
+hubris--nnp: 1
+wanted--jj: 1
+freeholders--nnp: 1
+lieutenant kasik--nnp-nnp: 1
+creole--nnp: 1
+sound--nnp: 1
+conferme--nn: 1
+really--nnp: 1
+childhood--nnp: 1
+sternly--nnp: 1
+gray--nnp: 1
+car--nnp: 1
+armed--nnp: 1
+scar-eye--nnp: 1
+annoyance--nn: 1
+location--nn: 1
+dui--nnp: 1
+cross--nnp: 1
+water--nnp: 1
+dread--nn: 1
+okay--nn: 1
+singh sol--nnp-nnp: 1
+shock--nnp: 1
+hillman--nn: 1
+carrie fisk--vbn-nnp: 1
+dad--nnp: 1
+ensign--nnp: 1
+johnson--nnp: 1
+cortazár almost--nnp-nnp: 1
+university--nnp: 1
+shit--nn: 1
+sin--nnp: 1
+marine--nn: 1
+daddy--nnp: 1
+hope--nnp: 1
+certainty--jj: 1
+dodge--nnp: 1
+bossmang--nnp: 1
+zemî--nnp: 1
+unn--nnp: 1
+part--nnp: 1
+paolo--nn: 1
+medical--jj: 1
+drive--nnp: 1
+mushroom--nnp: 1
+moroccan--jj: 1
+hot--nnp: 1
+canton--nnp: 1
+our--nnp: 1
+looks--nnp: 1
+fisk to--nnp-nnp: 1
+blind--nnp: 1
+fresh--nnp: 1
+europa--nnp: 1
+roberta--nnp: 1
+r song--n-nnp: 1
+figure--nn: 1
+our--jj: 1
+telemetry--nn: 1
+peter--nnp: 1
+kenna--nnp: 1
+coordinate--nn: 1
+miss kitty--nnp-nnp: 1
+efficient--nn: 1
+anyone--nnp: 1
+fayez--nnp: 1
+drummer okay--nnp-nnp: 1
+smaller--nn: 1
+plan--nn: 1
+rounds--nns: 1
+capitulate--nn: 1
+head--nn: 1
+inner--nnp: 1
+worst--nnp: 1
+pdcs--nn: 1
+ve--nnp: 1
+they--nnp: 1
+sounds--nnp: 1
+félicité--nnp: 1
+klaxon--nnp: 1
+arms--nns: 1
+overpopulation--nn: 1
+cami--nnp: 1
+bombs--nnp: 1
+seems--nnp: 1
+good laconians--jj-nnps: 1
+chaos--nn: 1
+chapter four--nnp-nnp: 1
+earthers--nnp: 1
+message--nnp: 1
+hindi--nnp: 1
+hello--nnp: 1
+golden bough--nnp-nnp: 1
+chapter--nnp: 1
+berth k-eighteen--nnp-nnp: 1
+tsl-5--nnp: 1
+elsa singh--nnp-nnp: 1
+death--nnp: 1
+technology--nnp: 1
+shipshape--nn: 1
+nine moral--nnp-nnp: 1
+shoulda--nnp: 1
+nah--nnp: 1
+ganymede--nn: 1
+g union--n-nnp: 1
+holden rather--nnp-nnp: 1
+images--nns: 1
+semple marks--nnp-nnp: 1
+pov--nnp: 1
+wouldn--nnp: 1
+usm--nnp: 1
+palimpsest--jjs: 1
+eleven--nnp: 1
+perdó--nnp: 1
+brownian--jj: 1
+adro--nnp: 1
+mostly--rb: 1
+electrical--nnp: 1
+humiliation--nnp: 1
+firm--nn: 1
+beijing--nnp: 1
+corps--nnp: 1
+pátria--nnp: 1
+nine--nnp: 1
+listen--nnp: 1
+carrie fisks--nnp-nnp: 1
+unusual--jj: 1
+tears--nnp: 1
+record--nnp: 1
+technological--jj: 1
+tur--nn: 1
+intelligence--nnp: 1
+terra--nnp: 1
+martian navy--nnp-nnp: 1
+crowbar--nn: 1
+lenient--nn: 1
+bulkhead--nnp: 1
+ilus incident--nnp-nnp: 1
+stand--nnp: 1
+dandruff--nnp: 1
+isn--nnp: 1
+afghanistan--nnp: 1
+tubes--nnp: 1
+rain--nnp: 1
+sit--nnp: 1
+emily santos-baca--rb-nnp: 1
+same--jj: 1
+thick--nnp: 1
+trina pilau--nnp-nnp: 1
+high consul--jj-nn: 1
+bible--jj: 1
+whole--jj: 1
+o force----nnp: 1
+clean--jj: 1
+good--nnp: 1
+nasty--jj: 1
+house--nnp: 1
+peace--nnp: 1
+id--nnp: 1
+checkpoint--nnp: 1
+major--jj: 1
+collaboration--nn: 1
+eye of--nnp-in: 1
+danielle--nnp: 1
+won--nnp: 1
+distant--nnp: 1
+general assembly--nnp-nnp: 1
+rce--nnp: 1
+visé--nnp: 1
+t rhino--n-nnp: 1
+canterbury--nn: 1
+gaon complex--nnp-nnp: 1
+thicker--nn: 1
+mendez--nnp: 1
+hola--nnp: 1
+tribalism--nn: 1
+giant--jj: 1
+glad--nnp: 1
+transportation union--nnp-nnp: 1
+plan b--nn-nnp: 1
+sounds--nnps: 1
+mine--nnp: 1
+mariner tech--nnp-nnp: 1
+rapid heartbeats--nnp-nnp: 1
+was--jj: 1
+rice--nnp: 1
+motive--nnp: 1
+major overstreet--nnp-nnp: 1
+re--nnp: 1
+perkins--nnp: 1
+policy--nn: 1
+s singh--n-nnp: 1
+architecture--nn: 1
+neg--nnp: 1
+talwar--nnp: 1
+council--nnp: 1
+mrcn--nnp: 1
+find--nnp: 1
+history--nnp: 1
+innis--nnp: 1
+asylum--nnp: 1
+hmm--nnp: 1
+emcs--nnp: 1
+frustration--nn: 1
+pretty--nnp: 1
+canterbury--nnp: 1
+neue ausland--nnp-nnp: 1
+paris--nnp: 1
+recommendations--nnp: 1
+transfer of--nnp-nnp: 1
+r energy--n-nnp: 1
+trouble--nnp: 1
+basic--nnp: 1
+loundres nova--nnp-nnp: 1
+okoye--nnp: 1
+overnight--nnp: 1
+martian navy--jj-nnp: 1
+surface--nnp: 1
+grunt--nnp: 1
+auden--nnp: 1
+michael souther--nnp-nnp: 1
+magnetars--nnp: 1
+caution--nnp: 1
+bureaucracy--nnp: 1
+li--nnp: 1
+technology directorate--nnp-nnp: 1
+window--nnp: 1
+first--nnp: 1
+adonis--nnp: 1
+klaxons--nns: 1
+ships--nns: 1
+chapter fifteen--nn-nnp: 1
+noah--nnp: 1
+s singh----nnp: 1
+mom--nnp: 1
+stoddard--nnp: 1
+naomi nagata--nnp-nnp: 1
+became--nn: 1
+mmhm--nnp: 1
+daphne--nnp: 1
+lieutenant--nnp: 1
+newsfeeds--nnp: 1
+twelve--nn: 1
+doctor singh--nnp-nnp: 1
+vanderpoele--nnp: 1
+stockholm--nnp: 1
+beautiful--nnp: 1
+han yu--nnp-nnp: 1
+t speaker--n-nnp: 1
+s--nnp: 1
+frankly--nnp: 1
+whoever--nnp: 1
+point leuctra--nn-nnp: 1
+pain--nn: 1
+gather--nnp: 1
+leadership--nnp: 1
+space--nn: 1
+nine--nn: 1
+parking--nnp: 1
+pa--nnp: 1
+kinley--nnp: 1
+reach--nnp: 1
+age--nn: 1
+disloyalty--nn: 1
+rosy cross--nnp-nnp: 1
+jovian--jj: 1
+earth--jj: 1
+anxiety--nn: 1
+her--nnp: 1
+screens--nns: 1
+gon--nnp: 1
+trauma--nnp: 1
+complicate--nnp: 1
+bit--nnp: 1
+crack--nnp: 1
+wider--nn: 1
+etiquette--nnp: 1
+blue genius--nnp-nnp: 1
+comfort--nn: 1
+assuming--nnp: 1
+maha--nnp: 1
+belters--nnps: 1
+maha--nn: 1
+enjoy--nnp: 1
+dna--nn: 1
+chinese--jj: 1
+sharon chavez--nnp-nnp: 1
+but--nnp: 1
+dig--nnp: 1
+ireland--nnp: 1
+ami henders--nnp-nnp: 1
+cleo--nnp: 1
+priority--nnp: 1
+jizz--nnp: 1
+animal--jj: 1
+speaks--nnp: 1
+commander--nnp: 1
+empires--nns: 1
+amos burton--nnp-nnp: 1
+denver--nnp: 1
+bent--nnp: 1
+pleistocene--nnp: 1
+optimal--nnp: 1
+return of--nnp-in: 1
+hate--nn: 1
+system--nnp: 1
+london--nnp: 1
+data--nnp: 1
+sovereign citizens--nnp-nnp: 1
+front--nnp: 1
+nova catalunya--nnp-nnp: 1
+dataset--nnp: 1
+respect--nn: 1
+just--nnp: 1
+ever--nnp: 1
+follow--jj: 1
+yep--nnp: 1
+aliana tanaka--nnp-nnp: 1
+cracks--nnp: 1
+h trejo----nnp: 1
+same--nn: 1
+carlisle hayyam--nnp-nnp: 1
+melpomene mao--nnp-nnp: 1
+naval academy--nnp-nnp: 1
+madam avasarala--nnp-nnp: 1
+discuss--nnp: 1
+hang--nnp: 1
+severin--nnp: 1
+smooth--nnp: 1
+miller--nnp: 1
+to--nnp: 1
+defiance--nn: 1
+annoyance--nnp: 1
+failure--nn: 1
+magnetar-class--nnp: 1
+nazari--nnp: 1
+newton--nnp: 1
+meant--nnp: 1
+brought--nnp: 1
+commit--nnp: 1
+lithium--nn: 1
+heaven--nn: 1
+route--nnp: 1
+tears--nns: 1
+emily--nnp: 1
+m republic--j-nnp: 1
+earth navy--nnp-nnp: 1
+huge--nn: 1
+hatches--nns: 1
+me--nnp: 1
+babs--nns: 1
+dim--nnp: 1
+good god--nnp-nnp: 1
+gourab--nn: 1
+red--nnp: 1
+kuiper belt--nnp-nnp: 1
+brace--nnp: 1
+empathetic--nnp: 1
+odd--nnp: 1
+empty--nnp: 1
+doctor cortazár--nnp-nnp: 1
+best--nnp: 1
+earther--nnp: 1
+where--nnp: 1
+pur--nnp: 1
+chrisjen avasarala—the--nnp-nnp: 1
+seemed--nnp: 1
+athens--nnp: 1
+enough--jj: 1
+holden politely--nnp-nnp: 1
+debris--nnp: 1
+greek--nnp: 1
+technological--nnp: 1
+acceleration--nnp: 1
+sensor--nnp: 1
+burton--nnp: 1
+bob--nnp: 1
+holden stay--nnp-nnp: 1
+fifteen--jj: 1
+simultaneity--nnp: 1
+c her--n-nnp: 1
+radical--jj: 1
+lousy--jj: 1
+linens--nns: 1
+once--nnp: 1
+dock--nnp: 1
+c draper--n-nnp: 1
+quantum--nnp: 1
+johnson opa--nnp-nnp: 1
+protocols--nnp: 1
+gallish complex--nnp-nnp: 1
+solomon epstein--nnp-nnp: 1
+naomi wake--nnp-nnp: 1
+thank--nn: 1
+nagata--nnp: 1
+business--nnp: 1
+record--nn: 1
+sabe--nnp: 1
+sixteen--nn: 1
+nutter--nnp: 1
+ask--nnp: 1
+learn--nnp: 1
+murder--nn: 1
+emergency--nn: 1
+anticipation--nn: 1
+true--nnp: 1
+stuart--nnp: 1
+santos- baca--nnp-nnp: 1
+ten--nn: 1
+tiny--jj: 1
+abort--nnp: 1
+lord--nnp: 1
+bring--nnp: 1
+promise--nn: 1
+wake lafflin--nnp-nnp: 1
+vast--nnp: 1
+naomi freehold--nnp-nnp: 1
+verbal--jj: 1
+mark--nnp: 1
+odachi--nnp: 1
+lombard--nnp: 1
+alrighty--nnp: 1
+takes--nnp: 1
+hey--nnp: 1
+administration--nnp: 1
+sucks--nnp: 1
+robust--nnp: 1
+epilogue--nn: 1
+doesn--nnp: 1
+carey--nnp: 1
+chrisjen--nnp: 1
+carry--nnp: 1
+heat--nnp: 1
+rosetta--nnp: 1
+choice--nnp: 1
+gloria--nnp: 1
+sabotage--nn: 1
+name--nnp: 1
+gates--nnp: 1
+neptune--nnp: 1
+mmhmm--nnp: 1
+hadn--nnp: 1
+laconian marine--jj-nnp: 1
+music--nnp: 1
+armageddon--nnp: 1
+evidence--nn: 1
+gathered--nnp: 1
+evacuation--nn: 1
+e lewis----nnp: 1
+a trejo--n-nnp: 1
+kleen--nnp: 1
+imari--nnp: 1
+drummer sleep--nnp-nnp: 1
+service--nnp: 1
+pistol--nnp: 1
+psychosomatic--jj: 1
+trade--nnp: 1
+bist--nnp: 1
+ceres--nns: 1
+loyal--jj: 1
+signal--nnp: 1
+laconian congress--nnp-nnp: 1
+pukers--nns: 1
+again--nn: 1
+cap--nn: 1
+rejection--nn: 1
+singapores--nnp: 1
+normal--nnp: 1
+twenty--nnp: 1
+Total of 1042 unique entities
+===============================================================
+
+

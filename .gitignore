@@ -6,3 +6,12 @@ pip-selfcheck.json
 /the-expanse/
 /*.sublime-project
 /*.sublime-workspace
+../man/
+../MITIE/
+aylien-cache/
+aylien_credentials.txt
+test.png
+output.txt
+mitie-binary-classifiers.txt
+/man/
+/MITIE/
