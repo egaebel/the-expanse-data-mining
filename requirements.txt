@@ -30,7 +30,7 @@ requests==2.18.4
 six==1.11.0
 spacy==2.0.10
 tensorboard==1.6.0
-tensorflow-gpu==1.6.0
+tensorflow-gpu==1.15.2
 termcolor==1.1.0
 thinc==6.10.2
 toolz==0.9.0
